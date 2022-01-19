@@ -1,0 +1,80 @@
+Sup folks!
+ 
+So somebody asked me what learning path they should pursue if they want to embark on a journey of Blue Teaming.
+ 
+So here's a mix of certifications, training and required skillset you'll need to survive in a competitive getting SOC domain and to stay relevant for another 5,6 years.
+ 
+Suggestions are welcomed from folks working in SOC/Blue teams.
+ 
+============================================================================
+-LEGENDS
+Videos included in the training material
+Books included in the training material
+Videos/MP3, Books, Exercises, Labs included in the training material
+ 
+ 
+-- Essential Networking Knowledge
+Network+
+ICND1/ICND2
+-- Essential Security Knowledge
+Security+ or SANS SEC401: Security Essentials
+EC-Council CEH v9
+SANS SEC502: Perimeter Protection In-Depth
+-- Essence of SOC/NSM (L1/2 role)
+SANS SEC511: Continuous Monitoring and Security Operations
+Tao of network security monitoring by Richard Bejtlich
+The practice of network security monitoring by Richard Bejtlich
+Applied Network Security Monitoring by Chris Sanders
+-- Advanced DPI (Deep Packet Inspection) and IR Knowledge for L2/3 roles
+SANS SEC556: Comprehensive Packet Analysis
+SANS SEC503: Intrusion Detection In-Depth
+Practical Packet Analysis by Chris Sanders (Book + Training)
+Investigation Theory: The Mind of an Analyst by Chris Sanders
+GIAC GCFE - SANS FOR408/500
+GIAC GCIH - SANS SEC504 Hacker Techniques, Exploits
+-- DFIR (Digital Forensic & Incident Response) & other specialization Certs/Trainings for L3/SME(Subject Matter Expert) roles
+GIAC GNFA - FOR572: Advanced Network Forensics and Analysis
+GIAC GCFA - FOR508: Advanced Incident Response and Threat Hunting
+SANS SEC550: Active Defense, Offensive Countermeasures, and Cyber Deception
+SANS FOR578: Cyber Threat Intelligence
+-- Vendor Specific Certifications
+Depends upon the SIEM in use by your company/client, the majority would have one of these:
+IBM Qradar
+Splunk
+Arcsight
+LogRythum
+Alienvault
+-- Opensource tools to be wicked good at your shit
+TCPdump
+Wireshark
+Snort/Suricata
+OSSEC/Wazuh
+BRO threat hunting framework (Bro Scripting by Aaron Eppert)
+SILK framework
+Network Miner
+ELK (ELK for Security Analysis by Chris Sanders)
+NMAP/Openvas/Nessus
+Encase
+The Sleuth Kit
+Graylog
+Most of above included in one beautiful distribution called SecurityOnion.
+ 
+-- Essential knowledge for threat hunting in modern enterprise networks
+Powershell: SANS SEC505.1 PowerShell Automation and Security
+Windows WMI
+NMAP
+EDR tools
+Loggly
+Canary Tokens
+-- Scripting/Automation and Security Orchestration
+Bash
+Python
+Ansible/Puppet
+Regular Expressions
+MozDef
+Grr
+-- Non-Technical
+Word, Excel, Google Docs
+OTRS and other major ticketing systems
+Report writing: Effective Information Security Writing by Chris Sanders
+This is a 3-4 year study plan. If done right, no hacker can beat you. *wink*
