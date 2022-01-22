@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Dezactivați serviciul Experiențe utilizator conectat și telemetrie (DiagTrack) și blocați conexiunea pentru Traficul de ieșire al clientului de telemetrie unificată;
+EnableDiagTrackService; Activați serviciul Experiențe utilizator conectat și telemetrie (DiagTrack) și permiteți conectarea pentru traficul de ieșire al clientului de telemetrie unificată;
+MinimalDiagnosticDataLevel; Setați colectarea datelor de diagnosticare la minim;
+DefaultDiagnosticDataLevel; Setați colectarea datelor de diagnosticare la implicit;
+DisableErrorReporting; Dezactivați raportarea erorilor Windows;
+EnableErrorReporting; Activați Raportarea erorilor Windows;
+NeverFeedbackFrequency; Schimbați frecvența de feedback la "Niciodată";
+AutomaticallyFeedbackFrequency; Schimbați frecvența de feedback la "Automatic";
+DisableSigninInfo; Nu utilizați informațiile de conectare pentru a finaliza automat configurarea dispozitivului după o actualizare;
+EnableSigninInfo; Utilizați informațiile de conectare pentru a finaliza automat configurarea dispozitivului după o actualizare;
+DisableLanguageListAccess; Nu lăsați site-urile web să-mi arate conținut relevant la nivel local accesând lista mea de limbi;
+EnableLanguageListAccess; Permite site-urilor web să-mi arate conținut relevant la nivel local accesând limba în lista mea;
+DisableAdvertisingID; Nu permiteți aplicațiilor să-mi arate reclame personalizate folosind ID-ul meu de publicitate;
+EnableAdvertisingID; Permiteți aplicațiilor să îmi arate reclame personalizate folosind ID-ul meu de publicitate;
+HideWindowsWelcomeExperience; Ascundeți experiențele de întâmpinare Windows după actualizări și, ocazional, când mă conectez, pentru a evidenția ce este nou și sugerat;
+ShowWindowsWelcomeExperience; Afișează experiențele de bun venit Windows după actualizări și, ocazional, când mă conectez, pentru a evidenția noutățile și sugestiile;
+DisableWindowsTips; Nu primiți sfaturi și sugestii când folosesc Windows;
+EnableWindowsTips; Obțineți sfaturi și sugestii când folosesc Windows;
+HideSettingsSuggestedContent; Ascunde-mi conținutul sugerat în aplicația Setări;
+ShowSettingsSuggestedContent; Afișează-mi conținutul sugerat în aplicația Setări;
+DisableAppsSilentInstalling; Dezactivați instalarea automată a aplicațiilor sugerate;
+EnableAppsSilentInstalling; Activați instalarea automată a aplicațiilor sugerate;
+DisableWhatsNewInWindows; Dezactivează sugestiile despre cum îmi pot configura dispozitivul;
+EnableWhatsNewInWindows; Oferiți sugestii despre cum îmi pot configura dispozitivul;
+DisableTailoredExperiences; Nu lăsați Microsoft să vă folosească datele de diagnosticare pentru sfaturi, reclame și recomandări personalizate;
+EnableTailoredExperiences; Permiteți Microsoft să vă folosească datele de diagnosticare pentru sfaturi, reclame și recomandări personalizate;
+DisableBingSearch; Dezactivați căutarea Bing în meniul Start;
+EnableBingSearch; Activați căutarea Bing în meniul Start
+
+<#uiperson#>
+
+ShowThisPC; Afișați pictograma "Acest PC" pe desktop;
+HideThisPC; Ascunde pictograma "Acest PC" de pe desktop;
+DisableCheckBoxes; Nu utilizați casetele de selectare pentru articole;
+EnableCheckBoxes; Utilizați casetele de selectare a elementului de selectare;
+EnableHiddenItems; Afișează fișierele, folderele și unitățile ascunse;
+DisableHiddenItems; Nu afișați fișiere, foldere și unități ascunse;
+ShowFileExtensions; Afișează extensiile de nume de fișiere;
+HideFileExtensions; Ascundeți extensiile de nume de fișiere;
+ShowMergeConflicts; Afișează conflictele de îmbinare a folderelor;
+HideMergeConflicts; Ascunde conflictele de îmbinare a folderelor;
+ThisPCOpenFileExplorerTo; Deschideți File Explorer la "Acest PC";
+QuickAccessOpenFileExplorerTo; Deschideți File Explorer pentru a accesa rapid;
+HideCortanaButton; Ascunde butonul Cortana din bara de activități;
+ShowCortanaButton; Afișați butonul Cortana pe bara de activități;
+HideOneDriveFileExplorerAd; Nu afișați notificarea furnizorului de sincronizare în File Explorer;
+ShowOneDriveFileExplorerAd; Afișează notificarea furnizorului de sincronizare în File Explorer;
+DisableSnapAssist; Când clasesc o fereastră, nu arăta ce pot prinde lângă ea;
+EnableSnapAssist; Când clasez o fereastră, arătați ce pot prinde lângă ea;
+DetailedFileTransferDialog; Afișați caseta de dialog de transfer de fișiere în modul detaliat;
+CompactFileTransferDialog; Afișați caseta de dialog de transfer de fișiere în modul compact;
+ExpandedFileExplorerRibbon; Extindeți panglica File Explorer;
+MinimizedFileExplorerRibbon; Minimizați panglica File Explorer;
+EnableRecycleBinDeleteConfirmation; Afișează dialogul de confirmare a ștergerii fișierelor de coș de reciclare;
+DisableRecycleBinDeleteConfirmation; Nu afișați dialogul de confirmare a ștergerii fișierelor de coș de reciclare;
+Hide3DObjects; Ascundeți folderul "Obiecte 3D" în "Acest PC" și Acces rapid;
+Show3DObjects; Afișați folderul "Obiecte 3D" în "Acest PC" și Acces rapid;
+HideQuickAccessRecentFiles; Ascunde folderele utilizate frecvent în Acces rapid;
+ShowQuickAccessRecentFiles; Afișează folderele utilizate frecvent în Acces rapid;
+HideTaskViewButton; Ascundeți butonul Vizualizare sarcini de pe bara de activități;
+ShowTaskViewButton; Afișați butonul Vizualizare activități de pe bara de activități;
+HidePeopleTaskbar; Butonul Ascunde persoane din bara de activități;
+ShowPeopleTaskbar; Afișați butonul Persoane din bara de activități;
+ShowSecondsInSystemClock; Afișați secundele pe ceasul barei de activități;
+HideSecondsInSystemClock; Ascundeți secundele pe ceasul barei de activități;
+HideWindowsInkWorkspace; Ascundeți butonul Windows Ink Workspace din bara de activități;
+ShowWindowsInkWorkspace; Afișați butonul Windows Ink Workspace din bara de activități;
+HideMeetNow; Ascunde pictograma Meet Now din zona de notificare;
+ShowMeetNow; Afișați pictograma Meet Now în zona de notificare;
+DisableNewsInterests; Dezactivați "Știri și interese" din bara de activități;
+EnableNewsInterests; Activați "Știri și interese" pe bara de activități;
+DarkWindowsColorMode; Setați modul Windows implicit la întuneric;
+LightWindowsColorMode; Setați modul Windows implicit la lumina;
+DarkAppColorMode; Setați modul implicit al aplicației la întuneric;
+LightAppColorMode; Setați modul implicit al aplicației la lumină;
+HideNewAppInstalledNotification; Ascunde indicatorul "Aplicație nouă instalată";
+ShowNewAppInstalledNotification; Afișați indicatorul "Aplicație nouă instalată";
+DisableFirstLogonAnimation; Dezactivați prima animație de conectare după upgrade;
+EnableFirstLogonAnimation; Activați prima animație de conectare după actualizare;
+MaxJPEGWallpapersQuality; Setați factorul de calitate al imaginilor de fundal JPEG de pe desktop la maxim;
+DefaultJPEGWallpapersQuality; Setați factorul de calitate al imaginilor de fundal JPEG de pe desktop la implicit;
+ExpandedTaskManagerWindow; Porniți Task Manager în modul extins;
+CompactTaskManagerWindow; Porniți Task Manager în modul compact;
+ShowRestartNotification; Anunțați-mă când este necesară o repornire pentru a finaliza actualizarea;
+HideRestartNotification; Nu mă anunța când este necesară o repornire pentru a finaliza actualizarea;
+DisableShortcutsSuffix; Nu adăugați sufixul "- Shortcut" la numele fișierului comenzilor rapide create;
+EnableShortcutsSuffix; Adăugați sufixul "- Shortcut" la numele fișierului comenzilor rapide create;
+EnablePrtScnSnippingTool; Folosiți butonul Imprimare ecran pentru a deschide decuparea ecranului;
+DisablePrtScnSnippingTool; Nu utilizați butonul Print screen pentru a deschide ecranul de decupare;
+DisableAppsLanguageSwitch; Nu utilizați o metodă de introducere diferită pentru fiecare fereastră de aplicație;
+EnableAppsLanguageSwitch; Permiteți-mi să folosesc o metodă de introducere diferită pentru fiecare fereastră de aplicație;
+DisableAeroShaking; Când apuc bara de titlu a unei ferestre și o scutur, nu minimizați toate celelalte ferestre;
+EnableAeroShaking; Când iau bara de titlu a unei ferestre și o agit, minimizez toate celelalte ferestre
+
+<#onedrive#>
+
+UninstallOneDrive; Dezinstalați OneDrive;
+InstallOneDrive; Instalați OneDrive
+
+<#system#>
+
+EnableStorageSense; Activați Storage Sense;
+DisableStorageSense; Dezactivați Storage Sense;
+EnableStorageSenseTempFiles; Activați curățarea automată a fișierelor temporare ale sistemului și aplicației;
+DisableStorageSenseTempFiles; Dezactivați curățarea automată a fișierelor temporare ale sistemului și aplicației;
+MonthStorageSenseFrequency; Rulați Storage Sense în fiecare lună;
+DefaultStorageSenseFrequency; Rulați Storage Sense când spațiul liber pe disc este redus;
+DisableHibernation; Dezactivați hibernarea;
+EnableHibernation; Activați hibernarea;
+DisableWin32LongPathLimit; Dezactivați limita de cale de caractere Windows 260;
+EnableWin32LongPathLimit; Activați limita de cale de caractere Windows 260;
+EnableBSoDStopError; Afișați informațiile de eroare Stop pe BSoD;
+DisableBSoDStopError; Nu afișați informațiile de eroare Stop pe BSoD;
+NeverAdminApprovalMode; Nu notifica niciodată când aplicațiile încearcă să facă modificări pe computerul meu;
+DefaultAdminApprovalMode; Notifică-mă numai când aplicațiile încearcă să facă modificări pe computerul meu;
+EnableMappedDrivesAppElevatedAccess; Activați accesul la unitățile mapate din aplicația care rulează cu permisiuni ridicate cu modul de aprobare de administrator activat;
+DisableMappedDrivesAppElevatedAccess; Dezactivați accesul la unitățile mapate din aplicația care rulează cu permisiuni ridicate cu modul de aprobare de administrator activat;
+DisableDeliveryOptimization; Dezactivați Optimizarea livrării;
+EnableDeliveryOptimization; Activați Optimizarea livrării;
+EnableWaitNetworkStartup; Așteptați întotdeauna rețeaua la pornirea computerului și autentificarea pentru rețelele de grup de lucru;
+DisableWaitNetworkStartup; Nu așteptați niciodată rețeaua la pornirea computerului și autentificarea pentru rețelele de grup de lucru;
+DisableWindowsManageDefaultPrinter; Nu lăsați Windows să gestioneze imprimanta mea implicită;
+EnableWindowsManageDefaultPrinter; Lasă Windows să gestioneze imprimanta mea implicită;
+EnableUpdateMicrosoftProducts; Primiți actualizări pentru alte produse Microsoft;
+DisableUpdateMicrosoftProducts; Nu primiți actualizări pentru alte produse Microsoft;
+HighPowerPlan; Setați planul de alimentare pe "Performanță ridicată";
+BalancedPowerPlan; Setați planul de alimentare pe "Echilibrat";
+EnableLatestInstalledNET; Utilizați cel mai recent runtime .NET instalat pentru toate aplicațiile;
+DisableLatestInstalledNET; Nu utilizați cel mai recent runtime .NET instalat pentru toate aplicațiile;
+DisableNetworkAdaptersSavePower; Nu permiteți computerului să oprească adaptoarele de rețea pentru a economisi energie;
+EnableNetworkAdaptersSavePower; Permiteți computerului să oprească adaptoarele de rețea pentru a economisi energie;
+EnglishInputMethod; Suprascriere pentru metoda de introducere implicită: engleză;
+DefaultInputMethod; Suprascriere pentru metoda de introducere implicită: utilizați lista de limbi;
+DesktopWinPrtScrFolder; Salvați capturi de ecran apăsând Win+PrtScr pe desktop;
+DefaultWinPrtScrFolder; Salvați capturi de ecran apăsând Win+PrtScr în folderul Imagini;
+AutomaticallyRecommendedTroubleshooting; Rulați automat depanatorul, apoi anunțați-mă;
+DefaultRecommendedTroubleshooting; Întrebați-mă înainte de a rula instrumentul de depanare;
+EnableFoldersLaunchSeparateProcess; Lansați folderul ferestre într-un proces separat;
+DisableFoldersLaunchSeparateProcess; Nu lansați Windows folder într-un proces separat;
+DisableReservedStorage; Dezactivați și ștergeți spațiul de stocare rezervat după următoarea instalare a actualizării;
+EnableReservedStorage; Activați spațiul de stocare rezervat după următoarea instalare a actualizării;
+DisableF1HelpPage; Dezactivați căutarea de ajutor prin F1;
+EnableF1HelpPage; Activați căutarea ajutorului prin F1;
+EnableNumLock; Activați Num Lock la pornire;
+DisableNumLock; Dezactivați Num Lock la pornire;
+DisableCapsLock; Dezactivați Caps Lock;
+EnableCapsLock; Activați Caps Lock;
+DisableStickyShift; Opriți apăsarea tastei Shift de 5 ori pentru a roti tastele Sticky;
+EnableStickyShift; Activați apăsarea tastei Shift de 5 ori pentru a roti tastele Sticky;
+DisableAutoplay; Nu utilizați AutoPlay pentru toate mediile și dispozitivele;
+EnableAutoplay; Utilizați Redarea automată pentru toate mediile și dispozitivele;
+DisableThumbnailCacheRemoval; Dezactivați eliminarea cache a miniaturilor;
+EnableThumbnailCacheRemoval; Activați eliminarea cache a miniaturilor;
+EnableSaveRestartableApps; Salvarea automată a aplicațiilor mele repornabile și repornirea lor când mă conectez din nou;
+DisableSaveRestartableApps; Dezactivați salvarea automată a aplicațiilor mele repornabile și reporniți-le când mă conectez din nou;
+EnableNetworkDiscovery; Activați "Descoperirea rețelei" și "Partajarea fișierelor și imprimantelor" pentru rețelele de grup de lucru;
+DisableNetworkDiscovery; Dezactivați "Descoperirea rețelei" și "Partajarea fișierelor și imprimantelor" pentru rețelele de grup de lucru;
+AutomaticallyActiveHours; Ajustați automat orele de activitate pentru mine în funcție de utilizarea zilnică;
+ManuallyActiveHours; Ajustați manual orele de activitate pentru mine în funcție de utilizarea zilnică;
+EnableDeviceRestartAfterUpdate; Reporniți cât mai curând posibil pentru a finaliza actualizarea;
+DisableDeviceRestartAfterUpdate; Nu reporniți cât mai curând posibil pentru a finaliza actualizarea
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Ascundeți aplicațiile adăugate recent în meniul Start;
+ShowRecentlyAddedApps; Afișați aplicațiile adăugate recent în meniul Start;
+HideAppSuggestions; Ascundeți sugestiile de aplicații în meniul Start;
+ShowAppSuggestions; Afișați sugestii de aplicații în meniul Start;
+ElevatedRunPowerShellShortcut; Rulați comanda rapidă Windows PowerShell din meniul Start ca administrator;
+NonElevatedRunPowerShellShortcut; Rulați comanda rapidă Windows PowerShell din meniul Start ca utilizator
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Dezactivați pornirea automată Cortana;
+EnableCortanaAutostart; Activați pornirea automată Cortana;
+DisableBackgroundUWPApps; Nu lăsați aplicațiile UWP să ruleze în fundal;
+EnableBackgroundUWPApps; Lăsați toate aplicațiile UWP să ruleze în fundal
+
+<#gaming#>
+
+DisableXboxGameBar; Dezactivați bara de jocuri Xbox;
+EnableXboxGameBar; Activați bara de jocuri Xbox;
+DisableXboxGameTips; Dezactivați sfaturile Xbox Game Bar;
+EnableXboxGameTips; Activați sfaturile Xbox Game Bar;
+EnableGPUScheduling; Activați programarea GPU accelerată de hardware;
+DisableGPUScheduling; Dezactivați programarea GPU accelerată de hardware
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Activați protecția rețelei Microsoft Defender Exploit Guard;
+DisableNetworkProtection; Dezactivați protecția rețelei Microsoft Defender Exploit Guard;
+EnablePUAppsDetection; Activați detectarea aplicațiilor potențial nedorite și blocați-le;
+DisablePUAppsDetection; Dezactivați detectarea aplicațiilor potențial nedorite și blocați-le;
+EnableDefenderSandbox; Activați sandboxing pentru Microsoft Defender;
+DisableDefenderSandbox; Dezactivați sandboxing pentru Microsoft Defender;
+EnableAuditProcess; Activați auditarea evenimentelor generate atunci când un proces este creat (pornește);
+DisableAuditProcess; Dezactivați auditarea evenimentelor generate atunci când un proces este creat (pornește);
+EnableCommandLineProcessAudit; Includeți linia de comandă în evenimentele de creare a procesului;
+DisableCommandLineProcessAudit; Nu includeți linia de comandă în evenimentele de creare a procesului;
+EnableEventViewerCustomView; Creați Vizualizatorul de evenimente "Crearea procesului" - vizualizare uzuală pentru a înregistra procesele executate și argumentele acestora;
+DisableEventViewerCustomView; Eliminați vizualizarea personalizată a Vizualizatorului de evenimente "Crearea procesului";
+EnablePowerShellModulesLogging; Activați înregistrarea în jurnal pentru toate modulele Windows PowerShell;
+DisablePowerShellModulesLogging; Dezactivați înregistrarea în jurnal pentru toate modulele Windows PowerShell;
+EnablePowerShellScriptsLogging; Activați înregistrarea pentru toate scripturile PowerShell introduse în jurnalul de evenimente Windows PowerShell;
+DisablePowerShellScriptsLogging; Dezactivați înregistrarea în jurnal pentru toate scripturile PowerShell introduse în jurnalul de evenimente Windows PowerShell;
+DisableAppsSmartScreen; Dezactivați verificarea aplicațiilor și a fișierelor în Microsoft Defender SmartScreen;
+EnableAppsSmartScreen; Activați verificarea aplicațiilor și a fișierelor în Microsoft Defender SmartScreen;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen nu marchează fișierele descărcate de pe Internet ca fiind nesigure;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen marchează fișierele descărcate de pe Internet ca fiind nesigure;
+DisableWindowsScriptHost; Dezactivați Windows Script Host;
+EnableWindowsScriptHost; Activați Windows Script Host;
+DisableWindowsSandbox; Dezactivează Windows Sandbox;
+EnableWindowsSandbox; Activați Windows Sandbox
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Afișați elementul "Extract all" în meniul contextual Windows Installer (.msi);
+HideMSIExtractContext; Ascundeți elementul "Extract all" din meniul contextual Windows Installer (.msi);
+ShowCABInstallContext; Afișați elementul "Instalare" în meniul contextual al extensiilor de nume de fișiere Cabinet (.cab);
+HideCABInstallContext; Ascundeți elementul "Instalare" din meniul contextual al extensiilor de nume de fișiere Cabinet (.cab);
+ShowRunAsDifferentUserContext; Afișați elementul "Run ca utilizator diferit" în meniul contextual al extensiilor de nume de fișier .exe;
+HideRunAsDifferentUserContext; Ascundeți elementul "Run ca utilizator diferit" din meniul contextual al extensiilor de nume de fișier .exe;
+HideCastToDeviceContext; Ascundeți elementul "Cast to Device" din meniul contextual fișierelor media și folderelor;
+ShowCastToDeviceContext; Afișați elementul "Cast to Device" în meniul contextual fișierelor media și folderelor;
+HideShareContext; Ascundeți elementul "Partajare" din meniul contextual;
+ShowShareContext; Afișați elementul "Partajare" în meniul contextual;
+HideEditWithPaint3DContext; Ascundeți elementul "Editare cu Paint 3D" din meniul contextual al fișierelor media;
+ShowEditWithPaint3DContext; Afișați elementul "Editare cu Paint 3D" în meniul contextual al fișierelor media;
+HideEditWithPhotosContext; Ascundeți elementul "Editați cu fotografii" din meniul contextual al fișierelor media;
+ShowEditWithPhotosContext; Afișați elementul "Editați cu fotografii" în meniul contextual al fișierelor media;
+HideCreateANewVideoContext; Ascundeți elementul "Creați un nou videoclip" din meniul contextual al fișierelor media;
+ShowCreateANewVideoContext; Afișați elementul "Creați un videoclip nou" în meniul contextual al fișierelor media;
+HideImagesEditContext; Ascundeți elementul "Creați un nou videoclip" din meniul contextual al fișierelor media;
+ShowImagesEditContext; Afișați elementul "Creați un videoclip nou" în meniul contextual al fișierelor media;
+HidePrintCMDContext; Ascundeți elementul "Print" din meniul contextual .bat și .cmd;
+ShowPrintCMDContext; Afișați elementul "Imprimare" în meniul contextual .bat și .cmd;
+HideIncludeInLibraryContext; Ascundeți elementul "Include în bibliotecă" din meniul contextual foldere și unități;
+ShowIncludeInLibraryContext; Afișați elementul "Include în bibliotecă" în meniul contextual foldere și unități;
+HideSendToContext; Ascundeți elementul "Trimite către" din meniul contextual al folderelor;
+ShowSendToContext; Afișați elementul "Trimite către" în meniul contextual al folderelor;
+HideBitLockerContext; Ascundeți elementul "Activați BitLocker" din meniul contextual unităților;
+ShowBitLockerContext; Afișați elementul "Activați BitLocker" în meniul contextual unităților;
+HideBitmapImageNewContext; Ascundeți elementul "Imagine bitmap" din meniul contextual "Nou";
+ShowBitmapImageNewContext; Afișați elementul "Imagine bitmap" în meniul contextual "Nou";
+HideRichTextDocumentNewContext; Ascundeți elementul "Document cu text îmbogățit" din meniul contextual "Nou";
+ShowRichTextDocumentNewContext; Afișați elementul "Document cu text îmbogățit" în meniul contextual "Nou";
+HideCompressedFolderNewContext; Ascundeți elementul "Dosar comprimat (zip)" din meniul contextual "Nou";
+ShowCompressedFolderNewContext; Afișați elementul "Dosar comprimat (zip)" în meniul contextual "Nou";
+EnableMultipleInvokeContext; Activați elementele "Deschidere", "Imprimare" și "Editare" dacă sunt selectate mai mult de 15 fișiere;
+DisableMultipleInvokeContext; Dezactivați elementele "Deschidere", "Imprimare" și "Editare" dacă sunt selectate mai mult de 15 fișiere;
+HideUseStoreOpenWith; Ascundeți elementul "Căutați o aplicație în Microsoft Store" din caseta de dialog "Deschide cu";
+ShowUseStoreOpenWith; Afișați elementul "Căutați o aplicație în Microsoft Store" în caseta de dialog "Deschide cu".
+
+<#other#>
+
+HideTaskbarSearch; Ascundeți căutarea în bara de activități;
+SearchIconTaskbarSearch; Afișați pictograma de căutare în bara de activități;
+SearchBoxTaskbarSearch; Afișați caseta de căutare în bara de activități;
+AlwaysCombineHideLabelsTaskbar; Bara de activități Combinați întotdeauna, ascundeți etichetele;
+CombineWhenFullTaskbar; Bara de activități Combinați când bara de activități este plină;
+NeverCombineTaskbar; Bara de activități Nu combinați niciodată;
+CategoryControlPanelView; Vizualizați pictogramele Panoului de control în funcție de categorie;
+LargeIconsControlPanelView; Vizualizați pictogramele Panoului de control după pictogramele mari;
+SmallIconsControlPanelView; Vizualizați pictogramele Panoului de control după pictogramele mici
+
+<#end#>

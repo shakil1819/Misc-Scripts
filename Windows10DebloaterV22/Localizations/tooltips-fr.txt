@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Désactivez le service Connected User Experiences and Telemetry (DiagTrack) et bloquez la connexion pour le trafic sortant du client de télémétrie unifiée ;
+EnableDiagTrackService; Activer le service Expériences utilisateur connectées et télémétrie (DiagTrack) et autoriser la connexion pour le trafic sortant du client de télémétrie unifiée ;
+MinimalDiagnosticDataLevel; Réglez la collecte de données de diagnostic au minimum ;
+DefaultDiagnosticDataLevel; Définissez la collecte de données de diagnostic par défaut ;
+DisableErrorReporting; Désactivez le rapport d'erreurs Windows ;
+EnableErrorReporting; Activez le rapport d'erreurs Windows ;
+NeverFeedbackFrequency; Changez la fréquence de rétroaction sur « Jamais » ;
+AutomaticallyFeedbackFrequency; Changez la fréquence de retour en « Automatiquement » ;
+DisableSigninInfo; N'utilisez pas les informations de connexion pour terminer automatiquement la configuration de l'appareil après une mise à jour ;
+EnableSigninInfo; Utilisez les informations de connexion pour terminer automatiquement la configuration de l'appareil après une mise à jour ;
+DisableLanguageListAccess; Ne laissez pas les sites Web me montrer du contenu pertinent localement en accédant à ma liste de langues ;
+EnableLanguageListAccess; Laissez les sites Web me montrer du contenu pertinent localement en accédant à la langue de ma liste ;
+DisableAdvertisingID; Ne laissez pas les applications me montrer des publicités personnalisées en utilisant mon identifiant publicitaire ;
+EnableAdvertisingID; Autoriser les applications à me montrer des publicités personnalisées en utilisant mon identifiant publicitaire ;
+HideWindowsWelcomeExperience; Masquer les expériences de bienvenue Windows après les mises à jour et occasionnellement lorsque je me connecte pour mettre en évidence les nouveautés et les suggestions ;
+ShowWindowsWelcomeExperience; Afficher les expériences de bienvenue Windows après les mises à jour et occasionnellement lorsque je me connecte pour mettre en évidence les nouveautés et les suggestions ;
+DisableWindowsTips; Ne recevez pas de conseils et de suggestions lorsque j'utilise Windows ;
+EnableWindowsTips; Obtenez des conseils et des suggestions lorsque j'utilise Windows ;
+HideSettingsSuggestedContent; Cachez-moi le contenu suggéré dans l'application Paramètres ;
+ShowSettingsSuggestedContent; Montrez-moi le contenu suggéré dans l'application Paramètres ;
+DisableAppsSilentInstalling; Désactivez l'installation automatique des applications suggérées ;
+EnableAppsSilentInstalling; Activez l'installation automatique des applications suggérées ;
+DisableWhatsNewInWindows; Désactiver les suggestions sur la façon dont je peux configurer mon appareil ;
+EnableWhatsNewInWindows; Proposer des suggestions sur la façon dont je peux configurer mon appareil ;
+DisableTailoredExperiences; Ne laissez pas Microsoft utiliser vos données de diagnostic pour des conseils, des publicités et des recommandations personnalisés;
+EnableTailoredExperiences; Laissez Microsoft utiliser vos données de diagnostic pour des conseils, des publicités et des recommandations personnalisés;
+DisableBingSearch; Désactivez la recherche Bing dans le menu Démarrer ;
+EnableBingSearch; Activez la recherche Bing dans le menu Démarrer
+
+<#uiperson#>
+
+ShowThisPC; Affichez l'icône « Ce PC » sur le bureau ;
+HideThisPC; Masquez l'icône « Ce PC » sur le bureau ;
+DisableCheckBoxes; N'utilisez pas les cases à cocher des éléments ;
+EnableCheckBoxes; Utiliser les cases à cocher des éléments de contrôle ;
+EnableHiddenItems; Afficher les fichiers, dossiers et lecteurs cachés ;
+DisableHiddenItems; Ne pas afficher les fichiers, dossiers et lecteurs cachés ;
+ShowFileExtensions; Afficher les extensions de nom de fichier ;
+HideFileExtensions; Masquer les extensions de nom de fichier ;
+ShowMergeConflicts; Afficher les conflits de fusion de dossiers ;
+HideMergeConflicts; Masquer les conflits de fusion de dossiers ;
+ThisPCOpenFileExplorerTo; Ouvrez l'explorateur de fichiers sur "Ce PC" ;
+QuickAccessOpenFileExplorerTo; Ouvrez l'explorateur de fichiers pour accéder rapidement ;
+HideCortanaButton; Masquer le bouton Cortana dans la barre des tâches ;
+ShowCortanaButton; Afficher le bouton Cortana dans la barre des tâches ;
+HideOneDriveFileExplorerAd; Ne pas afficher la notification du fournisseur de synchronisation dans l'explorateur de fichiers ;
+ShowOneDriveFileExplorerAd; Afficher la notification du fournisseur de synchronisation dans l'explorateur de fichiers ;
+DisableSnapAssist; Lorsque j'accroche une fenêtre, n'affiche pas ce que je peux accrocher à côté ;
+EnableSnapAssist; Lorsque je capture une fenêtre, montrez ce que je peux capturer à côté d'elle ;
+DetailedFileTransferDialog; Afficher la boîte de dialogue de transfert de fichiers en mode détaillé ;
+CompactFileTransferDialog; Afficher la boîte de dialogue de transfert de fichiers en mode compact ;
+ExpandedFileExplorerRibbon; Développez le ruban de l'explorateur de fichiers ;
+MinimizedFileExplorerRibbon; Réduisez le ruban de l'explorateur de fichiers ;
+EnableRecycleBinDeleteConfirmation; Afficher la boîte de dialogue de confirmation de suppression des fichiers de la corbeille ;
+DisableRecycleBinDeleteConfirmation; N'affiche pas la boîte de dialogue de confirmation de suppression des fichiers de la corbeille ;
+Hide3DObjects; Cachez le dossier « Objets 3D » dans « Ce PC » et Accès rapide ;
+Show3DObjects; Afficher le dossier « Objets 3D » dans « Ce PC » et Accès rapide ;
+HideQuickAccessRecentFiles; Masquer les dossiers fréquemment utilisés dans Accès rapide ;
+ShowQuickAccessRecentFiles; Afficher les dossiers fréquemment utilisés dans Accès rapide ;
+HideTaskViewButton; Masquez le bouton Vue des tâches dans la barre des tâches ;
+ShowTaskViewButton; Affichez le bouton Vue des tâches dans la barre des tâches ;
+HidePeopleTaskbar; Bouton Masquer les personnes dans la barre des tâches ;
+ShowPeopleTaskbar; Afficher le bouton Personnes dans la barre des tâches ;
+ShowSecondsInSystemClock; Afficher les secondes sur l'horloge de la barre des tâches ;
+HideSecondsInSystemClock; Masquer les secondes sur l'horloge de la barre des tâches ;
+HideWindowsInkWorkspace; Masquez le bouton Espace de travail Windows Ink dans la barre des tâches ;
+ShowWindowsInkWorkspace; Affichez le bouton Espace de travail Windows Ink dans la barre des tâches ;
+HideMeetNow; Masquez l'icône Meet Now dans la zone de notification ;
+ShowMeetNow; Affichez l'icône Se rencontrer maintenant dans la zone de notification ;
+DisableNewsInterests; Désactivez « Actualités et centres d'intérêt » dans la barre des tâches ;
+EnableNewsInterests; Activez « Actualités et centres d'intérêt » dans la barre des tâches ;
+DarkWindowsColorMode; Définissez le mode Windows par défaut sur sombre ;
+LightWindowsColorMode; Définissez le mode Windows par défaut sur Light ;
+DarkAppColorMode; Définissez le mode d'application par défaut sur sombre ;
+LightAppColorMode; Définissez le mode d'application par défaut sur Light ;
+HideNewAppInstalledNotification; Masquez l'indicateur "Nouvelle application installée" ;
+ShowNewAppInstalledNotification; Afficher l'indicateur « Nouvelle application installée » ;
+DisableFirstLogonAnimation; Désactivez la première animation de connexion après la mise à niveau ;
+EnableFirstLogonAnimation; Activez la première animation de connexion après la mise à niveau ;
+MaxJPEGWallpapersQuality; Réglez le facteur de qualité des fonds d'écran JPEG au maximum ;
+DefaultJPEGWallpapersQuality; Définissez le facteur de qualité des fonds d'écran JPEG par défaut ;
+ExpandedTaskManagerWindow; Démarrez le Gestionnaire des tâches en mode étendu ;
+CompactTaskManagerWindow; Démarrez le Gestionnaire des tâches en mode compact ;
+ShowRestartNotification; M'avertir lorsqu'un redémarrage est requis pour terminer la mise à jour ;
+HideRestartNotification; Ne pas m'avertir lorsqu'un redémarrage est requis pour terminer la mise à jour ;
+DisableShortcutsSuffix; N'ajoutez pas le suffixe « - Raccourci » au nom de fichier des raccourcis créés ;
+EnableShortcutsSuffix; Ajoutez le suffixe « - Raccourci » au nom de fichier des raccourcis créés ;
+EnablePrtScnSnippingTool; Utilisez le bouton Imprimer l'écran pour ouvrir la capture d'écran ;
+DisablePrtScnSnippingTool; N'utilisez pas le bouton Imprimer l'écran pour ouvrir la capture d'écran ;
+DisableAppsLanguageSwitch; N'utilisez pas une méthode de saisie différente pour chaque fenêtre d'application ;
+EnableAppsLanguageSwitch; Permettez-moi d'utiliser une méthode de saisie différente pour chaque fenêtre d'application ;
+DisableAeroShaking; Lorsque je saisis la barre de titre d'une fenêtre et que je la secoue, ne réduisez pas toutes les autres fenêtres ;
+EnableAeroShaking; Lorsque je saisis la barre de titre d'une fenêtre et la secoue, réduisez toutes les autres fenêtres
+
+<#onedrive#>
+
+UninstallOneDrive; Désinstallez OneDrive ;
+InstallOneDrive; Installer OneDrive
+
+<#system#>
+
+EnableStorageSense; Activez Storage Sense ;
+DisableStorageSense; Désactivez Storage Sense ;
+EnableStorageSenseTempFiles; Activez le nettoyage automatique des fichiers système et d'application temporaires ;
+DisableStorageSenseTempFiles; Désactivez le nettoyage automatique des fichiers temporaires du système et des applications ;
+MonthStorageSenseFrequency; Exécutez Storage Sense tous les mois ;
+DefaultStorageSenseFrequency; Exécutez Storage Sense lorsque l'espace disque disponible est faible ;
+DisableHibernation; Désactiver l'hibernation ;
+EnableHibernation; Activer l'hibernation ;
+DisableWin32LongPathLimit; Désactivez la limite de chemin de caractères Windows 260 ;
+EnableWin32LongPathLimit; Activez la limite de chemin de caractères Windows 260 ;
+EnableBSoDStopError; Afficher les informations d'erreur d'arrêt sur le BSoD ;
+DisableBSoDStopError; Ne pas afficher les informations d'erreur d'arrêt sur le BSoD ;
+NeverAdminApprovalMode; Ne jamais avertir lorsque des applications tentent d'apporter des modifications à mon ordinateur ;
+DefaultAdminApprovalMode; M'avertir uniquement lorsque des applications tentent d'apporter des modifications à mon ordinateur ;
+EnableMappedDrivesAppElevatedAccess; Activez l'accès aux lecteurs mappés à partir de l'application exécutée avec des autorisations élevées avec le mode d'approbation administrateur activé ;
+DisableMappedDrivesAppElevatedAccess; Désactivez l'accès aux lecteurs mappés à partir de l'application exécutée avec des autorisations élevées avec le mode d'approbation administrateur activé ;
+DisableDeliveryOptimization; Désactivez l'optimisation de la diffusion ;
+EnableDeliveryOptimization; Activez l'optimisation de la diffusion ;
+EnableWaitNetworkStartup; Attendez toujours le réseau au démarrage de l'ordinateur et à l'ouverture de session pour les réseaux de groupe de travail ;
+DisableWaitNetworkStartup; N'attendez jamais le réseau au démarrage de l'ordinateur et à l'ouverture de session pour les réseaux de groupe de travail ;
+DisableWindowsManageDefaultPrinter; Ne laissez pas Windows gérer mon imprimante par défaut ;
+EnableWindowsManageDefaultPrinter; Laissez Windows gérer mon imprimante par défaut ;
+EnableUpdateMicrosoftProducts; Recevoir des mises à jour pour d'autres produits Microsoft ;
+DisableUpdateMicrosoftProducts; Ne pas recevoir de mises à jour pour d'autres produits Microsoft ;
+HighPowerPlan; Réglez le plan d'alimentation sur « Haute performance » ;
+BalancedPowerPlan; Réglez le plan d'alimentation sur « Équilibré » ;
+EnableLatestInstalledNET; Utilisez le dernier runtime .NET installé pour toutes les applications ;
+DisableLatestInstalledNET; N'utilisez pas le dernier runtime .NET installé pour toutes les applications ;
+DisableNetworkAdaptersSavePower; Ne laissez pas l'ordinateur éteindre les adaptateurs réseau pour économiser de l'énergie ;
+EnableNetworkAdaptersSavePower; Autorisez l'ordinateur à désactiver les adaptateurs réseau pour économiser de l'énergie ;
+EnglishInputMethod; Remplacer la méthode de saisie par défaut : anglais ;
+DefaultInputMethod; Remplacer la méthode de saisie par défaut : utiliser la liste des langues ;
+DesktopWinPrtScrFolder; Enregistrez les captures d'écran en appuyant sur Win+PrtScr sur le bureau ;
+DefaultWinPrtScrFolder; Enregistrez les captures d'écran en appuyant sur Win+PrtScr dans le dossier Images ;
+AutomaticallyRecommendedTroubleshooting; Exécutez automatiquement l'utilitaire de résolution des problèmes, puis notifiez-moi ;
+DefaultRecommendedTroubleshooting; Demandez-moi avant d'exécuter l'utilitaire de résolution des problèmes ;
+EnableFoldersLaunchSeparateProcess; Lancez les fenêtres de dossier dans un processus séparé ;
+DisableFoldersLaunchSeparateProcess; Ne lancez pas les fenêtres de dossiers dans un processus séparé ;
+DisableReservedStorage; Désactivez et supprimez le stockage réservé après la prochaine installation de mise à jour ;
+EnableReservedStorage; Activez le stockage réservé après la prochaine installation de mise à jour ;
+DisableF1HelpPage; Désactiver la recherche d'aide via F1 ;
+EnableF1HelpPage; Activer la recherche d'aide via F1 ;
+EnableNumLock; Activer le verrouillage numérique au démarrage ;
+DisableNumLock; Désactivez le verrouillage numérique au démarrage ;
+DisableCapsLock; Désactiver le verrouillage des majuscules ;
+EnableCapsLock; Permettent le verrouillage des majuscules;
+DisableStickyShift; Désactivez la touche Shift 5 fois pour activer les touches Sticky ;
+EnableStickyShift; Allumez en appuyant 5 fois sur la touche Shift pour activer les touches Sticky ;
+DisableAutoplay; N'utilisez pas la lecture automatique pour tous les médias et appareils ;
+EnableAutoplay; Utilisez la lecture automatique pour tous les médias et appareils ;
+DisableThumbnailCacheRemoval; Désactiver la suppression du cache des vignettes ;
+EnableThumbnailCacheRemoval; Activer la suppression du cache des vignettes ;
+EnableSaveRestartableApps; Enregistrer automatiquement mes applications redémarrables et les redémarrer lorsque je me reconnecte ;
+DisableSaveRestartableApps; Désactiver l'enregistrement automatique de mes applications redémarrables et les redémarrer lorsque je me reconnecte ;
+EnableNetworkDiscovery; Activez « Découverte du réseau » et « Partage de fichiers et d'imprimantes » pour les réseaux de groupe de travail ;
+DisableNetworkDiscovery; Désactivez « Découverte du réseau » et « Partage de fichiers et d'imprimantes » pour les réseaux de groupe de travail ;
+AutomaticallyActiveHours; Ajustez automatiquement les heures actives pour moi en fonction de l'utilisation quotidienne ;
+ManuallyActiveHours; Ajustez manuellement les heures actives pour moi en fonction de l'utilisation quotidienne ;
+EnableDeviceRestartAfterUpdate; Redémarrez dès que possible pour terminer la mise à jour ;
+DisableDeviceRestartAfterUpdate; Ne redémarrez pas dès que possible pour terminer la mise à jour
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Masquer les applications récemment ajoutées dans le menu Démarrer ;
+ShowRecentlyAddedApps; Afficher les applications récemment ajoutées dans le menu Démarrer ;
+HideAppSuggestions; Masquer les suggestions d'applications dans le menu Démarrer ;
+ShowAppSuggestions; Afficher les suggestions d'applications dans le menu Démarrer ;
+ElevatedRunPowerShellShortcut; Exécutez le raccourci Windows PowerShell à partir du menu Démarrer en tant qu'administrateur ;
+NonElevatedRunPowerShellShortcut; Exécutez le raccourci Windows PowerShell à partir du menu Démarrer en tant qu'utilisateur
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Désactivez le démarrage automatique de Cortana ;
+EnableCortanaAutostart; Activer le démarrage automatique de Cortana ;
+DisableBackgroundUWPApps; Ne laissez pas les applications UWP s'exécuter en arrière-plan ;
+EnableBackgroundUWPApps; Laissez toutes les applications UWP s'exécuter en arrière-plan
+
+<#gaming#>
+
+DisableXboxGameBar; Désactivez la barre de jeu Xbox ;
+EnableXboxGameBar; Activer la barre de jeu Xbox ;
+DisableXboxGameTips; Désactivez les astuces de la barre de jeu Xbox ;
+EnableXboxGameTips; Activer les astuces de la barre de jeu Xbox ;
+EnableGPUScheduling; Activer la planification GPU à accélération matérielle ;
+DisableGPUScheduling; Désactiver la planification GPU à accélération matérielle
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Activer la protection du réseau Microsoft Defender Exploit Guard ;
+DisableNetworkProtection; Désactivez la protection réseau de Microsoft Defender Exploit Guard ;
+EnablePUAppsDetection; Activer la détection des applications potentiellement indésirables et les bloquer ;
+DisablePUAppsDetection; Désactivez la détection des applications potentiellement indésirables et bloquez-les ;
+EnableDefenderSandbox; Activer le sandboxing pour Microsoft Defender ;
+DisableDefenderSandbox; Désactiver le bac à sable pour Microsoft Defender ;
+EnableAuditProcess; Activer l'audit des événements générés lorsqu'un processus est créé (démarre) ;
+DisableAuditProcess; Désactiver l'audit des événements générés lorsqu'un processus est créé (démarre) ;
+EnableCommandLineProcessAudit; Inclure la ligne de commande dans les événements de création de processus ;
+DisableCommandLineProcessAudit; N'incluez pas de ligne de commande dans les événements de création de processus ;
+EnableEventViewerCustomView; Créez l'Observateur d'événements "Création de processus" Ñ?? vue personnalisée pour enregistrer les processus exécutés et leurs arguments ;
+DisableEventViewerCustomView; Supprimez la vue personnalisée de l'Observateur d'événements « Création du processus » ;
+EnablePowerShellModulesLogging; Activer la journalisation pour tous les modules Windows PowerShell ;
+DisablePowerShellModulesLogging; Désactiver la journalisation pour tous les modules Windows PowerShell ;
+EnablePowerShellScriptsLogging; Activez la journalisation pour tous les scripts PowerShell entrés dans le journal des événements Windows PowerShell ;
+DisablePowerShellScriptsLogging; Désactivez la journalisation pour tous les scripts PowerShell entrés dans le journal des événements Windows PowerShell ;
+DisableAppsSmartScreen; Désactivez la vérification des applications et des fichiers dans Microsoft Defender SmartScreen ;
+EnableAppsSmartScreen; Activez la vérification des applications et des fichiers dans Microsoft Defender SmartScreen ;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen ne marque pas les fichiers téléchargés sur Internet comme dangereux ;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen marque les fichiers téléchargés sur Internet comme dangereux ;
+DisableWindowsScriptHost; Désactivez l'hôte de script Windows ;
+EnableWindowsScriptHost; Activer l'hôte de script Windows ;
+DisableWindowsSandbox; Désactiver le bac à sable Windows ;
+EnableWindowsSandbox; Activer le bac à sable Windows
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Affichez l'élément "Extraire tout" dans le menu contextuel de Windows Installer (.msi) ;
+HideMSIExtractContext; Masquez l'élément "Extraire tout" du menu contextuel de Windows Installer (.msi) ;
+ShowCABInstallContext; Affichez l'élément "Installer" dans le menu contextuel des extensions de noms de fichiers Cabinet (.cab);
+HideCABInstallContext; Masquez l'élément "Installer" dans le menu contextuel des extensions de noms de fichiers Cabinet (.cab) ;
+ShowRunAsDifferentUserContext; Affichez l'élément « Exécuter en tant qu'utilisateur différent » dans le menu contextuel des extensions de nom de fichier .exe ;
+HideRunAsDifferentUserContext; Masquez l'élément « Exécuter en tant qu'utilisateur différent » dans le menu contextuel des extensions de nom de fichier .exe ;
+HideCastToDeviceContext; Masquez l'élément "Cast to Device" dans le menu contextuel des fichiers et dossiers multimédias ;
+ShowCastToDeviceContext; Afficher l'élément "Cast to Device" dans le menu contextuel des fichiers et dossiers multimédias ;
+HideShareContext; Cachez l'élément « Partager » dans le menu contextuel ;
+ShowShareContext; Afficher l'élément "Partager" dans le menu contextuel ;
+HideEditWithPaint3DContext; Masquez l'élément "Modifier avec Paint 3D" dans le menu contextuel des fichiers multimédias ;
+ShowEditWithPaint3DContext; Affichez l'élément « Modifier avec Paint 3D » dans le menu contextuel des fichiers multimédias ;
+HideEditWithPhotosContext; Masquez l'élément « Modifier avec des photos » dans le menu contextuel des fichiers multimédias ;
+ShowEditWithPhotosContext; Afficher l'élément « Modifier avec des photos » dans le menu contextuel des fichiers multimédias ;
+HideCreateANewVideoContext; Masquez l'élément « Créer une nouvelle vidéo » dans le menu contextuel des fichiers multimédias ;
+ShowCreateANewVideoContext; Afficher l'élément « Créer une nouvelle vidéo » dans le menu contextuel des fichiers multimédias ;
+HideImagesEditContext; Masquez l'élément « Créer une nouvelle vidéo » dans le menu contextuel des fichiers multimédias ;
+ShowImagesEditContext; Afficher l'élément « Créer une nouvelle vidéo » dans le menu contextuel des fichiers multimédias ;
+HidePrintCMDContext; Masquez l'élément « Imprimer » dans le menu contextuel .bat et .cmd ;
+ShowPrintCMDContext; Afficher l'élément "Imprimer" dans le menu contextuel .bat et .cmd ;
+HideIncludeInLibraryContext; Masquez l'élément « Inclure dans la bibliothèque » dans le menu contextuel des dossiers et des lecteurs ;
+ShowIncludeInLibraryContext; Afficher l'élément « Inclure dans la bibliothèque » dans le menu contextuel des dossiers et des lecteurs ;
+HideSendToContext; Masquez l'élément « Envoyer vers » dans le menu contextuel des dossiers ;
+ShowSendToContext; Affichez l'élément « Envoyer vers » dans le menu contextuel des dossiers ;
+HideBitLockerContext; Masquez l'élément "Activer BitLocker" dans le menu contextuel des lecteurs ;
+ShowBitLockerContext; Affichez l'élément "Activer BitLocker" dans le menu contextuel des lecteurs ;
+HideBitmapImageNewContext; Masquer l'élément "Image bitmap" du menu contextuel "Nouveau" ;
+ShowBitmapImageNewContext; Affichez l'élément "Image bitmap" dans le menu contextuel "Nouveau" ;
+HideRichTextDocumentNewContext; Masquez l'élément "Rich Text Document" du menu contextuel "Nouveau" ;
+ShowRichTextDocumentNewContext; Affichez l'élément "Rich Text Document" dans le menu contextuel "Nouveau" ;
+HideCompressedFolderNewContext; Masquez l'élément « Dossier compressé (zippé) » dans le menu contextuel « Nouveau » ;
+ShowCompressedFolderNewContext; Affichez l'élément "Dossier compressé (zippé)" dans le menu contextuel "Nouveau" ;
+EnableMultipleInvokeContext; Activez les éléments « Ouvrir », « Imprimer » et « Modifier » si plus de 15 fichiers sélectionnés ;
+DisableMultipleInvokeContext; Désactivez les éléments « Ouvrir », « Imprimer » et « Modifier » si plus de 15 fichiers sont électionnés;
+HideUseStoreOpenWith; Masquez l'élément « Rechercher une application dans le Microsoft Store » dans la boîte de dialogue « Ouvrir avec »;
+ShowUseStoreOpenWith; Afficher l'élément « Rechercher une application dans le Microsoft Store » dans la boîte de dialogue « Ouvrir avec »
+
+<#other#>
+
+HideTaskbarSearch; Masquer la recherche dans la barre des tâches ;
+SearchIconTaskbarSearch; Afficher l'icône de recherche dans la barre des tâches ;
+SearchBoxTaskbarSearch; Afficher la zone de recherche dans la barre des tâches ;
+AlwaysCombineHideLabelsTaskbar; Barre des tâches Toujours combiner, masquer les étiquettes ;
+CombineWhenFullTaskbar; Barre des tâches Combinez lorsque la barre des tâches est pleine ;
+NeverCombineTaskbar; Barre des tâches Ne jamais combiner ;
+CategoryControlPanelView; Affichez les icônes du Panneau de configuration par catégorie ;
+LargeIconsControlPanelView; Affichez les icônes du Panneau de configuration par de grandes icônes ;
+SmallIconsControlPanelView; Afficher les icônes du Panneau de configuration par petites icônes
+
+<#end#>

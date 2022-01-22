@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; 연결된 사용자 경험 및 원격 측정(DiagTrack) 서비스를 비활성화하고 통합 원격 측정 클라이언트 아웃바운드 트래픽에 대한 연결을 차단합니다;
+EnableDiagTrackService; 연결된 사용자 경험 및 원격 측정(DiagTrack) 서비스를 활성화하고 통합 원격 측정 클라이언트 아웃바운드 트래픽에 대한 연결을 허용합니다;
+MinimalDiagnosticDataLevel; 진단 데이터 수집을 최소로 설정하십시오;
+DefaultDiagnosticDataLevel; 진단 데이터 수집을 기본값으로 설정합니다;
+DisableErrorReporting; Windows 오류 보고를 끕니다;
+EnableErrorReporting; Windows 오류 보고를 켜십시오;
+NeverFeedbackFrequency; 피드백 빈도를 "절대"로 변경하십시오;
+AutomaticallyFeedbackFrequency; 피드백 빈도를 "자동으로"로 변경하십시오;
+DisableSigninInfo; 업데이트 후 자동으로 장치 설정을 완료하기 위해 로그인 정보를 사용하지 마십시오;
+EnableSigninInfo; 업데이트 후 로그인 정보를 사용하여 기기 설정을 자동으로 완료합니다;
+DisableLanguageListAccess; 웹사이트에서 내 언어 목록에 액세스하여 로컬 관련 콘텐츠를 표시하지 않도록 합니다;
+EnableLanguageListAccess; 언어 내 목록에 액세스하여 웹사이트에서 지역적으로 관련된 콘텐츠를 표시할 수 있습니다;
+DisableAdvertisingID; 앱에서 내 광고 ID를 사용하여 개인 맞춤 광고를 표시하지 않도록 합니다;
+EnableAdvertisingID; 앱에서 내 광고 ID를 사용하여 개인 맞춤 광고를 표시하도록 허용합니다;
+HideWindowsWelcomeExperience; 업데이트 후와 가끔 로그인할 때 Windows 시작 환경을 숨겨 새로운 기능과 제안 사항을 강조 표시합니다;
+ShowWindowsWelcomeExperience; 업데이트 후와 가끔 로그인할 때 Windows 시작 환경을 표시하여 새로운 기능과 제안 사항을 강조 표시합니다;
+DisableWindowsTips; Windows를 사용할 때 팁과 제안을 받지 마십시오;
+EnableWindowsTips; Windows를 사용할 때 팁과 제안을 받습니다;
+HideSettingsSuggestedContent; 설정 앱에서 추천 콘텐츠 숨기기;
+ShowSettingsSuggestedContent; 설정 앱에서 추천 콘텐츠를 보여주세요;
+DisableAppsSilentInstalling; 제안된 앱 자동 설치를 끕니다;
+EnableAppsSilentInstalling; 제안된 앱 자동 설치를 켭니다;
+DisableWhatsNewInWindows; 내 장치를 설정하는 방법에 대한 제안을 비활성화합니다;
+EnableWhatsNewInWindows; 내 장치를 설정하는 방법에 대한 제안을 제공합니다;
+DisableTailoredExperiences; Microsoft가 개인화된 팁, 광고 및 권장 사항을 위해 진단 데이터를 사용하도록 허용하지 마십시오;
+EnableTailoredExperiences; Microsoft에서 진단 데이터를 개인화된 팁, 광고 및 권장 사항에 사용하도록 허용;
+DisableBingSearch; 시작 메뉴에서 Bing 검색을 비활성화하십시오;
+EnableBingSearch; 시작 메뉴에서 Bing 검색 활성화
+
+<#uiperson#>
+
+ShowThisPC; 바탕 화면에 "이 PC" 아이콘을 표시합니다;
+HideThisPC; 바탕 화면에서 "이 PC" 아이콘을 숨깁니다;
+DisableCheckBoxes; 항목 확인란을 사용하지 마십시오;
+EnableCheckBoxes; 체크 항목 확인란을 사용하십시오;
+EnableHiddenItems; 숨김 파일, 폴더 및 드라이브 표시;
+DisableHiddenItems; 숨김 파일, 폴더 및 드라이브를 표시하지 마십시오;
+ShowFileExtensions; 파일 이름 확장명 표시;
+HideFileExtensions; 파일 이름 확장명 숨기기;
+ShowMergeConflicts; 폴더 병합 충돌 표시;
+HideMergeConflicts; 폴더 병합 충돌 숨기기;
+ThisPCOpenFileExplorerTo; 파일 탐색기를 "이 PC"로 엽니다;
+QuickAccessOpenFileExplorerTo; 빠른 액세스를 위해 파일 탐색기를 엽니다;
+HideCortanaButton; 작업 표시줄에서 Cortana 버튼 숨기기;
+ShowCortanaButton; 작업 표시줄에 Cortana 버튼 표시;
+HideOneDriveFileExplorerAd; 파일 탐색기 내에서 동기화 공급자 알림을 표시하지 않습니다;
+ShowOneDriveFileExplorerAd; 파일 탐색기 내에서 동기화 공급자 알림 표시;
+DisableSnapAssist; 창을 스냅할 때 창 옆에 스냅할 수 있는 항목을 표시하지 마십시오;
+EnableSnapAssist; 창을 스냅할 때 창 옆에 스냅할 수 있는 항목을 표시합니다;
+DetailedFileTransferDialog; 상세 모드에서 파일 전송 대화 상자를 표시합니다;
+CompactFileTransferDialog; 압축 모드에서 파일 전송 대화 상자를 표시합니다;
+ExpandedFileExplorerRibbon; 파일 탐색기 리본을 확장합니다;
+MinimizedFileExplorerRibbon; 파일 탐색기 리본을 최소화합니다;
+EnableRecycleBinDeleteConfirmation; 휴지통 파일 삭제 확인 대화 상자를 표시합니다;
+DisableRecycleBinDeleteConfirmation; 휴지통 파일 삭제 확인 대화 상자를 표시하지 마십시오;
+Hide3DObjects; "내 PC" 및 빠른 액세스에서 "3D 개체" 폴더를 숨깁니다;
+Show3DObjects; "내 PC" 및 빠른 액세스에서 "3D 개체" 폴더를 표시합니다;
+HideQuickAccessRecentFiles; 빠른 액세스에서 자주 사용하는 폴더 숨기기;
+ShowQuickAccessRecentFiles; 빠른 액세스에서 자주 사용하는 폴더 표시;
+HideTaskViewButton; 작업 표시줄에서 작업 보기 버튼을 숨깁니다;
+ShowTaskViewButton; 작업 표시줄에 작업 보기 버튼을 표시합니다;
+HidePeopleTaskbar; 작업 표시줄에 있는 사람 숨기기 버튼;
+ShowPeopleTaskbar; 작업 표시줄에 사람 표시 버튼;
+ShowSecondsInSystemClock; 작업 표시줄 시계에 초를 표시합니다;
+HideSecondsInSystemClock; 작업 표시줄 시계에서 초 숨기기;
+HideWindowsInkWorkspace; 작업 표시줄에서 Windows Ink Workspace 버튼을 숨깁니다;
+ShowWindowsInkWorkspace; 작업 표시줄에 Windows Ink 작업 영역 버튼을 표시합니다;
+HideMeetNow; 알림 영역에서 지금 미팅 아이콘을 숨깁니다;
+ShowMeetNow; 알림 영역에 지금 만나기 아이콘을 표시합니다;
+DisableNewsInterests; 작업 표시줄에서 "뉴스 및 관심 분야"를 비활성화합니다;
+EnableNewsInterests; 작업 표시줄에서 "뉴스 및 관심 분야"를 활성화합니다;
+DarkWindowsColorMode; 기본 Windows 모드를 어둡게 설정합니다;
+LightWindowsColorMode; 기본 Windows 모드를 밝게 설정하십시오;
+DarkAppColorMode; 기본 앱 모드를 어둡게 설정합니다;
+LightAppColorMode; 기본 앱 모드를 밝게 설정하십시오;
+HideNewAppInstalledNotification; "새 앱 설치" 표시를 숨깁니다;
+ShowNewAppInstalledNotification; "새 앱 설치" 표시기를 표시합니다;
+DisableFirstLogonAnimation; 업그레이드 후 첫 번째 로그인 애니메이션을 비활성화합니다;
+EnableFirstLogonAnimation; 업그레이드 후 첫 번째 로그인 애니메이션을 활성화합니다;
+MaxJPEGWallpapersQuality; JPEG 데스크탑 월페이퍼의 품질 요소를 최대로 설정하십시오;
+DefaultJPEGWallpapersQuality; JPEG 데스크탑 월페이퍼의 품질 요소를 기본값으로 설정하십시오;
+ExpandedTaskManagerWindow; 확장 모드에서 작업 관리자를 시작하십시오;
+CompactTaskManagerWindow; 압축 모드에서 작업 관리자를 시작하십시오;
+ShowRestartNotification; 업데이트를 완료하기 위해 다시 시작해야 하는 경우 알림;
+HideRestartNotification; 업데이트를 완료하기 위해 다시 시작해야 할 때 알림을 받지 않습니다;
+DisableShortcutsSuffix; 생성된 바로 가기의 파일 이름에 "- 바로 가기" 접미사를 추가하지 마십시오;
+EnableShortcutsSuffix; 생성된 바로 가기의 파일 이름에 "- 바로 가기" 접미사를 추가합니다;
+EnablePrtScnSnippingTool; 화면 캡처 버튼을 사용하여 화면 캡처를 엽니다;
+DisablePrtScnSnippingTool; 화면 캡처를 열 때 화면 인쇄 버튼을 사용하지 마십시오;
+DisableAppsLanguageSwitch; 각 앱 창에 다른 입력 방법을 사용하지 마십시오;
+EnableAppsLanguageSwitch; 각 앱 창에 다른 입력 방법을 사용하겠습니다;
+DisableAeroShaking; 창의 제목 표시줄을 잡고 흔들 때 다른 모든 창을 최소화하지 마십시오;
+EnableAeroShaking; 창의 제목 표시줄을 잡고 흔들면 다른 창을 모두 최소화
+
+<#onedrive#>
+
+UninstallOneDrive; OneDrive를 제거합니다;
+InstallOneDrive; 원드라이브 설치
+
+<#system#>
+
+EnableStorageSense; 스토리지 센스를 켜십시오;
+DisableStorageSense; 스토리지 센스를 끕니다;
+EnableStorageSenseTempFiles; 임시 시스템 및 앱 파일 자동 정리를 켭니다;
+DisableStorageSenseTempFiles; 임시 시스템 및 앱 파일 자동 정리를 끕니다;
+MonthStorageSenseFrequency; 매월 Storage Sense를 실행합니다;
+DefaultStorageSenseFrequency; 사용 가능한 디스크 공간이 부족한 동안 Storage Sense를 실행합니다;
+DisableHibernation; 최대 절전 모드를 비활성화합니다;
+EnableHibernation; 최대 절전 모드를 활성화합니다;
+DisableWin32LongPathLimit; Windows 260 문자 경로 제한을 비활성화합니다;
+EnableWin32LongPathLimit; Windows 260 문자 경로 제한을 활성화합니다;
+EnableBSoDStopError; BSoD에 Stop 오류 정보를 표시합니다;
+DisableBSoDStopError; BSoD에 Stop 오류 정보를 표시하지 마십시오;
+NeverAdminApprovalMode; 앱이 내 컴퓨터를 변경하려고 할 때 알리지 않습니다;
+DefaultAdminApprovalMode; 앱이 내 컴퓨터를 변경하려고 할 때만 알림;
+EnableMappedDrivesAppElevatedAccess; 관리자 승인 모드가 활성화된 높은 권한으로 실행되는 앱에서 매핑된 드라이브에 대한 액세스를 켭니다;
+DisableMappedDrivesAppElevatedAccess; 관리자 승인 모드가 활성화된 높은 권한으로 실행되는 앱에서 매핑된 드라이브에 대한 액세스를 끕니다;
+DisableDeliveryOptimization; 배달 최적화를 끕니다;
+EnableDeliveryOptimization; 배달 최적화를 켜십시오;
+EnableWaitNetworkStartup; 작업 그룹 네트워크에 대한 컴퓨터 시작 및 로그온 시 항상 네트워크를 기다립니다;
+DisableWaitNetworkStartup; 작업 그룹 네트워크에 대한 컴퓨터 시작 및 로그온 시 네트워크를 기다리지 마십시오;
+DisableWindowsManageDefaultPrinter; Windows에서 내 기본 프린터를 관리하지 않도록 합니다;
+EnableWindowsManageDefaultPrinter; Windows에서 내 기본 프린터를 관리하도록 합니다;
+EnableUpdateMicrosoftProducts; 다른 Microsoft 제품에 대한 업데이트를 수신합니다;
+DisableUpdateMicrosoftProducts; 다른 Microsoft 제품에 대한 업데이트를 받지 마십시오;
+HighPowerPlan; "고성능"에 전원 계획을 설정하십시오;
+BalancedPowerPlan; "균형"에 전원 계획을 설정하십시오;
+EnableLatestInstalledNET; 모든 앱에 최신 설치된 .NET 런타임을 사용합니다;
+DisableLatestInstalledNET; 모든 앱에 최신 설치된 .NET 런타임을 사용하지 마십시오;
+DisableNetworkAdaptersSavePower; 전원을 절약하기 위해 컴퓨터에서 네트워크 어댑터를 끄지 마십시오;
+EnableNetworkAdaptersSavePower; 전원을 절약하기 위해 컴퓨터가 네트워크 어댑터를 끄도록 합니다;
+EnglishInputMethod; 기본 입력 방법에 대한 재정의: 영어;
+DefaultInputMethod; 기본 입력 방법 재정의: 언어 목록 사용;
+DesktopWinPrtScrFolder; 바탕 화면에서 Win+PrtScr을 눌러 스크린샷을 저장합니다;
+DefaultWinPrtScrFolder; 그림 폴더에서 Win+PrtScr을 눌러 스크린샷을 저장합니다;
+AutomaticallyRecommendedTroubleshooting; 자동으로 문제 해결사를 실행한 다음 나에게 알려주세요;
+DefaultRecommendedTroubleshooting; 문제 해결사를 실행하기 전에 나에게 묻습니다;
+EnableFoldersLaunchSeparateProcess; 별도의 프로세스에서 폴더 창을 시작합니다;
+DisableFoldersLaunchSeparateProcess; 별도의 프로세스에서 폴더 창을 실행하지 마십시오;
+DisableReservedStorage; 다음 업데이트 설치 후 예약된 저장소를 비활성화하고 삭제합니다;
+EnableReservedStorage; 다음 업데이트 설치 후 예약된 저장소를 활성화합니다;
+DisableF1HelpPage; F1을 통한 도움말 조회 비활성화;
+EnableF1HelpPage; F1을 통해 도움말 조회를 활성화합니다;
+EnableNumLock; 시작 시 Num Lock을 활성화합니다;
+DisableNumLock; 시작 시 Num Lock을 비활성화합니다;
+DisableCapsLock; Caps Lock을 비활성화합니다;
+EnableCapsLock; Caps Lock 활성화;
+DisableStickyShift; Shift 키를 5번 눌러 고정 키를 끕니다;
+EnableStickyShift; Shift 키를 5번 눌러 고정 키를 켜십시오;
+DisableAutoplay; 모든 미디어 및 장치에 대해 자동 실행을 사용하지 마십시오;
+EnableAutoplay; 모든 미디어 및 장치에 대해 자동 실행을 사용합니다;
+DisableThumbnailCacheRemoval; 썸네일 캐시 제거 비활성화;
+EnableThumbnailCacheRemoval; 썸네일 캐시 제거 활성화;
+EnableSaveRestartableApps; 다시 시작 가능한 앱을 자동으로 저장하고 다시 로그인할 때 다시 시작합니다;
+DisableSaveRestartableApps; 다시 시작 가능한 앱 자동 저장을 끄고 다시 로그인할 때 다시 시작합니다;
+EnableNetworkDiscovery; 작업 그룹 네트워크에 대해 "네트워크 검색" 및 "파일 및 프린터 공유"를 활성화합니다;
+DisableNetworkDiscovery; 작업 그룹 네트워크에 대해 "네트워크 검색" 및 "파일 및 프린터 공유"를 비활성화합니다;
+AutomaticallyActiveHours; 일일 사용량에 따라 활동 시간을 자동으로 조정합니다;
+ManuallyActiveHours; 일일 사용량에 따라 활동 시간을 수동으로 조정합니다;
+EnableDeviceRestartAfterUpdate; 업데이트를 마치려면 가능한 한 빨리 다시 시작하십시오;
+DisableDeviceRestartAfterUpdate; 업데이트를 완료하기 위해 가능한 한 빨리 다시 시작하지 마십시오;
+
+<#startmenu#>
+
+HideRecentlyAddedApps; 시작 메뉴에서 최근에 추가한 앱을 숨깁니다;
+ShowRecentlyAddedApps; 시작 메뉴에서 최근에 추가한 앱을 표시합니다;
+HideAppSuggestions; 시작 메뉴에서 앱 제안 숨기기;
+ShowAppSuggestions; 시작 메뉴에 앱 제안 표시;
+ElevatedRunPowerShellShortcut; 시작 메뉴에서 Windows PowerShell 바로 가기를 관리자로 실행합니다;
+NonElevatedRunPowerShellShortcut; 시작 메뉴에서 Windows PowerShell 바로 가기를 사용자로 실행
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Cortana 자동 시작을 비활성화합니다;
+EnableCortanaAutostart; Cortana 자동 시작을 활성화합니다;
+DisableBackgroundUWPApps; UWP 앱이 백그라운드에서 실행되지 않도록 하세요;
+EnableBackgroundUWPApps; 모든 UWP 앱이 백그라운드에서 실행되도록 허용
+
+<#gaming#>
+
+DisableXboxGameBar; Xbox 게임 바 비활성화;
+EnableXboxGameBar; Xbox 게임 바 활성화;
+DisableXboxGameTips; Xbox Game Bar 팁을 비활성화합니다;
+EnableXboxGameTips; Xbox Game Bar 팁을 활성화합니다;
+EnableGPUScheduling; 하드웨어 가속 GPU 스케줄링을 활성화합니다;
+DisableGPUScheduling; 하드웨어 가속 GPU 스케줄링 비활성화
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Microsoft Defender Exploit Guard 네트워크 보호를 활성화합니다;
+DisableNetworkProtection; Microsoft Defender Exploit Guard 네트워크 보호를 비활성화합니다;
+EnablePUAppsDetection; 잠재적으로 원치 않는 애플리케이션에 대한 탐지를 활성화하고 차단합니다;
+DisablePUAppsDetection; 잠재적으로 원치 않는 응용 프로그램에 대한 탐지를 비활성화하고 차단합니다;
+EnableDefenderSandbox; Microsoft Defender에 대해 샌드박싱을 활성화합니다;
+DisableDefenderSandbox; Microsoft Defender에 대해 샌드박싱을 비활성화합니다;
+EnableAuditProcess; 프로세스가 생성(시작)될 때 생성되는 이벤트 감사를 활성화합니다;
+DisableAuditProcess; 프로세스가 생성(시작)될 때 생성되는 이벤트 감사를 비활성화합니다;
+EnableCommandLineProcessAudit; 프로세스 생성 이벤트에 명령줄을 포함합니다;
+DisableCommandLineProcessAudit; 프로세스 생성 이벤트에 명령줄을 포함하지 마십시오;
+EnableEventViewerCustomView; 실행된 프로세스와 해당 인수를 기록하는 "프로세스 생성" 이벤트 뷰어 - 사용자 정의 보기를 만듭니다;
+DisableEventViewerCustomView; "프로세스 생성" 이벤트 뷰어 사용자 정의 보기를 제거하십시오;
+EnablePowerShellModulesLogging; 모든 Windows PowerShell 모듈에 대해 로깅을 활성화합니다;
+DisablePowerShellModulesLogging; 모든 Windows PowerShell 모듈에 대한 로깅을 비활성화합니다;
+EnablePowerShellScriptsLogging; Windows PowerShell 이벤트 로그에 대한 모든 PowerShell 스크립트 입력에 대한 로깅을 활성화합니다;
+DisablePowerShellScriptsLogging; Windows PowerShell 이벤트 로그에 대한 모든 PowerShell 스크립트 입력에 대한 로깅을 비활성화합니다;
+DisableAppsSmartScreen; Microsoft Defender SmartScreen 내에서 앱 및 파일 검사를 비활성화합니다;
+EnableAppsSmartScreen; Microsoft Defender SmartScreen 내에서 앱 및 파일 검사를 활성화합니다;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen은 인터넷에서 다운로드한 파일을 안전하지 않은 것으로 표시하지 않습니다;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen은 인터넷에서 다운로드한 파일을 안전하지 않은 것으로 표시합니다;
+DisableWindowsScriptHost; Windows 스크립트 호스트를 비활성화합니다;
+EnableWindowsScriptHost; Windows 스크립트 호스트를 활성화합니다;
+DisableWindowsSandbox; Windows 샌드박스를 비활성화합니다;
+EnableWindowsSandbox; Windows 샌드박스 활성화
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Windows Installer(.msi) 상황에 맞는 메뉴에서 "모두 추출" 항목을 표시합니다;
+HideMSIExtractContext; Windows Installer(.msi) 상황에 맞는 메뉴에서 "모두 추출" 항목을 숨깁니다;
+ShowCABInstallContext; 캐비닛(.cab) 파일 이름 확장 상황에 맞는 메뉴에서 "설치" 항목을 표시합니다;
+HideCABInstallContext; 캐비닛(.cab) 파일 이름 확장 상황에 맞는 메뉴에서 "설치" 항목을 숨깁니다;
+ShowRunAsDifferentUserContext; .exe 파일 이름 확장 상황에 맞는 메뉴에서 "다른 사용자로 실행" 항목을 표시합니다;
+HideRunAsDifferentUserContext; .exe 파일 이름 확장 상황에 맞는 메뉴에서 "다른 사용자로 실행" 항목을 숨깁니다;
+HideCastToDeviceContext; 미디어 파일 및 폴더 컨텍스트 메뉴에서 "Cast to Device" 항목을 숨깁니다;
+ShowCastToDeviceContext; 미디어 파일 및 폴더 컨텍스트 메뉴에서 "장치로 전송" 항목을 표시합니다;
+HideShareContext; 컨텍스트 메뉴에서 "공유" 항목을 숨깁니다;
+ShowShareContext; 상황에 맞는 메뉴에서 "공유" 항목을 표시합니다;
+HideEditWithPaint3DContext; 미디어 파일 컨텍스트 메뉴에서 "그림판 3D로 편집" 항목을 숨깁니다;
+ShowEditWithPaint3DContext; 미디어 파일 컨텍스트 메뉴에서 "그림판 3D로 편집" 항목을 표시합니다;
+HideEditWithPhotosContext; 미디어 파일 컨텍스트 메뉴에서 "사진으로 편집" 항목을 숨깁니다;
+ShowEditWithPhotosContext; 미디어 파일 컨텍스트 메뉴에서 "사진으로 편집" 항목을 표시합니다;
+HideCreateANewVideoContext; 미디어 파일 컨텍스트 메뉴에서 "새 비디오 만들기" 항목을 숨깁니다;
+ShowCreateANewVideoContext; 미디어 파일 컨텍스트 메뉴에서 "새 비디오 만들기" 항목을 표시합니다;
+HideImagesEditContext; 미디어 파일 컨텍스트 메뉴에서 "새 비디오 만들기" 항목을 숨깁니다;
+ShowImagesEditContext; 미디어 파일 컨텍스트 메뉴에서 "새 비디오 만들기" 항목을 표시합니다;
+HidePrintCMDContext; .bat 및 .cmd 상황에 맞는 메뉴에서 "인쇄" 항목을 숨깁니다;
+ShowPrintCMDContext; .bat 및 .cmd 상황에 맞는 메뉴에서 "인쇄" 항목을 표시합니다;
+HideIncludeInLibraryContext; 폴더 및 드라이브 상황에 맞는 메뉴에서 "라이브러리에 포함" 항목을 숨깁니다;
+ShowIncludeInLibraryContext; 폴더 및 드라이브 상황에 맞는 메뉴에서 "라이브러리에 포함" 항목을 표시합니다;
+HideSendToContext; 폴더 컨텍스트 메뉴에서 "보내기" 항목을 숨깁니다;
+ShowSendToContext; 폴더 컨텍스트 메뉴에서 "보내기" 항목을 표시합니다;
+HideBitLockerContext; 드라이브 상황에 맞는 메뉴에서 "BitLocker 켜기" 항목을 숨깁니다;
+ShowBitLockerContext; 드라이브 상황에 맞는 메뉴에서 "BitLocker 켜기" 항목을 표시합니다;
+HideBitmapImageNewContext; "새로 만들기" 상황에 맞는 메뉴에서 "비트맵 이미지" 항목을 숨깁니다;
+ShowBitmapImageNewContext; "새로 만들기" 상황에 맞는 메뉴에 "비트맵 이미지" 항목을 표시합니다;
+HideRichTextDocumentNewContext; "새로 만들기" 컨텍스트 메뉴에서 "서식 있는 텍스트 문서" 항목을 숨깁니다;
+ShowRichTextDocumentNewContext; "새로 만들기" 컨텍스트 메뉴에 "서식 있는 텍스트 문서" 항목을 표시합니다;
+HideCompressedFolderNewContext; "새로 만들기" 컨텍스트 메뉴에서 "압축(압축) 폴더" 항목을 숨깁니다;
+ShowCompressedFolderNewContext; "새로 만들기" 상황에 맞는 메뉴에 "압축(압축) 폴더" 항목을 표시합니다;
+EnableMultipleInvokeContext; 15개 이상의 파일을 선택한 경우 "열기", "인쇄" 및 "편집" 항목을 활성화합니다;
+DisableMultipleInvokeContext; 15개 이상의 파일을 선택한 경우 "열기", "인쇄" 및 "편집" 항목을 비활성화합니다;
+HideUseStoreOpenWith; "연결 프로그램" 대화 상자에서 "Microsoft Store에서 앱 찾기" 항목을 숨깁니다;
+ShowUseStoreOpenWith; "연결 프로그램" 대화 상자에서 "Microsoft Store에서 앱 찾기" 항목 표시
+
+<#other#>
+
+HideTaskbarSearch; 작업 표시줄에서 검색을 숨깁니다;
+SearchIconTaskbarSearch; 작업 표시줄에 검색 아이콘을 표시합니다;
+SearchBoxTaskbarSearch; 작업 표시줄에 검색 상자를 표시합니다;
+AlwaysCombineHideLabelsTaskbar; 작업 표시줄 항상 레이블을 결합하고 숨깁니다;
+CombineWhenFullTaskbar; 작업 표시줄 작업 표시줄이 가득 찼을 때 결합합니다;
+NeverCombineTaskbar; 작업 표시줄 절대 결합하지 마십시오;
+CategoryControlPanelView; 범주별로 제어판 아이콘을 봅니다;
+LargeIconsControlPanelView; 큰 아이콘으로 제어판 아이콘을 봅니다;
+SmallIconsControlPanelView; 작은 아이콘으로 제어판 아이콘 보기
+
+<#end#>

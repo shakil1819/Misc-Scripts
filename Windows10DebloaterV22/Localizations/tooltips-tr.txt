@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Bağlı Kullanıcı Deneyimleri ve Telemetri (DiagTrack) hizmetini devre dışı bırakın ve Birleşik Telemetri İstemcisi Giden Trafiği için bağlantıyı engelleyin;
+EnableDiagTrackService; Bağlı Kullanıcı Deneyimleri ve Telemetri (DiagTrack) hizmetini etkinleştirin ve Birleşik Telemetri İstemcisi Giden Trafiği için bağlantıya izin verin;
+MinimalDiagnosticDataLevel; Tanısal veri toplamayı minimuma ayarlayın;
+DefaultDiagnosticDataLevel; Tanılama verileri toplamayı varsayılana ayarlayın;
+DisableErrorReporting; Windows Hata Bildirimini kapatın;
+EnableErrorReporting; Windows Hata Bildirimini açın;
+NeverFeedbackFrequency; Geri bildirim sıklığını "Asla" olarak değiştirin;
+AutomaticallyFeedbackFrequency; Geri bildirim sıklığını "Otomatik Olarak" olarak değiştirin;
+DisableSigninInfo; Bir güncellemeden sonra cihazın kurulumunu otomatik olarak tamamlamak için oturum açma bilgilerini kullanmayın;
+EnableSigninInfo; Bir güncellemeden sonra cihazın kurulumunu otomatik olarak tamamlamak için oturum açma bilgilerini kullanın;
+DisableLanguageListAccess; Web sitelerinin dil listeme erişerek bana yerel olarak alakalı içerik göstermesine izin verme;
+EnableLanguageListAccess; Listemdeki dile erişerek web sitelerinin bana yerel olarak alakalı içeriği göstermesine izin verin;
+DisableAdvertisingID; Uygulamaların reklam kimliğimi kullanarak bana kişiselleştirilmiş reklamlar göstermesine izin verme;
+EnableAdvertisingID; Uygulamaların reklam kimliğimi kullanarak bana kişiselleştirilmiş reklamlar göstermesine izin verin;
+HideWindowsWelcomeExperience; Güncellemelerden sonra ve bazen yeni ve önerilenleri vurgulamak için oturum açtığımda Windows karşılama deneyimlerini gizle;
+ShowWindowsWelcomeExperience; Güncellemelerden sonra ve bazen yeni ve önerilenleri vurgulamak için oturum açtığımda Windows karşılama deneyimlerini göster;
+DisableWindowsTips; Windows kullandığımda ipucu ve öneri alma;
+EnableWindowsTips; Windows kullandığımda ipucu ve öneriler alın;
+HideSettingsSuggestedContent; Ayarlar uygulamasında önerilen içeriği benden gizle;
+ShowSettingsSuggestedContent; Bana önerilen içeriği Ayarlar uygulamasında göster;
+DisableAppsSilentInstalling; Önerilen uygulamaları otomatik yüklemeyi kapatın;
+EnableAppsSilentInstalling; Önerilen uygulamaları otomatik yüklemeyi açın;
+DisableWhatsNewInWindows; Cihazımı nasıl kurabileceğime ilişkin önerileri devre dışı bırak;
+EnableWhatsNewInWindows; Cihazımı nasıl kurabileceğime dair önerilerde bulunun;
+DisableTailoredExperiences; Microsoft'un kişiselleştirilmiş ipuçları, reklamlar ve öneriler için tanılama verilerinizi kullanmasına izin vermeyin;
+EnableTailoredExperiences; Microsoft'un kişiselleştirilmiş ipuçları, reklamlar ve öneriler için tanılama verilerinizi kullanmasına izin verin;
+DisableBingSearch; Başlat Menüsünde Bing aramasını devre dışı bırakın;
+EnableBingSearch; Başlat Menüsünde Bing aramasını etkinleştirin
+
+<#uiperson#>
+
+ShowThisPC; Masaüstünde "Bu Bilgisayar" simgesini gösterin;
+HideThisPC; Masaüstündeki "Bu Bilgisayar" simgesini gizleyin;
+DisableCheckBoxes; Öğe onay kutularını kullanmayın;
+EnableCheckBoxes; Onay öğesi onay kutularını kullanın;
+EnableHiddenItems; Gizli dosyaları, klasörleri ve sürücüleri göster;
+DisableHiddenItems; Gizli dosyaları, klasörleri ve sürücüleri gösterme;
+ShowFileExtensions; Dosya adı uzantılarını göster;
+HideFileExtensions; Dosya adı uzantılarını gizle;
+ShowMergeConflicts; Klasör birleştirme çakışmalarını göster;
+HideMergeConflicts; Klasör birleştirme çakışmalarını gizle;
+ThisPCOpenFileExplorerTo; Dosya Gezgini'ni "Bu PC"ye açın;
+QuickAccessOpenFileExplorerTo; Hızlı erişim için Dosya Gezgini'ni açın;
+HideCortanaButton; Görev çubuğundaki Cortana düğmesini gizle;
+ShowCortanaButton; Görev çubuğunda Cortana düğmesini göster;
+HideOneDriveFileExplorerAd; Dosya Gezgini'nde eşitleme sağlayıcı bildirimini gösterme;
+ShowOneDriveFileExplorerAd; Dosya Gezgini içinde senkronizasyon sağlayıcı bildirimini göster;
+DisableSnapAssist; Bir pencereyi yasladığımda, yanına ne yapıştırabileceğimi gösterme;
+EnableSnapAssist; Bir pencereyi tutturduğumda, yanına ne yapıştırabileceğimi göster;
+DetailedFileTransferDialog; Ayrıntılı modda dosya aktarımı iletişim kutusunu göster;
+CompactFileTransferDialog; Kompakt modda dosya aktarımı iletişim kutusunu göster;
+ExpandedFileExplorerRibbon; Dosya Gezgini şeridini genişletin;
+MinimizedFileExplorerRibbon; Dosya Gezgini şeridini simge durumuna küçültün;
+EnableRecycleBinDeleteConfirmation; Geri dönüşüm kutusu dosyalarını silme onayı iletişim kutusunu görüntüleyin;
+DisableRecycleBinDeleteConfirmation; Geri dönüşüm kutusu dosyalarını silme onay iletişim kutusunu görüntüleme;
+Hide3DObjects; "Bu Bilgisayar" ve Hızlı erişimdeki "3B Nesneler" klasörünü gizleyin;
+Show3DObjects; "Bu PC" ve Hızlı erişimde "3D Nesneler" klasörünü göster;
+HideQuickAccessRecentFiles; Hızlı erişimde sık kullanılan klasörleri gizleyin;
+ShowQuickAccessRecentFiles; Hızlı erişimde sık kullanılan klasörleri göster;
+HideTaskViewButton; Görev çubuğundaki Görev görünümü düğmesini gizleyin;
+ShowTaskViewButton; Görev çubuğunda Görev Görünümü düğmesini gösterin;
+HidePeopleTaskbar; Görev çubuğundaki Kişileri Gizle düğmesi;
+ShowPeopleTaskbar; Görev çubuğunda Kişileri Göster düğmesini;
+ShowSecondsInSystemClock; Görev çubuğu saatinde saniyeleri göster;
+HideSecondsInSystemClock; Görev çubuğu saatinde saniyeleri gizle;
+HideWindowsInkWorkspace; Görev çubuğundaki Windows Mürekkep Çalışma Alanı düğmesini gizleyin;
+ShowWindowsInkWorkspace; Görev çubuğunda Windows Mürekkep Çalışma Alanı düğmesini gösterin;
+HideMeetNow; Bildirim alanındaki Şimdi Tanış simgesini gizleyin;
+ShowMeetNow; Bildirim alanında Şimdi Tanış simgesini gösterin;
+DisableNewsInterests; Görev çubuğunda "Haberler ve İlgi Alanları"nı devre dışı bırakın;
+EnableNewsInterests; Görev çubuğunda "Haberler ve İlgi Alanları"nı etkinleştirin;
+DarkWindowsColorMode; Varsayılan Windows modunu karanlık olarak ayarlayın;
+LightWindowsColorMode; Varsayılan Windows modunu ışığa ayarlayın;
+DarkAppColorMode; Varsayılan uygulama modunu karanlık olarak ayarlayın;
+LightAppColorMode; Varsayılan uygulama modunu ışığa ayarlayın;
+HideNewAppInstalledNotification; "Yeni Uygulama Yüklendi" göstergesini gizleyin;
+ShowNewAppInstalledNotification; "Yeni Uygulama Yüklendi" göstergesini göster;
+DisableFirstLogonAnimation; Yükseltmeden sonra ilk oturum açma animasyonunu devre dışı bırakın;
+EnableFirstLogonAnimation; Yükseltmeden sonra ilk oturum açma animasyonunu etkinleştirin;
+MaxJPEGWallpapersQuality; JPEG masaüstü duvar kağıtlarının kalite faktörünü maksimuma ayarlayın;
+DefaultJPEGWallpapersQuality; JPEG masaüstü duvar kağıtlarının kalite faktörünü varsayılana ayarlayın;
+ExpandedTaskManagerWindow; Genişletilmiş modda Görev Yöneticisi'ni başlatın;
+CompactTaskManagerWindow; Kompakt modda Görev Yöneticisi'ni başlatın;
+ShowRestartNotification; Güncellemeyi bitirmek için yeniden başlatma gerektiğinde bana bildir;
+HideRestartNotification; Güncellemeyi bitirmek için yeniden başlatma gerektiğinde bana haber verme;
+DisableShortcutsSuffix; Oluşturulan kısayolların dosya adına "- Kısayol" son ekini eklemeyin;
+EnableShortcutsSuffix; Oluşturulan kısayolların dosya adına "- Kısayol" son ekini ekleyin;
+EnablePrtScnSnippingTool; Ekran alıntısını açmak için Ekranı yazdır düğmesini kullanın;
+DisablePrtScnSnippingTool; Ekran alıntısını açmak için Ekranı yazdır düğmesini kullanmayın;
+DisableAppsLanguageSwitch; Her uygulama penceresi için farklı bir giriş yöntemi kullanmayın;
+EnableAppsLanguageSwitch; Her uygulama penceresi için farklı bir giriş yöntemi kullanmama izin verin;
+DisableAeroShaking; Bir pencerenin başlık çubuğunu alıp salladığımda, diğer tüm pencereleri simge durumuna küçültmeyin;
+EnableAeroShaking; Bir pencerenin başlık çubuğunu alıp salladığımda, diğer tüm pencereleri simge durumuna küçültün
+
+<#onedrive#>
+
+UninstallOneDrive; OneDrive'ı kaldırın;
+InstallOneDrive; OneDrive'ı yükleyin
+
+<#system#>
+
+EnableStorageSense; Storage Sense'i açın;
+DisableStorageSense; Storage Sense'i kapatın;
+EnableStorageSenseTempFiles; Geçici sistem ve uygulama dosyalarının otomatik olarak temizlenmesini açın;
+DisableStorageSenseTempFiles; Geçici sistem ve uygulama dosyalarının otomatik olarak temizlenmesini kapatın;
+MonthStorageSenseFrequency; Storage Sense'i her ay çalıştırın;
+DefaultStorageSenseFrequency; Düşük boş disk alanı sırasında Storage Sense'i çalıştırın;
+DisableHibernation; Hazırda bekletme modunu devre dışı bırakın;
+EnableHibernation; Hazırda bekletme modunu etkinleştirin;
+DisableWin32LongPathLimit; Windows 260 karakter yolu sınırını devre dışı bırakın;
+EnableWin32LongPathLimit; Windows 260 karakter yolu sınırını etkinleştirin;
+EnableBSoDStopError; BSoD'de Dur hata bilgilerini görüntüleyin;
+DisableBSoDStopError; BSoD'de Dur hata bilgisini görüntülemeyin;
+NeverAdminApprovalMode; Uygulamalar bilgisayarımda değişiklik yapmaya çalıştığında asla bildirimde bulunma;
+DefaultAdminApprovalMode; Yalnızca uygulamalar bilgisayarımda değişiklik yapmaya çalıştığında beni bilgilendir;
+EnableMappedDrivesAppElevatedAccess; Yönetici Onay Modu etkinken yükseltilmiş izinlerle çalışan uygulamadan eşlenen sürücülere erişimi açın;
+DisableMappedDrivesAppElevatedAccess; Yönetici Onay Modu etkinken yükseltilmiş izinlerle çalışan uygulamadan eşlenen sürücülere erişimi kapatın;
+DisableDeliveryOptimization; Teslimat Optimizasyonu'nu kapatın;
+EnableDeliveryOptimization; Teslimat Optimizasyonu'nu açın;
+EnableWaitNetworkStartup; Her zaman bilgisayar başlangıcında ağı bekleyin ve çalışma grubu ağlarında oturum açın;
+DisableWaitNetworkStartup; Bilgisayar başlangıcında ve çalışma grubu ağlarında oturum açarken asla ağı beklemeyin;
+DisableWindowsManageDefaultPrinter; Windows'un varsayılan yazıcımı yönetmesine izin verme;
+EnableWindowsManageDefaultPrinter; Windows'un varsayılan yazıcımı yönetmesine izin verin;
+EnableUpdateMicrosoftProducts; Diğer Microsoft ürünleri için güncellemeler alın;
+DisableUpdateMicrosoftProducts; Diğer Microsoft ürünleri için güncellemeleri almayın;
+HighPowerPlan; Güç planını "Yüksek performans" olarak ayarlayın;
+BalancedPowerPlan; Güç planını "Dengeli" olarak ayarlayın;
+EnableLatestInstalledNET; Tüm uygulamalar için en son yüklenen .NET çalışma zamanını kullanın;
+DisableLatestInstalledNET; Tüm uygulamalar için en son yüklenen .NET çalışma zamanını kullanmayın;
+DisableNetworkAdaptersSavePower; Güç tasarrufu için bilgisayarın ağ bağdaştırıcılarını kapatmasına izin vermeyin;
+EnableNetworkAdaptersSavePower; Güçten tasarruf etmek için bilgisayarın ağ bağdaştırıcılarını kapatmasına izin verin;
+EnglishInputMethod; Varsayılan giriş yöntemi için geçersiz kılma: İngilizce;
+DefaultInputMethod; Varsayılan giriş yöntemi için geçersiz kıl: dil listesini kullan;
+DesktopWinPrtScrFolder; Masaüstünde Win+PrtScr tuşlarına basarak ekran görüntülerini kaydedin;
+DefaultWinPrtScrFolder; Resimler klasöründe Win+PrtScr tuşlarına basarak ekran görüntülerini kaydedin;
+AutomaticallyRecommendedTroubleshooting; Sorun gidericiyi otomatik olarak çalıştırın, ardından bana haber verin;
+DefaultRecommendedTroubleshooting; Sorun gidericiyi çalıştırmadan önce bana sor;
+EnableFoldersLaunchSeparateProcess; Klasör pencerelerini ayrı bir işlemde başlatın;
+DisableFoldersLaunchSeparateProcess; Klasör pencerelerini ayrı bir işlemde başlatmayın;
+DisableReservedStorage; Bir sonraki güncelleme kurulumundan sonra ayrılmış depolamayı devre dışı bırakın ve silin;
+EnableReservedStorage; Bir sonraki güncelleme kurulumundan sonra ayrılmış depolamayı etkinleştirin;
+DisableF1HelpPage; F1 aracılığıyla yardım aramasını devre dışı bırakın;
+EnableF1HelpPage; F1 aracılığıyla yardım aramayı etkinleştirin;
+EnableNumLock; Başlangıçta Num Lock'u etkinleştirin;
+DisableNumLock; Başlangıçta Num Lock'u devre dışı bırakın;
+DisableCapsLock; Caps Lock'u devre dışı bırakın;
+EnableCapsLock; Büyük harfi Etkinleştir;
+DisableStickyShift; Yapışkan tuşları çevirmek için Shift tuşuna 5 kez basarak kapatın;
+EnableStickyShift; Yapışkan tuşları açmak için Shift tuşuna 5 kez basarak açın;
+DisableAutoplay; Tüm medya ve cihazlar için Otomatik Kullan'ı kullanmayın;
+EnableAutoplay; Tüm medya ve cihazlar için Otomatik Kullan'ı kullanın;
+DisableThumbnailCacheRemoval; Küçük resim önbelleğini kaldırmayı devre dışı bırakın;
+EnableThumbnailCacheRemoval; Küçük resim önbelleğini kaldırmayı etkinleştir;
+EnableSaveRestartableApps; Yeniden başlatılabilir uygulamalarımı otomatik olarak kaydedip tekrar oturum açtığımda yeniden başlatıyorum;
+DisableSaveRestartableApps; Yeniden başlatılabilir uygulamalarımı kaydetmeyi otomatik olarak kapat ve tekrar oturum açtığımda yeniden başlat;
+EnableNetworkDiscovery; Çalışma grubu ağları için "Ağ Bulma" ve "Dosya ve Yazıcı Paylaşımı"nı etkinleştirin;
+DisableNetworkDiscovery; Çalışma grubu ağları için "Ağ Bulma" ve "Dosya ve Yazıcı Paylaşımı"nı devre dışı bırakın;
+AutomaticallyActiveHours; Günlük kullanıma göre aktif saatleri benim için otomatik olarak ayarla;
+ManuallyActiveHours; Aktif saatleri benim için günlük kullanıma göre manuel olarak ayarla;
+EnableDeviceRestartAfterUpdate; Güncellemeyi bitirmek için mümkün olan en kısa sürede yeniden başlatın;
+DisableDeviceRestartAfterUpdate; Güncellemeyi bitirmek için mümkün olan en kısa sürede yeniden başlatmayın
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Başlat menüsünde son eklenen uygulamaları gizleyin;
+ShowRecentlyAddedApps; Başlat menüsünde son eklenen uygulamaları göster;
+HideAppSuggestions; Başlat menüsünde uygulama önerilerini gizleyin;
+ShowAppSuggestions; Başlat menüsünde uygulama önerilerini göster;
+ElevatedRunPowerShellShortcut; Başlat menüsünden Windows PowerShell kısayolunu Yönetici olarak çalıştırın;
+NonElevatedRunPowerShellShortcut; Kullanıcı olarak Başlat menüsünden Windows PowerShell kısayolunu çalıştırın
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Cortana otomatik başlatmayı devre dışı bırakın;
+EnableCortanaAutostart; Cortana otomatik başlatmayı etkinleştirin;
+DisableBackgroundUWPApps; UWP uygulamalarının arka planda çalışmasına izin vermeyin;
+EnableBackgroundUWPApps; Tüm UWP uygulamalarının arka planda çalışmasına izin verin
+
+<#gaming#>
+
+DisableXboxGameBar; Xbox Oyun Çubuğunu devre dışı bırakın;
+EnableXboxGameBar; Xbox Oyun Çubuğunu Etkinleştir;
+DisableXboxGameTips; Xbox Oyun Çubuğu ipuçlarını devre dışı bırakın;
+EnableXboxGameTips; Xbox Oyun Çubuğu ipuçlarını etkinleştirin;
+EnableGPUScheduling; Donanım hızlandırmalı GPU zamanlamasını etkinleştirin;
+DisableGPUScheduling; Donanım hızlandırmalı GPU zamanlamasını devre dışı bırakın
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Microsoft Defender Exploit Guard ağ korumasını etkinleştirin;
+DisableNetworkProtection; Microsoft Defender Exploit Guard ağ korumasını devre dışı bırakın;
+EnablePUAppsDetection; Potansiyel olarak istenmeyen uygulamalar için algılamayı etkinleştirin ve bunları engelleyin;
+DisablePUAppsDetection; Potansiyel olarak istenmeyen uygulamalar için algılamayı devre dışı bırakın ve bunları engelleyin;
+EnableDefenderSandbox; Microsoft Defender için korumalı alanı etkinleştirin;
+DisableDefenderSandbox; Microsoft Defender için korumalı alanı devre dışı bırakın;
+EnableAuditProcess; Bir süreç oluşturulduğunda (başlatıldığında) oluşturulan olayları denetlemeyi etkinleştirin;
+DisableAuditProcess; Bir süreç oluşturulduğunda (başlatıldığında) oluşturulan olay denetimini devre dışı bırakın;
+EnableCommandLineProcessAudit; Süreç oluşturma olaylarına komut satırını dahil edin;
+DisableCommandLineProcessAudit; İşlem oluşturma olaylarına komut satırını dahil etmeyin;
+EnableEventViewerCustomView; Yürütülen süreçleri ve bunların argümanlarını günlüğe kaydetmek için "Süreç Oluşturma" Olay Görüntüleyicisi Ñ??ustom görünümünü oluşturun;
+DisableEventViewerCustomView; "İşlem Oluşturma" Olay Görüntüleyicisi özel görünümünü kaldırın;
+EnablePowerShellModulesLogging; Tüm Windows PowerShell modülleri için günlüğe kaydetmeyi etkinleştirin;
+DisablePowerShellModulesLogging; Tüm Windows PowerShell modülleri için günlüğe kaydetmeyi devre dışı bırakın;
+EnablePowerShellScriptsLogging; Windows PowerShell olay günlüğüne girilen tüm PowerShell komut dosyaları için günlüğe kaydetmeyi etkinleştirin;
+DisablePowerShellScriptsLogging; Windows PowerShell olay günlüğüne girilen tüm PowerShell komut dosyaları için günlüğe kaydetmeyi devre dışı bırakın;
+DisableAppsSmartScreen; Microsoft Defender SmartScreen içindeki uygulamaları ve dosyaları denetlemeyi devre dışı bırakın;
+EnableAppsSmartScreen; Microsoft Defender SmartScreen içinde uygulamaları ve dosyaları denetlemeyi etkinleştirin;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen, İnternet'ten indirilen dosyaları güvensiz olarak işaretlemez;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen, İnternet'ten indirilen dosyaları güvensiz olarak işaretler;
+DisableWindowsScriptHost; Windows Komut Dosyası Ana Bilgisayarını Devre Dışı Bırak;
+EnableWindowsScriptHost; Windows Komut Dosyası Ana Bilgisayarını Etkinleştirin;
+DisableWindowsSandbox; Windows Sandbox'ı devre dışı bırakın;
+EnableWindowsSandbox; Windows Sandbox'ı Etkinleştir
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Windows Installer (.msi) bağlam menüsünde "Tümünü ayıkla" öğesini gösterin;
+HideMSIExtractContext; Windows Installer (.msi) içerik menüsünden "Tümünü ayıkla" öğesini gizleyin;
+ShowCABInstallContext; Kabin (.cab) dosya adları uzantıları bağlam menüsündeki "Yükle" öğesini gösterin;
+HideCABInstallContext; Kabin (.cab) dosya adları uzantıları bağlam menüsünden "Yükle" öğesini gizleyin;
+ShowRunAsDifferentUserContext; .exe dosya adı uzantıları bağlam menüsünde "Farklı kullanıcı olarak çalıştır" öğesini gösterin;
+HideRunAsDifferentUserContext; .exe dosya adı uzantıları bağlam menüsünden "Farklı kullanıcı olarak çalıştır" öğesini gizleyin;
+HideCastToDeviceContext; Medya dosyaları ve klasörleri bağlam menüsünden "Cihaza Yayınla" öğesini gizleyin;
+ShowCastToDeviceContext; Medya dosyaları ve klasörleri bağlam menüsünde "Cihaza Yayınla" öğesini gösterin;
+HideShareContext; Bağlam menüsünden "Paylaş" öğesini gizleyin;
+ShowShareContext; Bağlam menüsünde "Paylaş" öğesini gösterin;
+HideEditWithPaint3DContext; Medya dosyaları bağlam menüsünden "Paint 3D ile Düzenle" öğesini gizleyin;
+ShowEditWithPaint3DContext; Medya dosyaları bağlam menüsünde "Paint 3D ile Düzenle" öğesini gösterin;
+HideEditWithPhotosContext; Medya dosyaları bağlam menüsünden "Fotoğraflarla Düzenle" öğesini gizleyin;
+ShowEditWithPhotosContext; Medya dosyaları bağlam menüsünde "Fotoğraflarla Düzenle" öğesini gösterin;
+HideCreateANewVideoContext; Medya dosyaları bağlam menüsünden "Yeni video oluştur" öğesini gizleyin;
+ShowCreateANewVideoContext; Medya dosyaları bağlam menüsünde "Yeni video oluştur" öğesini gösterin;
+HideImagesEditContext; Medya dosyaları bağlam menüsünden "Yeni video oluştur" öğesini gizleyin;
+ShowImagesEditContext; Medya dosyaları bağlam menüsünde "Yeni video oluştur" öğesini gösterin;
+HidePrintCMDContext; .bat ve .cmd bağlam menüsünden "Yazdır" öğesini gizleyin;
+ShowPrintCMDContext; .bat ve .cmd bağlam menüsünde "Yazdır" öğesini gösterin;
+HideIncludeInLibraryContext; Klasörler ve sürücüler bağlam menüsünden "Kitaplığa Dahil Et" öğesini gizleyin;
+ShowIncludeInLibraryContext; Klasörler ve sürücüler bağlam menüsünde "Kitaplığa Dahil Et" öğesini gösterin;
+HideSendToContext; Klasörler bağlam menüsünden "Gönder" öğesini gizleyin;
+ShowSendToContext; Klasörler bağlam menüsünde "Gönder" öğesini gösterin;
+HideBitLockerContext; Sürücü bağlam menüsünden "BitLocker'ı Aç" öğesini gizleyin;
+ShowBitLockerContext; Sürücü bağlam menüsünde "BitLocker'ı Aç" öğesini gösterin;
+HideBitmapImageNewContext; "Yeni" bağlam menüsünden "Bitmap görüntüsü" öğesini gizleyin;
+ShowBitmapImageNewContext; "Yeni" bağlam menüsünde "Bitmap görüntüsü" öğesini gösterin;
+HideRichTextDocumentNewContext; "Yeni" bağlam menüsünden "Zengin Metin Belgesi" öğesini gizleyin;
+ShowRichTextDocumentNewContext; "Yeni" bağlam menüsünde "Zengin Metin Belgesi" öğesini gösterin;
+HideCompressedFolderNewContext; "Yeni" bağlam menüsünden "Sıkıştırılmış (sıkıştırılmış) Klasör" öğesini gizleyin;
+ShowCompressedFolderNewContext; "Sıkıştırılmış (sıkıştırılmış) Klasör" öğesini "Yeni" bağlam menüsünde gösterin;
+EnableMultipleInvokeContext; 15'ten fazla dosya seçildiyse "Aç", "Yazdır" ve "Düzenle" öğelerini etkinleştirin;
+DisableMultipleInvokeContext; 15'ten fazla dosya seçildiyse "Aç", "Yazdır" ve "Düzenle" öğelerini devre dışı bırakın;
+HideUseStoreOpenWith; "Birlikte aç" iletişim kutusunda "Microsoft Mağazasında bir uygulama ara" öğesini gizleyin;
+ShowUseStoreOpenWith; "Birlikte aç" iletişim kutusunda "Microsoft Mağazasında bir uygulama arayın" öğesini gösterin
+
+<#other#>
+
+HideTaskbarSearch; Aramayı görev çubuğunda gizle;
+SearchIconTaskbarSearch; Görev çubuğunda arama simgesini göster;
+SearchBoxTaskbarSearch; Arama kutusunu görev çubuğunda göster;
+AlwaysCombineHideLabelsTaskbar; Görev çubuğu Her zaman birleştir, etiketleri gizle;
+CombineWhenFullTaskbar; Görev çubuğu Görev çubuğu dolduğunda birleştirin;
+NeverCombineTaskbar; Görev çubuğu Asla birleştirme;
+CategoryControlPanelView; Kontrol Paneli simgelerini kategoriye göre görüntüleyin;
+LargeIconsControlPanelView; Kontrol Paneli simgelerini büyük simgelerle görüntüleyin;
+SmallIconsControlPanelView; Kontrol Paneli simgelerini küçük simgelerle görüntüleyin
+
+<#end#>

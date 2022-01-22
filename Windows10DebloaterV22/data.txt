@@ -1,0 +1,214 @@
+<#third#>
+	"InstallTerminal", "DoNotInstallTerminal",
+	"InstallPowertoys", "DoNotInstallPowertoys",
+	"InstallAdobe", "DoNotInstallAdobe",
+	"InstallSumatrapdf", "DoNotInstallSumatrapdf",
+	"InstallJava", "DoInstallJava",
+	"Install7Zip", "DoNotInstall7Zip",
+	"InstallIrfanview", "DoNotInstallIrfanview",
+	"InstallNotepadplusplus", "DoNotInstallNotepadplusplus", 
+	"InstallMediaPlayerClassic", "DoNotInstallMediaPlayerClassic",
+	"InstallVLCMediaPlayer", "DoNotInstallVLCMediaPlayer",
+	"InstallChrome", "DoNotInstallChrome",
+	"InstallFirefox", "DoNotInstallFirefox",
+	"InstallBrave", "DoNotInstallBrave",
+	"InstallAutoHotkey", "DoNotInstallAutoHotkey",
+	"InstallImageGlass", "DoNotInstallImageGlass",
+	"InstallDiscord", "DoNotInstallDiscord",
+	"InstallVisualStudioCode", "DoNotInstallVisualStudioCode",
+	"InstallVSCodium", "DoNotInstallVSCodium",
+	"InstallVoidtoolsEverything", "DoNotInstallVoidtoolsEverything",
+	"InstallGitHubDesktop", "DoNotInstallGitHubDesktop",
+	"InstallTranslucentTB", "DoNotInstallTranslucentTB",
+	"InstallEtcher", "DoNotInstallEtcher",
+	"InstallPuTTYWinSCP", "DoNotInstallPuTTYWinSCP",
+	"InstallAdvancedIPScanner", "DoNotInstallAdvancedIPScanner",
+	"InstallShareX", "DoNotInstallShareX",
+	"InstallGIMP", "DoNotInstallGIMP"
+
+<#windowsapps#>
+	"MicrosoftEdge", "LeaveAlone",
+	"MicrosoftEdgeUpdate", "LeaveAlone",	
+	"Cortana", "LeaveAlone",
+	"MSNWeather", "LeaveAlone",
+	"GetHelp", "LeaveAlone",
+	"MicrosoftTips", "LeaveAlone",
+	"HEIFImageExtensions", "LeaveAlone",
+	"Paint3D", "LeaveAlone",
+	"3DViewer", "LeaveAlone",
+	"Office", "LeaveAlone",
+	"MicrosoftSolitaireCollection", "LeaveAlone",
+	"MicrosoftStickyNotes", "LeaveAlone",
+	"MixedRealityPortal", "LeaveAlone",
+	"OneNote", "LeaveAlone",
+	"MicrosoftPeople", "LeaveAlone",
+	"SnipSketch", "LeaveAlone",
+	"Skype", "LeaveAlone",
+	"StoreExperienceHost", "LeaveAlone",
+	"VP9VideoExtensions", "LeaveAlone",
+	"MicrosoftPay", "LeaveAlone",
+	"WebMediaExtensions", "LeaveAlone",
+	"WebpImageExtensions", "LeaveAlone",
+	"MicrosoftPhotos", "LeaveAlone",
+	"WindowsAlarmsClock", "LeaveAlone",
+	"WindowsCalculator", "LeaveAlone",
+	"WindowsCamera", "LeaveAlone",
+	"FeedbackHub", "LeaveAlone",
+	"WindowsMaps", "LeaveAlone",
+	"WindowsVoiceRecorder", "LeaveAlone",
+	"Xbox", "LeaveAlone",
+	"XboxTCUI", "LeaveAlone",
+	"XboxGameBarPlugin", "LeaveAlone",
+	"XboxGameBar", "LeaveAlone",
+	"XboxIdentityProvider", "LeaveAlone",
+	"XboxGameSpeechWindow", "LeaveAlone",
+	"YourPhone", "LeaveAlone",
+	"GrooveMusic", "LeaveAlone",
+	"MoviesTV", "LeaveAlone",
+	"MailCalendar", "LeaveAlone",
+	"MicrosoftStore", "LeaveAlone"
+
+<#privacytelemetry#>
+	"DisableDiagTrackService", "EnableDiagTrackService",
+	"MinimalDiagnosticDataLevel", "DefaultDiagnosticDataLevel",
+	"DisableErrorReporting", "EnableErrorReporting",
+	"NeverFeedbackFrequency", "AutomaticallyFeedbackFrequency",
+	"DisableSigninInfo", "EnableSigninInfo",
+	"DisableLanguageListAccess", "EnableLanguageListAccess",
+	"DisableAdvertisingID", "EnableAdvertisingID",
+	"HideWindowsWelcomeExperience", "ShowWindowsWelcomeExperience",
+	"DisableWindowsTips", "EnableWindowsTips,"
+	"HideSettingsSuggestedContent", "ShowSettingsSuggestedContent",
+	"DisableAppsSilentInstalling", "EnableAppsSilentInstalling",
+	"DisableWhatsNewInWindows", "EnableWhatsNewInWindows",
+	"DisableTailoredExperiences", "EnableTailoredExperiences",
+	"DisableBingSearch", "EnableBingSearch"
+
+<#uiperson#>
+	"ShowThisPC", "HideThisPC",	
+	"DisableCheckBoxes", "EnableCheckBoxes",
+	"EnableHiddenItems", "DisableHiddenItems",
+	"ShowFileExtensions", "HideFileExtensions",
+	"ShowMergeConflicts", "HideMergeConflicts",
+	"ThisPCOpenFileExplorerTo", "QuickAccessOpenFileExplorerTo",
+	"HideCortanaButton", "ShowCortanaButton",
+	"HideOneDriveFileExplorerAd", "ShowOneDriveFileExplorerAd",
+	"DisableSnapAssist", "EnableSnapAssist",
+	"DetailedFileTransferDialog", "CompactFileTransferDialog",
+	"ExpandedFileExplorerRibbon", "MinimizedFileExplorerRibbon",
+	"EnableRecycleBinDeleteConfirmation", "DisableRecycleBinDeleteConfirmation",
+	"Hide3DObjects", "Show3DObjects",
+	"HideQuickAccessRecentFiles", "ShowQuickAccessRecentFiles",
+	"HideTaskViewButton", "ShowTaskViewButton",
+	"HidePeopleTaskbar", "ShowPeopleTaskbar",
+	"ShowSecondsInSystemClock", "HideSecondsInSystemClock",
+	"HideWindowsInkWorkspace", "ShowWindowsInkWorkspace",
+	"HideMeetNow", "ShowMeetNow",
+	"DisableNewsInterests", "EnableNewsInterests",
+	"DarkWindowsColorMode", "LightWindowsColorMode",
+	"DarkAppColorMode", "LightAppColorMode",
+	"HideNewAppInstalledNotification", "ShowNewAppInstalledNotification",
+	"DisableFirstLogonAnimation", "EnableFirstLogonAnimation",
+	"MaxJPEGWallpapersQuality", "DefaultJPEGWallpapersQuality",
+	"ExpandedTaskManagerWindow", "CompactTaskManagerWindow",
+	"ShowRestartNotification", "HideRestartNotification",
+	"DisableShortcutsSuffix", "EnableShortcutsSuffix",
+	"EnablePrtScnSnippingTool", "DisablePrtScnSnippingTool",
+	"DisableAppsLanguageSwitch", "EnableAppsLanguageSwitch", 
+	"DisableAeroShaking", "EnableAeroShaking"
+
+<#onedrive#>
+	"UninstallOneDrive", "InstallOneDrive"
+
+<#system#>
+	"EnableStorageSense", "DisableStorageSense",
+	"EnableStorageSenseTempFiles", "DisableStorageSenseTempFiles",
+	"MonthStorageSenseFrequency", "DefaultStorageSenseFrequency",
+	"DisableHibernation", "EnableHibernation",
+	"DisableWin32LongPathLimit", "EnableWin32LongPathLimit",
+	"EnableBSoDStopError", "DisableBSoDStopError",
+	"NeverAdminApprovalMode", "DefaultAdminApprovalMode",
+	"EnableMappedDrivesAppElevatedAccess", "DisableMappedDrivesAppElevatedAccess",
+	"DisableDeliveryOptimization", "EnableDeliveryOptimization",
+	"EnableWaitNetworkStartup", "DisableWaitNetworkStartup",
+	"DisableWindowsManageDefaultPrinter", "EnableWindowsManageDefaultPrinter",
+	"EnableUpdateMicrosoftProducts", "DisableUpdateMicrosoftProducts",
+	"HighPowerPlan", "BalancedPowerPlan",
+	"EnableLatestInstalledNET", "DisableLatestInstalledNET",
+	"DisableNetworkAdaptersSavePower", "EnableNetworkAdaptersSavePower",
+	"EnglishInputMethod", "DefaultInputMethod",
+	"DesktopWinPrtScrFolder", "DefaultWinPrtScrFolder",
+	"AutomaticallyRecommendedTroubleshooting", "DefaultRecommendedTroubleshooting",
+	"EnableFoldersLaunchSeparateProcess", "DisableFoldersLaunchSeparateProcess",
+	"DisableReservedStorage", "EnableReservedStorage",
+	"DisableF1HelpPage", "EnableF1HelpPage",
+	"EnableNumLock", "DisableNumLock",
+	"DisableCapsLock", "EnableCapsLock",
+	"DisableStickyShift", "EnableStickyShift",
+	"DisableAutoplay", "EnableAutoplay",
+	"DisableThumbnailCacheRemoval", "EnableThumbnailCacheRemoval",
+	"EnableSaveRestartableApps", "DisableSaveRestartableApps",
+	"EnableNetworkDiscovery", "DisableNetworkDiscovery",
+	"AutomaticallyActiveHours", "ManuallyActiveHours",
+	"EnableDeviceRestartAfterUpdate", "DisableDeviceRestartAfterUpdate"
+
+<#startmenu#>
+	"HideRecentlyAddedApps", "ShowRecentlyAddedApps",
+	"HideAppSuggestions", "ShowAppSuggestions",
+	"ElevatedRunPowerShellShortcut", "NonElevatedRunPowerShellShortcut",
+
+<#uwpapps#>
+	"DisableCortanaAutostart", "EnableCortanaAutostart",
+	"DisableBackgroundUWPApps", "EnableBackgroundUWPApps"
+
+<#gaming#>
+	"DisableXboxGameBar", "EnableXboxGameBar",
+	"DisableXboxGameTips", "EnableXboxGameTips",
+	"EnableGPUScheduling", "DisableGPUScheduling"
+
+<#defendersecurity#>
+	"EnableNetworkProtection", "DisableNetworkProtection",
+	"EnablePUAppsDetection", "DisablePUAppsDetection",
+	"EnableDefenderSandbox", "DisableDefenderSandbox",
+	"EnableAuditProcess", "DisableAuditProcess",
+	"EnableCommandLineProcessAudit", "DisableCommandLineProcessAudit",
+	"EnableEventViewerCustomView", "DisableEventViewerCustomView",
+	"EnablePowerShellModulesLogging", "DisablePowerShellModulesLogging",
+	"EnablePowerShellScriptsLogging", "DisablePowerShellScriptsLogging",
+	"DisableAppsSmartScreen", "EnableAppsSmartScreen",
+	"DisableSaveZoneInformation", "EnableSaveZoneInformation",
+	"DisableWindowsScriptHost", "EnableWindowsScriptHost",
+	"DisableWindowsSandbox", "EnableWindowsSandbox"
+
+<#contextmenu#>
+	"ShowMSIExtractContext", "HideMSIExtractContext",
+	"ShowCABInstallContext", "HideCABInstallContext",
+	"ShowRunAsDifferentUserContext", "HideRunAsDifferentUserContext",
+	"HideCastToDeviceContext", "ShowCastToDeviceContext",
+	"HideShareContext", "ShowShareContext",
+	"HideEditWithPaint3DContext", "ShowEditWithPaint3DContext",
+	"HideEditWithPhotosContext", "ShowEditWithPhotosContext",
+	"HideCreateANewVideoContext", "ShowCreateANewVideoContext",
+	"HideImagesEditContext", "ShowImagesEditContext",
+	"HidePrintCMDContext", "ShowPrintCMDContext",
+	"HideIncludeInLibraryContext", "ShowIncludeInLibraryContext",
+	"HideSendToContext", "ShowSendToContext",
+	"HideBitLockerContext", "ShowBitLockerContext",
+	"HideBitmapImageNewContext", "ShowBitmapImageNewContext",
+	"HideRichTextDocumentNewContext", "ShowRichTextDocumentNewContext",
+	"HideCompressedFolderNewContext", "ShowCompressedFolderNewContext",
+	"EnableMultipleInvokeContext", "DisableMultipleInvokeContext",
+	"HideUseStoreOpenWith", "ShowUseStoreOpenWith"
+
+<#other#>
+	"HideTaskbarSearch", "SearchIconTaskbarSearch", "SearchBoxTaskbarSearch",
+	"AlwaysCombineHideLabelsTaskbar", "CombineWhenFullTaskbar", "NeverCombineTaskbar",
+	"CategoryControlPanelView", "LargeIconsControlPanelView", "SmallIconsControlPanelView",
+
+<#end#>
+
+
+
+
+
+

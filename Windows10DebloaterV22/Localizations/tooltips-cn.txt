@@ -1,0 +1,271 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; 禁用连接的用户体验和遥测 (DiagTrack) 服务，并阻止统一遥测客户端出站流量的连接;
+EnableDiagTrackService; 启用连接的用户体验和遥测 (DiagTrack) 服务，并允许连接统一遥测客户端出站流量;
+MinimalDiagnosticDataLevel; 将诊断数据收集设置为最小;
+DefaultDiagnosticDataLevel; 将诊断数据收集设置为默认;
+DisableErrorReporting; 关闭 Windows 错误报告;
+EnableErrorReporting; 打开 Windows 错误报告;
+NeverFeedbackFrequency; 将反馈频率更改为“从不”;
+AutomaticallyFeedbackFrequency; 将反馈频率更改为“自动”;
+DisableSigninInfo; 更新后不要使用登录信息自动完成设备设置;
+EnableSigninInfo; 更新后使用登录信息自动完成设备设置;
+DisableLanguageListAccess; 不要让网站通过访问我的语言列表向我展示本地相关内容;
+EnableLanguageListAccess; 让网站通过访问语言我的列表向我展示本地相关内容;
+DisableAdvertisingID; 不要让应用使用我的广告 ID 向我展示个性化广告;
+EnableAdvertisingID; 让应用使用我的广告 ID 向我展示个性化广告;
+HideWindowsWelcomeExperience; 更新后隐藏 Windows 欢迎体验，偶尔在我登录时隐藏，以突出显示新内容和建议;
+ShowWindowsWelcomeExperience; 在更新后显示 Windows 欢迎体验，偶尔在我登录时显示新的和建议的内容;
+DisableWindowsTips; 在我使用 Windows 时不要得到提示和建议;
+EnableWindowsTips; 在我使用 Windows 时获取提示和建议;
+HideSettingsSuggestedContent; 在“设置”应用中对我隐藏建议的内容;
+ShowSettingsSuggestedContent; 在“设置”应用中向我显示建议的内容;
+DisableAppsSilentInstalling; 关闭自动安装建议的应用程序;
+EnableAppsSilentInstalling; 开启自动安装建议的应用;
+DisableWhatsNewInWindows; 禁用有关如何设置设备的建议;
+EnableWhatsNewInWindows; 提供有关如何设置设备的建议;
+DisableTailoredExperiences; 不要让 Microsoft 将您的诊断数据用于个性化提示、广告和建议;
+EnableTailoredExperiences; 让 Microsoft 将您的诊断数据用于个性化提示、广告和建议;
+DisableBingSearch; 在开始菜单中禁用 Bing 搜索;
+EnableBingSearch; 在开始菜单中启用 Bing 搜索
+
+<#uiperson#>
+
+ShowThisPC; 在桌面上显示“此电脑”图标;
+HideThisPC; 隐藏桌面上的“此电脑”图标;
+DisableCheckBoxes; 不要使用项目复选框;
+EnableCheckBoxes; 使用复选框;
+EnableHiddenItems; 显示隐藏的文件、文件夹和驱动器;
+DisableHiddenItems; 不显示隐藏的文件、文件夹和驱动器;
+ShowFileExtensions; 显示文件扩展名;
+HideFileExtensions; 隐藏文件扩展名;
+ShowMergeConflicts; 显示文件夹合并冲突;
+HideMergeConflicts; 隐藏文件夹合并冲突;
+ThisPCOpenFileExplorerTo; 打开文件资源管理器到“这台电脑”;
+QuickAccessOpenFileExplorerTo; 打开文件资源管理器以快速访问;
+HideCortanaButton; 隐藏任务栏上的 Cortana 按钮;
+ShowCortanaButton; 在任务栏上显示 Cortana 按钮;
+HideOneDriveFileExplorerAd; 不要在文件资源管理器中显示同步提供程序通知;
+ShowOneDriveFileExplorerAd; 在文件资源管理器中显示同步提供程序通知;
+DisableSnapAssist; 当我捕捉一个窗口时，不要在它旁边显示我可以捕捉的东西;
+EnableSnapAssist; 当我捕捉一个窗口时，展示我可以捕捉它旁边的东西;
+DetailedFileTransferDialog; 以详细模式显示文件传输对话框;
+CompactFileTransferDialog; 以压缩模式显示文件传输对话框;
+ExpandedFileExplorerRibbon; 展开文件资源管理器功能区;
+MinimizedFileExplorerRibbon; 最小化文件资源管理器功能区;
+EnableRecycleBinDeleteConfirmation; 显示回收站文件删除确认对话框;
+DisableRecycleBinDeleteConfirmation; 不显示回收站文件删除确认对话框;
+Hide3DObjects; 隐藏“This PC”中的“3D Objects”文件夹并快速访问;
+Show3DObjects; 在“This PC”和快速访问中显示“3D Objects”文件夹;
+HideQuickAccessRecentFiles; 在快速访问中隐藏常用文件夹;
+ShowQuickAccessRecentFiles; 在快速访问中显示常用文件夹;
+HideTaskViewButton; 隐藏任务栏上的任务视图按钮;
+ShowTaskViewButton; 在任务栏上显示任务视图按钮;
+HidePeopleTaskbar; 隐藏任务栏上的人物按钮;
+ShowPeopleTaskbar; 在任务栏上显示人物按钮;
+ShowSecondsInSystemClock; 在任务栏时钟上显示秒数;
+HideSecondsInSystemClock; 在任务栏时钟上隐藏秒数;
+HideWindowsInkWorkspace; 隐藏任务栏上的 Windows Ink 工作区按钮;
+ShowWindowsInkWorkspace; 在任务栏上显示 Windows Ink 工作区按钮;
+HideMeetNow; 隐藏通知区域的“立即开会”图标;
+ShowMeetNow; 在通知区域显示立即开会图标;
+DisableNewsInterests; 禁用任务栏上的“新闻和兴趣”;
+EnableNewsInterests; 在任务栏上启用“新闻和兴趣”;
+DarkWindowsColorMode; 将默认的 Windows 模式设置为深色;
+LightWindowsColorMode; 将默认的 Windows 模式设置为 light;
+DarkAppColorMode; 将默认应用模式设置为深色;
+LightAppColorMode; 将默认应用模式设置为亮;
+HideNewAppInstalledNotification; 隐藏“新应用安装”指示器;
+ShowNewAppInstalledNotification; 显示“新应用安装”指示器;
+DisableFirstLogonAnimation; 升级后禁用首次登录动画;
+EnableFirstLogonAnimation; 升级后开启首次登录动画;
+MaxJPEGWallpapersQuality; 将 JPEG 桌面壁纸的品质因数设置为最大;
+DefaultJPEGWallpapersQuality; 将JPEG桌面壁纸的品质因数设置为默认值;
+ExpandedTaskManagerWindow; 在展开模式下启动任务管理器;
+CompactTaskManagerWindow; 以紧凑模式启动任务管理器;
+ShowRestartNotification; 当需要重新启动以完成更新时通知我;
+HideRestartNotification; 当需要重新启动以完成更新时不要通知我;
+DisableShortcutsSuffix; 请勿在创建的快捷方式的文件名后添加“-快捷方式”后缀;
+EnableShortcutsSuffix; 在创建的快捷方式的文件名后添加“-快捷方式”后缀;
+EnablePrtScnSnippingTool; 使用打印屏幕按钮打开屏幕截图;
+DisablePrtScnSnippingTool; 不要使用打印屏幕按钮打开屏幕截图;
+DisableAppsLanguageSwitch; 不要为每个应用程序窗口使用不同的输入法;
+EnableAppsLanguageSwitch; 让我为每个应用程序窗口使用不同的输入法;
+DisableAeroShaking; 当我抓住一个窗口的标题栏并摇动它时，不要最小化所有其他窗口;
+EnableAeroShaking; 当我抓住一个窗口的标题栏并摇动它时，最小化所有其他窗口
+
+<#onedrive#>
+
+UninstallOneDrive; 卸载 OneDrive;
+InstallOneDrive; 安装 OneDrive
+
+<#system#>
+
+EnableStorageSense; 打开存储感知;
+DisableStorageSense; 关闭存储感知;
+EnableStorageSenseTempFiles; 开启自动清理临时系统和应用程序文件;
+DisableStorageSenseTempFiles; 关闭自动清理临时系统和应用程序文件;
+MonthStorageSenseFrequency; 每月运行存储感知;
+DefaultStorageSenseFrequency; 在可用磁盘空间不足时运行 Storage Sense;
+DisableHibernation; 禁用休眠;
+EnableHibernation; 启用休眠;
+DisableWin32LongPathLimit; 禁用 Windows 260 字符路径限制;
+EnableWin32LongPathLimit; 启用 Windows 260 字符路径限制;
+EnableBSoDStopError; 在BSoD上显示Stop错误信息;
+DisableBSoDStopError; 不在BSoD上显示Stop错误信息;
+NeverAdminApprovalMode; 当应用程序尝试对我的计算机进行更改时，从不通知;
+DefaultAdminApprovalMode; 仅当应用程序尝试更改我的计算机时通知我;
+EnableMappedDrivesAppElevatedAccess; 在启用管理员批准模式的情况下，从以提升的权限运行的应用程序打开对映射驱动器的访问;
+DisableMappedDrivesAppElevatedAccess; 在启用管理员批准模式的情况下，关闭以提升的权限运行的应用程序对映射驱动器的访问;
+DisableDeliveryOptimization; 关闭传递优化;
+EnableDeliveryOptimization; 开启传递优化;
+EnableWaitNetworkStartup; 在计算机启动和登录工作组网络时始终等待网络;
+DisableWaitNetworkStartup; 切勿在计算机启动和登录工作组网络时等待网络;
+DisableWindowsManageDefaultPrinter; 不要让 Windows 管理我的默认打印机;
+EnableWindowsManageDefaultPrinter; 让 Windows 管理我的默认打印机;
+EnableUpdateMicrosoftProducts; 接收其他 Microsoft 产品的更新;
+DisableUpdateMicrosoftProducts; 不接收其他 Microsoft 产品的更新;
+HighPowerPlan; 将电源计划设置为“高性能”;
+BalancedPowerPlan; 在“平衡”上设置电源计划;
+EnableLatestInstalledNET; 为所有应用程序使用最新安装的 .NET 运行时;
+DisableLatestInstalledNET; 不要为所有应用程序使用最新安装的 .NET 运行时;
+DisableNetworkAdaptersSavePower; 不要让电脑关闭网络适配器以节省电量;
+EnableNetworkAdaptersSavePower; 允许计算机关闭网络适配器以节省电量;
+EnglishInputMethod; 覆盖默认输入法：英文;
+DefaultInputMethod; 覆盖默认输入法：使用语言列表;
+DesktopWinPrtScrFolder; 在桌面上按 Win+PrtScr 保存屏幕截图;
+DefaultWinPrtScrFolder; 在图片文件夹中按 Win+PrtScr 保存屏幕截图;
+AutomaticallyRecommendedTroubleshooting; 自动运行疑难解答，然后通知我;
+DefaultRecommendedTroubleshooting; 在运行疑难解答之前询问我;
+EnableFoldersLaunchSeparateProcess; 在单独的进程中启动文件夹窗口;
+DisableFoldersLaunchSeparateProcess; 不要在单独的进程中启动文件夹窗口;
+DisableReservedStorage; 下次更新安装后禁用和删除保留存储;
+EnableReservedStorage; 下次更新安装后启用保留存储;
+DisableF1HelpPage; 通过 F1 禁用帮助查找;
+EnableF1HelpPage; 通过 F1 启用帮助查找;
+EnableNumLock; 启动时启用Num Lock;
+DisableNumLock; 启动时禁用Num Lock;
+DisableCapsLock; 禁用大写锁定;
+EnableCapsLock; 启用大写锁定;
+DisableStickyShift; 关闭按 Shift 键 5 次以打开粘滞键;
+EnableStickyShift; 打开按 Shift 键 5 次以打开粘滞键;
+DisableAutoplay; 不要对所有媒体和设备使用自动播放;
+EnableAutoplay; 对所有媒体和设备使用自动播放;
+DisableThumbnailCacheRemoval; 禁用缩略图缓存移除;
+EnableThumbnailCacheRemoval; 启用缩略图缓存删除;
+EnableSaveRestartableApps; 自动保存我的可重启应用程序并在我重新登录时重启它们;
+DisableSaveRestartableApps; 关闭自动保存我的可重启应用程序并在我重新登录时重启它们;
+EnableNetworkDiscovery; 为工作组网络启用“网络发现”和“文件和打印机共享”;
+DisableNetworkDiscovery; 为工作组网络禁用“网络发现”和“文件和打印机共享”;
+AutomaticallyActiveHours; 根据日常使用情况自动为我调整活跃时间;
+ManuallyActiveHours; 根据日常使用情况为我手动调整活动时间;
+EnableDeviceRestartAfterUpdate; 尽快重启完成更新;
+DisableDeviceRestartAfterUpdate; 不要尽快重启完成更新
+
+<#startmenu#>
+
+HideRecentlyAddedApps; 在开始菜单中隐藏最近添加的应用程序;
+ShowRecentlyAddedApps; 在开始菜单中显示最近添加的应用程序;
+HideAppSuggestions; 在开始菜单中隐藏应用建议;
+ShowAppSuggestions; 在开始菜单中显示应用建议;
+ElevatedRunPowerShellShortcut; 以管理员身份从开始菜单运行 Windows PowerShell 快捷方式;
+NonElevatedRunPowerShellShortcut; 以用户的 身份从“开始”菜单运行 Windows PowerShell 快捷方式
+
+<#uwpapps#>
+
+DisableCortanaAutostart; 禁用 Cortana 自动启动;
+EnableCortanaAutostart; 启用 Cortana 自动启动;
+DisableBackgroundUWPApps; 不要让 UWP 应用在后台运行;
+EnableBackgroundUWPApps; 让所有 UWP 应用在后台运行
+
+<#gaming#>
+
+DisableXboxGameBar; 禁用 Xbox 游戏栏;
+EnableXboxGameBar; 启用 Xbox 游戏栏;
+DisableXboxGameTips; 禁用 Xbox 游戏栏提示;
+EnableXboxGameTips; 启用 Xbox 游戏栏提示;
+EnableGPUScheduling; 启用硬件加速的 GPU 调度;
+DisableGPUScheduling; 禁用硬件加速 GPU 调度
+
+<#defendersecurity#>
+
+EnableNetworkProtection; 启用 Microsoft Defender Exploit Guard 网络保护;
+DisableNetworkProtection; 禁用 Microsoft Defender Exploit Guard 网络保护;
+EnablePUAppsDetection; 启用对潜在有害应用程序的检测并阻止它们;
+DisablePUAppsDetection; 禁用对可能不需要的应用程序的检测并阻止它们;
+EnableDefenderSandbox; 为 Microsoft Defender 启用沙箱;
+DisableDefenderSandbox; 禁用 Microsoft Defender 的沙箱;
+EnableAuditProcess; 启用进程创建（启动）时生成的事件审计;
+DisableAuditProcess; 禁用进程创建（启动）时生成的事件审计;
+EnableCommandLineProcessAudit; 在进程创建事件中包含命令行;
+DisableCommandLineProcessAudit; 不要在进程创建事件中包含命令行;
+EnableEventViewerCustomView; 创建“进程创建”事件查看器 Ñ??ustom 视图以记录已执行的进程及其参数;
+DisableEventViewerCustomView; 移除“进程创建”事件查看器自定义视图;
+EnablePowerShellModulesLogging; 为所有 Windows PowerShell 模块启用日志记录;
+DisablePowerShellModulesLogging; 禁用所有 Windows PowerShell 模块的日志记录;
+EnablePowerShellScriptsLogging; 为 Windows PowerShell 事件日志的所有 PowerShell 脚本输入启用日志记录;
+DisablePowerShellScriptsLogging; 禁用所有 PowerShell 脚本输入到 Windows PowerShell 事件日志的日志记录;
+DisableAppsSmartScreen; 在 Microsoft Defender SmartScreen 中禁用应用和文件检查;
+EnableAppsSmartScreen; 在 Microsoft Defender SmartScreen 中启用应用和文件检查;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen 不会将从 Internet 下载的文件标记为不安全;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen 将从 Internet 下载的文件标记为不安全;
+DisableWindowsScriptHost; 禁用 Windows 脚本宿主;
+EnableWindowsScriptHost; 启用 Windows 脚本宿主;
+DisableWindowsSandbox; 禁用 Windows 沙盒;
+EnableWindowsSandbox; 启用 Windows 沙盒
+
+<#contextmenu#>
+
+ShowMSIExtractContext; 在 Windows Installer (.msi) 上下文菜单中显示“全部提取”项;
+HideMSIExtractContext; 从 Windows Installer (.msi) 上下文菜单中隐藏“全部提取”项;
+ShowCABInstallContext; 在文件柜 (.cab) 文件扩展名上下文菜单中显示“安装”项;
+HideCABInstallContext; 隐藏文件柜 (.cab) 文件扩展名上下文菜单中的“安装”项;
+ShowRunAsDifferentUserContext; 在 .exe 文件扩展名上下文菜单中显示“以不同用户身份运行”项;
+HideRunAsDifferentUserContext; 从 .exe 文件扩展名上下文菜单中隐藏“以不同用户身份运行”项;
+HideCastToDeviceContext; 从媒体文件和文件夹上下文菜单中隐藏“Cast to Device”项;
+ShowCastToDeviceContext; 在媒体文件和文件夹上下文菜单中显示“Cast to Device”项;
+HideShareContext; 从上下文菜单中隐藏“共享”项;
+ShowShareContext; 在上下文菜单中显示“共享”项;
+HideEditWithPaint3DContext; 从媒体文件上下文菜单中隐藏“使用 Paint 3D 编辑”项;
+ShowEditWithPaint3DContext; 在媒体文件上下文菜单中显示“使用 Paint 3D 编辑”项;
+HideEditWithPhotosContext; 从媒体文件上下文菜单中隐藏“使用照片编辑”项;
+ShowEditWithPhotosContext; 在媒体文件上下文菜单中显示“使用照片编辑”项;
+HideCreateANewVideoContext; 从媒体文件上下文菜单中隐藏“创建新视频”项;
+ShowCreateANewVideoContext; 在媒体文件上下文菜单中显示“创建新视频”项;
+HideImagesEditContext; 从媒体文件上下文菜单中隐藏“创建新视频”项;
+ShowImagesEditContext; 在媒体文件上下文菜单中显示“创建新视频”项;
+HidePrintCMDContext; 从 .bat 和 .cmd 上下文菜单中隐藏“打印”项;
+ShowPrintCMDContext; 在 .bat 和 .cmd 上下文菜单中显示“打印”项;
+HideIncludeInLibraryContext; 从文件夹和驱动器上下文菜单中隐藏“包含在库中”项;
+ShowIncludeInLibraryContext; 在文件夹和驱动器上下文菜单中显示“包含在库中”项;
+HideSendToContext; 从文件夹上下文菜单中隐藏“发送到”项目;
+ShowSendToContext; 在文件夹上下文菜单中显示“发送到”项目;
+HideBitLockerContext; 从驱动器上下文菜单中隐藏“打开 BitLocker”项;
+ShowBitLockerContext; 在驱动器上下文菜单中显示“打开 BitLocker”项;
+HideBitmapImageNewContext; 从“新建”上下文菜单中隐藏“位图图像”项;
+ShowBitmapImageNewContext; 在“新建”上下文菜单中显示“位图图像”项;
+HideRichTextDocumentNewContext; 从“新建”上下文菜单中隐藏“富文本文档”项;
+ShowRichTextDocumentNewContext; 在“新建”上下文菜单中显示“富文本文档”项;
+HideCompressedFolderNewContext; 从“新建”上下文菜单中隐藏“压缩（zipped）文件夹”项;
+ShowCompressedFolderNewContext; 在“新建”上下文菜单中显示“压缩（zipped）文件夹”项;
+EnableMultipleInvokeContext; 如果选择的文件超过 15 个，则启用“打开”、“打印”和“编辑”项;
+DisableMultipleInvokeContext; 如果选择了超过 15 个文件 HideUseStoreOpenWith，则禁用“打开”、“打印”和“编辑”项;
+ShowUseStoreOpenWith; 在“打开方式”对话框中显示“在 Microsoft Store 中查找应用程序”项
+
+<#other#>
+
+HideTaskbarSearch; 隐藏任务栏上的搜索;
+SearchIconTaskbarSearch; 在任务栏上显示搜索图标;
+SearchBoxTaskbarSearch; 在任务栏上显示搜索框;
+AlwaysCombineHideLabelsTaskbar; 任务栏总是合并，隐藏标签;
+CombineWhenFullTaskbar; 任务栏在任务栏已满时合并;
+NeverCombineTaskbar; 任务栏从不合并;
+CategoryControlPanelView; 按类别查看控制面板图标;
+LargeIconsControlPanelView; 通过大图标查看控制面板图标;
+SmallIconsControlPanelView; 通过小图标查看控制面板图标
+
+<#end#>

@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Απενεργοποιήστε την υπηρεσία Connected User Experiences and Telemetry (DiagTrack) και αποκλείστε τη σύνδεση για την Εξερχόμενη Κυκλοφορία Client Unified Telemetry;
+EnableDiagTrackService; Ενεργοποιήστε την υπηρεσία Συνδεδεμένες Εμπειρίες Χρήστη και Τηλεμετρία (DiagTrack) και επιτρέψτε τη σύνδεση για την Εξερχόμενη Κυκλοφορία Πελατών Ενοποιημένης Τηλεμετρίας;
+MinimalDiagnosticDataLevel; Ρυθμίστε τη συλλογή διαγνωστικών δεδομένων στο ελάχιστο;
+DefaultDiagnosticDataLevel; Ορίστε τη συλλογή διαγνωστικών δεδομένων στην προεπιλογή;
+DisableErrorReporting; Απενεργοποιήστε την αναφορά σφαλμάτων των Windows;
+EnableErrorReporting; Ενεργοποιήστε την Αναφορά σφαλμάτων των Windows;
+NeverFeedbackFrequency; Αλλάξτε τη συχνότητα ανάδρασης σε "Ποτέ";
+AutomaticallyFeedbackFrequency; Αλλάξτε τη συχνότητα ανάδρασης σε "Αυτόματα";
+DisableSigninInfo; Μην χρησιμοποιείτε τις πληροφορίες σύνδεσης για να ολοκληρώσετε αυτόματα τη ρύθμιση της συσκευής μετά από μια ενημέρωση;
+EnableSigninInfo; Χρησιμοποιήστε τις πληροφορίες σύνδεσης για να ολοκληρώσετε αυτόματα τη ρύθμιση της συσκευής μετά από μια ενημέρωση;
+DisableLanguageListAccess; Μην αφήνετε τους ιστότοπους να μου εμφανίζουν τοπικά σχετικό περιεχόμενο με πρόσβαση στη λίστα γλωσσών μου;
+EnableLanguageListAccess; Επιτρέψτε στους ιστότοπους να μου εμφανίζουν τοπικά σχετικό περιεχόμενο μεταβαίνοντας στη γλώσσα στη λίστα μου;
+DisableAdvertisingID; Μην αφήνετε τις εφαρμογές να μου εμφανίζουν εξατομικευμένες διαφημίσεις χρησιμοποιώντας το αναγνωριστικό διαφήμισης;
+EnableAdvertisingID; Να επιτρέπεται στις εφαρμογές να μου εμφανίζουν εξατομικευμένες διαφημίσεις χρησιμοποιώντας το αναγνωριστικό διαφήμισης;
+HideWindowsWelcomeExperience; Απόκρυψη των εμπειριών καλωσορίσματος των Windows μετά από ενημερώσεις και περιστασιακά όταν συνδέομαι για να επισημάνω τα νέα και τα προτεινόμενα;
+ShowWindowsWelcomeExperience; Εμφάνιση των εμπειριών καλωσορίσματος των Windows μετά από ενημερώσεις και περιστασιακά όταν συνδέομαι για να επισημάνω ό,τι νέο υπάρχει και προτείνεται;
+DisableWindowsTips; Μην λαμβάνω συμβουλές και προτάσεις όταν χρησιμοποιώ τα Windows;
+EnableWindowsTips; Λάβετε συμβουλές και προτάσεις όταν χρησιμοποιώ τα Windows;
+HideSettingsSuggestedContent; Απόκρυψη προτεινόμενου περιεχομένου στην εφαρμογή Ρυθμίσεις;
+ShowSettingsSuggestedContent; Δείξτε μου προτεινόμενο περιεχόμενο στην εφαρμογή Ρυθμίσεις;
+DisableAppsSilentInstalling; Απενεργοποίηση αυτόματης εγκατάστασης προτεινόμενων εφαρμογών;
+EnableAppsSilentInstalling; Ενεργοποιήστε την αυτόματη εγκατάσταση προτεινόμενων εφαρμογών;
+DisableWhatsNewInWindows; Απενεργοποίηση προτάσεων για το πώς μπορώ να ρυθμίσω τη συσκευή μου;
+EnableWhatsNewInWindows; Προσφέρετε προτάσεις για το πώς μπορώ να ρυθμίσω τη συσκευή μου;
+DisableTailoredExperiences; Μην αφήνετε τη Microsoft να χρησιμοποιεί τα διαγνωστικά σας δεδομένα για εξατομικευμένες συμβουλές, διαφημίσεις και συστάσεις;
+EnableTailoredExperiences; Επιτρέψτε στη Microsoft να χρησιμοποιεί τα διαγνωστικά σας δεδομένα για εξατομικευμένες συμβουλές, διαφημίσεις και προτάσεις;
+DisableBingSearch; Απενεργοποιήστε την αναζήτηση Bing στο μενού Έναρξη;
+EnableBingSearch; Ενεργοποιήστε την αναζήτηση Bing στο μενού Έναρξη
+
+<#uiperson#>
+
+ShowThisPC; Εμφάνιση του εικονιδίου "Αυτός ο υπολογιστής" στην επιφάνεια εργασίας;
+HideThisPC; Απόκρυψη του εικονιδίου "Αυτός ο υπολογιστής" στην επιφάνεια εργασίας;
+DisableCheckBoxes; Μην χρησιμοποιείτε πλαίσια ελέγχου στοιχείων;
+EnableCheckBoxes; Χρήση πλαισίων ελέγχου στοιχείων;
+EnableHiddenItems; Εμφάνιση κρυφών αρχείων, φακέλων και μονάδων δίσκου;
+DisableHiddenItems; Μην εμφανίζετε κρυφά αρχεία, φακέλους και μονάδες δίσκου;
+ShowFileExtensions; Εμφάνιση επεκτάσεων ονόματος αρχείου;
+HideFileExtensions; Απόκρυψη επεκτάσεων ονόματος αρχείου;
+ShowMergeConflicts; Εμφάνιση διενέξεων συγχώνευσης φακέλων;
+HideMergeConflicts; Απόκρυψη διενέξεων συγχώνευσης φακέλων;
+ThisPCOpenFileExplorerTo; Ανοίξτε την Εξερεύνηση αρχείων σε "Αυτός ο υπολογιστής";
+QuickAccessOpenFileExplorerTo; Ανοίξτε την Εξερεύνηση αρχείων για γρήγορη πρόσβαση;
+HideCortanaButton; Απόκρυψη του κουμπιού Cortana στη γραμμή εργασιών;
+ShowCortanaButton; Εμφάνιση του κουμπιού Cortana στη γραμμή εργασιών;
+HideOneDriveFileExplorerAd; Να μην εμφανίζεται η ειδοποίηση του παρόχου συγχρονισμού στην Εξερεύνηση αρχείων;
+ShowOneDriveFileExplorerAd; Εμφάνιση ειδοποίησης παρόχου συγχρονισμού εντός του File Explorer;
+DisableSnapAssist; Όταν κουμπώνω ένα παράθυρο, μην εμφανίζεται τι μπορώ να κουμπώσω δίπλα του;
+EnableSnapAssist; Όταν κουμπώνω ένα παράθυρο, δείξτε τι μπορώ να κουμπώσω δίπλα του;
+DetailedFileTransferDialog; Εμφάνιση του πλαισίου διαλόγου μεταφοράς αρχείων στη λεπτομερή λειτουργία;
+CompactFileTransferDialog; Εμφάνιση του πλαισίου διαλόγου μεταφοράς αρχείων στη συμπαγή λειτουργία;
+ExpandedFileExplorerRibbon; Αναπτύξτε την κορδέλα Εξερεύνηση αρχείων;
+MinimizedFileExplorerRibbon; Ελαχιστοποιήστε την κορδέλα του File Explorer;
+EnableRecycleBinDeleteConfirmation; Εμφάνιση του διαλόγου επιβεβαίωσης διαγραφής αρχείων κάδου ανακύκλωσης;
+DisableRecycleBinDeleteConfirmation; Μην εμφανίζετε το παράθυρο διαλόγου επιβεβαίωσης διαγραφής αρχείων κάδου ανακύκλωσης;
+Hide3DObjects; Απόκρυψη του φακέλου "3D Objects" στο "This PC" και Γρήγορη πρόσβαση;
+Show3DObjects; Εμφάνιση του φακέλου "3D Objects" στο "This PC" και Γρήγορη πρόσβαση;
+HideQuickAccessRecentFiles; Απόκρυψη φακέλων που χρησιμοποιούνται συχνά στη Γρήγορη πρόσβαση;
+ShowQuickAccessRecentFiles; Εμφάνιση φακέλων που χρησιμοποιούνται συχνά στη Γρήγορη πρόσβαση;
+HideTaskViewButton; Απόκρυψη του κουμπιού Προβολή εργασιών στη γραμμή εργασιών;
+ShowTaskViewButton; Εμφάνιση του κουμπιού Προβολή εργασιών στη γραμμή εργασιών;
+HidePeopleTaskbar; Κουμπί απόκρυψης ατόμων στη γραμμή εργασιών;
+ShowPeopleTaskbar; Εμφάνιση κουμπιού ατόμων στη γραμμή εργασιών;
+ShowSecondsInSystemClock; Εμφάνιση δευτερολέπτων στο ρολόι της γραμμής εργασιών;
+HideSecondsInSystemClock; Απόκρυψη δευτερολέπτων στο ρολόι της γραμμής εργασιών;
+HideWindowsInkWorkspace; Απόκρυψη του κουμπιού Windows Ink Workspace στη γραμμή εργασιών;
+ShowWindowsInkWorkspace; Εμφάνιση του κουμπιού Windows Ink Workspace στη γραμμή εργασιών;
+HideMeetNow; Απόκρυψη του εικονιδίου Meet Now στην περιοχή ειδοποιήσεων;
+ShowMeetNow; Εμφάνιση του εικονιδίου Meet Now στην περιοχή ειδοποιήσεων;
+DisableNewsInterests; Απενεργοποιήστε το "Ειδήσεις και ενδιαφέροντα" στη γραμμή εργασιών;
+EnableNewsInterests; Ενεργοποιήστε το "Ειδήσεις και ενδιαφέροντα" στη γραμμή εργασιών;
+DarkWindowsColorMode; Ορίστε την προεπιλεγμένη λειτουργία των Windows σε σκοτεινό;
+LightWindowsColorMode; Ρυθμίστε την προεπιλεγμένη λειτουργία των Windows στο φως;
+DarkAppColorMode; Ορίστε την προεπιλεγμένη λειτουργία εφαρμογής σε σκοτεινή;
+LightAppColorMode; Ρυθμίστε την προεπιλεγμένη λειτουργία εφαρμογής στο φως;
+HideNewAppInstalledNotification; Απόκρυψη της ένδειξης "Εγκαταστάθηκε νέα εφαρμογή";
+ShowNewAppInstalledNotification; Εμφάνιση της ένδειξης "Εγκαταστάθηκε νέα εφαρμογή";
+DisableFirstLogonAnimation; Απενεργοποιήστε την πρώτη κίνηση εισόδου μετά την αναβάθμιση;
+EnableFirstLogonAnimation; Ενεργοποίηση πρώτης κίνησης εισόδου μετά την αναβάθμιση;
+MaxJPEGWallpapersQuality; Ρυθμίστε τον παράγοντα ποιότητας των ταπετσαριών επιφάνειας εργασίας JPEG στο μέγιστο;
+DefaultJPEGWallpapersQuality; Ορίστε τον παράγοντα ποιότητας των ταπετσαριών επιφάνειας εργασίας JPEG στην προεπιλογή;
+ExpandedTaskManagerWindow; Εκκινήστε τη Διαχείριση εργασιών στην εκτεταμένη λειτουργία;
+CompactTaskManagerWindow; Εκκινήστε τη Διαχείριση εργασιών στη συμπαγή λειτουργία;
+ShowRestartNotification; Ειδοποίηση όταν απαιτείται επανεκκίνηση για να ολοκληρωθεί η ενημέρωση;
+HideRestartNotification; Μην με ειδοποιείτε όταν απαιτείται επανεκκίνηση για να ολοκληρωθεί η ενημέρωση;
+DisableShortcutsSuffix; Μην προσθέτετε το επίθημα "- Shortcut" στο όνομα αρχείου των συντομεύσεων που δημιουργήθηκαν;
+EnableShortcutsSuffix; Προσθέστε το επίθημα "- Shortcut" στο όνομα αρχείου των συντομεύσεων που δημιουργήθηκαν;
+EnablePrtScnSnippingTool; Χρησιμοποιήστε το κουμπί Εκτύπωση οθόνης για να ανοίξετε την απόσπαση οθόνης;
+DisablePrtScnSnippingTool; Μην χρησιμοποιείτε το κουμπί Εκτύπωση οθόνης για να ανοίξετε την απόσπαση οθόνης;
+DisableAppsLanguageSwitch; Μην χρησιμοποιείτε διαφορετική μέθοδο εισαγωγής για κάθε παράθυρο εφαρμογής;
+EnableAppsLanguageSwitch; Επιτρέψτε μου να χρησιμοποιήσω διαφορετική μέθοδο εισαγωγής για κάθε παράθυρο εφαρμογής;
+DisableAeroShaking; Όταν πιάνω τη γραμμή τίτλου ενός windows και την ανακινώ, μην ελαχιστοποιείτε όλα τα άλλα παράθυρα;
+EnableAeroShaking; Όταν πιάνω τη γραμμή τίτλου ενός windows και την ανακινώ, ελαχιστοποιήστε όλα τα άλλα παράθυρα
+
+<#onedrive#>
+
+UninstallOneDrive; Απεγκατάσταση του OneDrive;
+InstallOneDrive; Εγκαταστήστε το OneDrive
+
+<#system#>
+
+EnableStorageSense; Ενεργοποιήστε το Storage Sense;
+DisableStorageSense; Απενεργοποίηση Storage Sense;
+EnableStorageSenseTempFiles; Ενεργοποιήστε τον αυτόματο καθαρισμό των προσωρινών αρχείων συστήματος και εφαρμογών;
+DisableStorageSenseTempFiles; Απενεργοποιήστε τον αυτόματο καθαρισμό των προσωρινών αρχείων συστήματος και εφαρμογών;
+MonthStorageSenseFrequency; Εκτελέστε το Storage Sense κάθε μήνα;
+DefaultStorageSenseFrequency; Εκτελέστε το Storage Sense κατά τη διάρκεια χαμηλού ελεύθερου χώρου στο δίσκο;
+DisableHibernation; Απενεργοποίηση αδρανοποίησης;
+EnableHibernation; Ενεργοποίηση αδρανοποίησης;
+DisableWin32LongPathLimit; Απενεργοποιήστε το όριο διαδρομής χαρακτήρων των Windows 260;
+EnableWin32LongPathLimit; Ενεργοποίηση του ορίου διαδρομής χαρακτήρων των Windows 260;
+EnableBSoDStopError; Εμφάνιση των πληροφοριών σφάλματος διακοπής στο BSoD;
+DisableBSoDStopError; Μην εμφανίζετε τις πληροφορίες σφάλματος Stop στο BSoD;
+NeverAdminApprovalMode; Ποτέ μην ειδοποιώ όταν οι εφαρμογές προσπαθούν να κάνουν αλλαγές στον υπολογιστή μου;
+DefaultAdminApprovalMode; Να ειδοποιούμαι μόνο όταν οι εφαρμογές προσπαθούν να κάνουν αλλαγές στον υπολογιστή μου;
+EnableMappedDrivesAppElevatedAccess; Ενεργοποιήστε την πρόσβαση σε αντιστοιχισμένες μονάδες δίσκου από εφαρμογή που εκτελείται με αυξημένα δικαιώματα με ενεργοποιημένη τη λειτουργία έγκρισης διαχειριστή;
+DisableMappedDrivesAppElevatedAccess; Απενεργοποιήστε την πρόσβαση σε αντιστοιχισμένες μονάδες δίσκου από εφαρμογή που εκτελείται με αυξημένα δικαιώματα με ενεργοποιημένη τη λειτουργία έγκρισης διαχειριστή;
+DisableDeliveryOptimization; Απενεργοποιήστε τη Βελτιστοποίηση παράδοσης;
+EnableDeliveryOptimization; Ενεργοποιήστε τη Βελτιστοποίηση παράδοσης;
+EnableWaitNetworkStartup; Να περιμένετε πάντα το δίκτυο κατά την εκκίνηση του υπολογιστή και να συνδεθείτε για δίκτυα ομάδων εργασίας;
+DisableWaitNetworkStartup; Μην περιμένετε ποτέ το δίκτυο κατά την εκκίνηση του υπολογιστή και συνδεθείτε για δίκτυα ομάδων εργασίας;
+DisableWindowsManageDefaultPrinter; Μην αφήνετε τα Windows να διαχειρίζονται τον προεπιλεγμένο εκτυπωτή μου;
+EnableWindowsManageDefaultPrinter; Να επιτρέπεται στα Windows να διαχειρίζονται τον προεπιλεγμένο εκτυπωτή μου;
+EnableUpdateMicrosoftProducts; Λήψη ενημερώσεων για άλλα προϊόντα της Microsoft;
+DisableUpdateMicrosoftProducts; Μην λαμβάνετε ενημερώσεις για άλλα προϊόντα της Microsoft;
+HighPowerPlan; Ρυθμίστε το σχέδιο παροχής ενέργειας σε "Υψηλή απόδοση";
+BalancedPowerPlan; Ρυθμίστε το σχέδιο παροχής ενέργειας στο "Ισορροπημένο";
+EnableLatestInstalledNET; Χρησιμοποιήστε τον πιο πρόσφατο εγκατεστημένο χρόνο εκτέλεσης .NET για όλες τις εφαρμογές;
+DisableLatestInstalledNET; Μην χρησιμοποιείτε τον πιο πρόσφατο εγκατεστημένο χρόνο εκτέλεσης .NET για όλες τις εφαρμογές;
+DisableNetworkAdaptersSavePower; Μην αφήνετε τον υπολογιστή να απενεργοποιεί τους προσαρμογείς δικτύου για εξοικονόμηση ενέργειας;
+EnableNetworkAdaptersSavePower; Επιτρέψτε στον υπολογιστή να απενεργοποιήσει τους προσαρμογείς δικτύου για εξοικονόμηση ενέργειας;
+EnglishInputMethod; Παράκαμψη για προεπιλεγμένη μέθοδο εισαγωγής: Αγγλικά;
+DefaultInputMethod; Παράκαμψη για προεπιλεγμένη μέθοδο εισαγωγής: χρήση λίστας γλωσσών;
+DesktopWinPrtScrFolder; Αποθηκεύστε στιγμιότυπα οθόνης πατώντας Win+PrtScr στην επιφάνεια εργασίας;
+DefaultWinPrtScrFolder; Αποθηκεύστε στιγμιότυπα οθόνης πατώντας Win+PrtScr στο φάκελο Pictures;
+AutomaticallyRecommendedTroubleshooting; Εκτελέστε αυτόματα το πρόγραμμα αντιμετώπισης προβλημάτων και, στη συνέχεια, ειδοποιήστε με;
+DefaultRecommendedTroubleshooting; Ρωτήστε με πριν εκτελέσετε το πρόγραμμα αντιμετώπισης προβλημάτων;
+EnableFoldersLaunchSeparateProcess; Εκκίνηση των παραθύρων φακέλων σε ξεχωριστή διαδικασία;
+DisableFoldersLaunchSeparateProcess; Μην εκκινείτε τα παράθυρα φακέλων σε ξεχωριστή διαδικασία;
+DisableReservedStorage; Απενεργοποίηση και διαγραφή του δεσμευμένου χώρου αποθήκευσης μετά την επόμενη εγκατάσταση της ενημέρωσης;
+EnableReservedStorage; Ενεργοποίηση δεσμευμένου χώρου αποθήκευσης μετά την επόμενη εγκατάσταση της ενημέρωσης;
+DisableF1HelpPage; Απενεργοποίηση αναζήτησης βοήθειας μέσω F1;
+EnableF1HelpPage; Ενεργοποίηση αναζήτησης βοήθειας μέσω F1;
+EnableNumLock; Ενεργοποίηση Num Lock κατά την εκκίνηση;
+DisableNumLock; Απενεργοποιήστε το Num Lock κατά την εκκίνηση;
+DisableCapsLock; Απενεργοποίηση Caps Lock;
+EnableCapsLock; Ενεργοποίηση Caps Lock;
+DisableStickyShift; Απενεργοποιήστε πατώντας το πλήκτρο Shift 5 φορές για να ενεργοποιήσετε τα Sticky πλήκτρα;
+EnableStickyShift; Ενεργοποιήστε πατώντας το πλήκτρο Shift 5 φορές για να ενεργοποιήσετε τα Sticky πλήκτρα;
+DisableAutoplay; Μην χρησιμοποιείτε το AutoPlay για όλα τα μέσα και τις συσκευές;
+EnableAutoplay; Χρησιμοποιήστε το AutoPlay για όλα τα μέσα και τις συσκευές;
+DisableThumbnailCacheRemoval; Απενεργοποιήστε την αφαίρεση της κρυφής μνήμης μικρογραφιών;
+EnableThumbnailCacheRemoval; Ενεργοποίηση της αφαίρεσης της κρυφής μνήμης μικρογραφιών;
+EnableSaveRestartableApps; Αυτόματη αποθήκευση των εφαρμογών μου με δυνατότητα επανεκκίνησης και επανεκκίνηση τους όταν συνδέομαι ξανά;
+DisableSaveRestartableApps; Απενεργοποιήστε την αυτόματη αποθήκευση των εφαρμογών μου με δυνατότητα επανεκκίνησης και επανεκκινήστε τις όταν συνδεθώ ξανά;
+EnableNetworkDiscovery; Ενεργοποιήστε το "Network Discovery" και το "File and Printers Sharing" για δίκτυα ομάδων εργασίας;
+DisableNetworkDiscovery; Απενεργοποιήστε το "Network Discovery" και το "File and Printers Sharing" για δίκτυα ομάδων εργασίας;
+AutomaticallyActiveHours; Αυτόματη προσαρμογή των ενεργών ωρών για εμένα με βάση την καθημερινή χρήση;
+ManuallyActiveHours; Προσαρμόστε μη αυτόματα τις ενεργές ώρες για εμένα με βάση την καθημερινή χρήση;
+EnableDeviceRestartAfterUpdate; Κάντε επανεκκίνηση το συντομότερο δυνατό για να ολοκληρωθεί η ενημέρωση;
+DisableDeviceRestartAfterUpdate; Μην κάνετε επανεκκίνηση το συντομότερο δυνατό για να ολοκληρώσετε την ενημέρωση
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Απόκρυψη εφαρμογών που προστέθηκαν πρόσφατα στο μενού Έναρξη;
+ShowRecentlyAddedApps; Εμφάνιση εφαρμογών που προστέθηκαν πρόσφατα στο μενού Έναρξη;
+HideAppSuggestions; Απόκρυψη προτάσεων εφαρμογών στο μενού Έναρξη;
+ShowAppSuggestions; Εμφάνιση προτάσεων εφαρμογών στο μενού Έναρξη;
+ElevatedRunPowerShellShortcut; Εκτελέστε τη συντόμευση του Windows PowerShell από το μενού Έναρξη ως Διαχειριστής;
+NonElevatedRunPowerShellShortcut; Εκτελέστε τη συντόμευση του Windows PowerShell από το μενού Έναρξη ως χρήστης
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Απενεργοποίηση αυτόματης εκκίνησης Cortana;
+EnableCortanaAutostart; Ενεργοποίηση αυτόματης εκκίνησης της Cortana;
+DisableBackgroundUWPApps; Μην αφήνετε τις εφαρμογές UWP να εκτελούνται στο παρασκήνιο;
+EnableBackgroundUWPApps; Αφήστε όλες τις εφαρμογές UWP να εκτελούνται στο παρασκήνιο
+
+<#gaming#>
+
+DisableXboxGameBar; Απενεργοποιήστε τη γραμμή παιχνιδιών Xbox;
+EnableXboxGameBar; Ενεργοποίηση Xbox Game Bar;
+DisableXboxGameTips; Απενεργοποιήστε τις συμβουλές του Xbox Game Bar;
+EnableXboxGameTips; Ενεργοποιήστε τις συμβουλές της γραμμής παιχνιδιών Xbox;
+EnableGPUScheduling; Ενεργοποίηση προγραμματισμού GPU με επιτάχυνση υλικού;
+DisableGPUScheduling; Απενεργοποιήστε τον προγραμματισμό GPU με επιτάχυνση υλικού
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Ενεργοποίηση προστασίας δικτύου Microsoft Defender Exploit Guard;
+DisableNetworkProtection; Απενεργοποιήστε την προστασία δικτύου Microsoft Defender Exploit Guard;
+EnablePUAppsDetection; Ενεργοποίηση ανίχνευσης για δυνητικά ανεπιθύμητες εφαρμογές και αποκλεισμό τους;
+DisablePUAppsDetection; Απενεργοποιήστε την ανίχνευση για πιθανές ανεπιθύμητες εφαρμογές και αποκλείστε τις;
+EnableDefenderSandbox; Ενεργοποίηση sandboxing για το Microsoft Defender;
+DisableDefenderSandbox; Απενεργοποίηση sandboxing για το Microsoft Defender;
+EnableAuditProcess; Ενεργοποίηση ελέγχου συμβάντων που δημιουργούνται κατά τη δημιουργία (έναρξη) μιας διαδικασίας;
+DisableAuditProcess; Απενεργοποίηση ελέγχου συμβάντων που δημιουργούνται κατά τη δημιουργία (έναρξη) μιας διαδικασίας;
+EnableCommandLineProcessAudit; Συμπεριλάβετε τη γραμμή εντολών στα συμβάντα δημιουργίας διεργασιών;
+DisableCommandLineProcessAudit; Να μην συμπεριλαμβάνεται η γραμμή εντολών στα συμβάντα δημιουργίας διεργασιών;
+EnableEventViewerCustomView; Δημιουργήστε το πρόγραμμα προβολής συμβάντων "Δημιουργία διαδικασίας" Ñ??προσαρμοσμένη προβολή για να καταγράψετε τις εκτελούμενες διεργασίες και τα ορίσματά τους;
+DisableEventViewerCustomView; Καταργήστε την προσαρμοσμένη προβολή της Προβολής συμβάντων "Δημιουργία Διαδικασίας";
+EnablePowerShellModulesLogging; Ενεργοποίηση καταγραφής για όλες τις λειτουργικές μονάδες Windows PowerShell;
+DisablePowerShellModulesLogging; Απενεργοποίηση καταγραφής για όλες τις λειτουργικές μονάδες Windows PowerShell;
+EnablePowerShellScriptsLogging; Ενεργοποίηση καταγραφής για όλα τα σενάρια PowerShell που εισάγονται στο αρχείο καταγραφής συμβάντων του Windows PowerShell;
+DisablePowerShellScriptsLogging; Απενεργοποίηση καταγραφής για όλα τα σενάρια PowerShell που εισάγονται στο αρχείο καταγραφής συμβάντων του Windows PowerShell;
+DisableAppsSmartScreen; Απενεργοποιήστε τον έλεγχο εφαρμογών και αρχείων στο Microsoft Defender SmartScreen;
+EnableAppsSmartScreen; Ενεργοποιήστε τον έλεγχο εφαρμογών και αρχείων στο Microsoft Defender SmartScreen;
+DisableSaveZoneInformation; Το Microsoft Defender SmartScreen δεν επισημαίνει τα ληφθέντα αρχεία από το Διαδίκτυο ως μη ασφαλή;
+EnableSaveZoneInformation; Το Microsoft Defender SmartScreen επισημαίνει τα ληφθέντα αρχεία από το Διαδίκτυο ως μη ασφαλή;
+DisableWindowsScriptHost; Απενεργοποίηση Windows Script Host;
+EnableWindowsScriptHost; Ενεργοποίηση Windows Script Host;
+DisableWindowsSandbox; Απενεργοποίηση του Windows Sandbox;
+EnableWindowsSandbox; Ενεργοποιήστε το Windows Sandbox
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Εμφάνιση του στοιχείου "Εξαγωγή όλων" στο μενού περιβάλλοντος του Windows Installer (.msi);
+HideMSIExtractContext; Απόκρυψη του στοιχείου "Εξαγωγή όλων" από το μενού περιβάλλοντος του Windows Installer (.msi);
+ShowCABInstallContext; Εμφάνιση του στοιχείου "Εγκατάσταση" στο μενού περιβάλλοντος Επεκτάσεις ονομάτων αρχείων Cabinet (.cab);
+HideCABInstallContext; Απόκρυψη του στοιχείου "Εγκατάσταση" από το μενού περιβάλλοντος Επεκτάσεις ονομάτων αρχείων Cabinet (.cab);
+ShowRunAsDifferentUserContext; Εμφάνιση του στοιχείου "Εκτέλεση ως διαφορετικός χρήστης" στο μενού περιβάλλοντος επεκτάσεις ονόματος αρχείου .exe;
+HideRunAsDifferentUserContext; Απόκρυψη του στοιχείου "Εκτέλεση ως διαφορετικός χρήστης" από το μενού περιβάλλοντος επεκτάσεις ονόματος αρχείου .exe;
+HideCastToDeviceContext; Απόκρυψη του στοιχείου "Μετάδοση στη συσκευή" από το μενού περιβάλλοντος αρχείων και φακέλων πολυμέσων;
+ShowCastToDeviceContext; Εμφάνιση του στοιχείου "Μετάδοση στη συσκευή" στο μενού περιβάλλοντος αρχείων και φακέλων πολυμέσων;
+HideShareContext; Απόκρυψη του στοιχείου "Κοινή χρήση" από το μενού περιβάλλοντος;
+ShowShareContext; Εμφάνιση του στοιχείου "Κοινή χρήση" στο μενού περιβάλλοντος;
+HideEditWithPaint3DContext; Απόκρυψη του στοιχείου "Επεξεργασία με Paint 3D" από το μενού περιβάλλοντος αρχείων πολυμέσων;
+ShowEditWithPaint3DContext; Εμφάνιση του στοιχείου "Επεξεργασία με Paint 3D" στο μενού περιβάλλοντος αρχείων πολυμέσων;
+HideEditWithPhotosContext; Απόκρυψη του στοιχείου "Επεξεργασία με Φωτογραφίες" από το μενού περιβάλλοντος αρχείων πολυμέσων;
+ShowEditWithPhotosContext; Εμφάνιση του στοιχείου "Επεξεργασία με Φωτογραφίες" στο μενού περιβάλλοντος αρχείων πολυμέσων;
+HideCreateANewVideoContext; Απόκρυψη του στοιχείου "Δημιουργία νέου βίντεο" από το μενού περιβάλλοντος αρχείων πολυμέσων;
+ShowCreateANewVideoContext; Εμφάνιση του στοιχείου "Δημιουργία νέου βίντεο" στο μενού περιβάλλοντος αρχείων πολυμέσων;
+HideImagesEditContext; Απόκρυψη του στοιχείου "Δημιουργία νέου βίντεο" από το μενού περιβάλλοντος αρχείων πολυμέσων;
+ShowImagesEditContext; Εμφάνιση του στοιχείου "Δημιουργία νέου βίντεο" στο μενού περιβάλλοντος αρχείων πολυμέσων;
+HidePrintCMDContext; Απόκρυψη του στοιχείου "Εκτύπωση" από το μενού περιβάλλοντος .bat και .cmd;
+ShowPrintCMDContext; Εμφάνιση του στοιχείου "Εκτύπωση" στο μενού περιβάλλοντος .bat και .cmd;
+HideIncludeInLibraryContext; Απόκρυψη του στοιχείου "Συμπερίληψη στη βιβλιοθήκη" από το μενού περιβάλλοντος φακέλων και μονάδων δίσκου;
+ShowIncludeInLibraryContext; Εμφάνιση του στοιχείου "Συμπερίληψη στη βιβλιοθήκη" στο μενού περιβάλλοντος φακέλων και μονάδων δίσκου;
+HideSendToContext; Απόκρυψη του στοιχείου "Αποστολή σε" από το μενού περιβάλλοντος φακέλων;
+ShowSendToContext; Εμφάνιση του στοιχείου "Αποστολή σε" στο μενού περιβάλλοντος φακέλων;
+HideBitLockerContext; Απόκρυψη του στοιχείου "Ενεργοποίηση BitLocker" από το μενού περιβάλλοντος των μονάδων δίσκου;
+ShowBitLockerContext; Εμφάνιση του στοιχείου "Ενεργοποίηση BitLocker" στο μενού περιβάλλοντος των μονάδων δίσκου;
+HideBitmapImageNewContext; Απόκρυψη του στοιχείου "Εικόνα Bitmap" από το μενού περιβάλλοντος "Νέο";
+ShowBitmapImageNewContext; Εμφάνιση του στοιχείου "Εικόνα Bitmap" στο μενού περιβάλλοντος "Νέο";
+HideRichTextDocumentNewContext; Απόκρυψη του στοιχείου "Έγγραφο εμπλουτισμένου κειμένου" από το μενού περιβάλλοντος "Νέο";
+ShowRichTextDocumentNewContext; Εμφάνιση του στοιχείου "Έγγραφο εμπλουτισμένου κειμένου" στο μενού περιβάλλοντος "Νέο";
+HideCompressedFolderNewContext; Απόκρυψη του στοιχείου "Συμπιεσμένος (συμπιεσμένος) φάκελος" από το μενού περιβάλλοντος "Νέο";
+ShowCompressedFolderNewContext; Εμφάνιση του στοιχείου "Συμπιεσμένος (συμπιεσμένος) φάκελος" στο μενού περιβάλλοντος "Νέο";
+EnableMultipleInvokeContext; Ενεργοποιήστε τα στοιχεία "Άνοιγμα", "Εκτύπωση" και "Επεξεργασία" εάν έχουν επιλεγεί περισσότερα από 15 αρχεία;
+DisableMultipleInvokeContext; Απενεργοποιήστε τα στοιχεία "Άνοιγμα", "Εκτύπωση" και "Επεξεργασία" εάν έχουν επιλεγεί περισσότερα από 15 αρχεία;
+HideUseStoreOpenWith; Απόκρυψη του στοιχείου "Αναζήτηση εφαρμογής στο Microsoft Store" στο παράθυρο διαλόγου "Άνοιγμα με";
+ShowUseStoreOpenWith; Εμφανίστε το στοιχείο "Αναζήτηση εφαρμογής στο Microsoft Store" στο παράθυρο διαλόγου "Άνοιγμα με";
+
+<#other#>
+
+HideTaskbarSearch; Απόκρυψη της αναζήτησης στη γραμμή εργασιών;
+SearchIconTaskbarSearch; Εμφάνιση του εικονιδίου αναζήτησης στη γραμμή εργασιών;
+SearchBoxTaskbarSearch; Εμφάνιση του πλαισίου αναζήτησης στη γραμμή εργασιών;
+AlwaysCombineHideLabelsTaskbar; Γραμμή εργασιών Συνδυάστε πάντα, απόκρυψη ετικετών;
+CombineWhenFullTaskbar; Γραμμή εργασιών Συνδυασμός όταν η γραμμή εργασιών είναι γεμάτη;
+NeverCombineTaskbar; Γραμμή εργασιών Μην συνδυάζετε ποτέ;
+CategoryControlPanelView; Προβολή των εικονιδίων του Πίνακα Ελέγχου ανά κατηγορία;
+LargeIconsControlPanelView; Προβολή των εικονιδίων του Πίνακα Ελέγχου ανά μεγάλα εικονίδια;
+SmallIconsControlPanelView; Προβάλετε τα εικονίδια του Πίνακα Ελέγχου ανά μικρά εικονίδια
+
+<#end#>

@@ -1,0 +1,273 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Tắt dịch vụ Trải nghiệm người dùng được Kết nối và Đo lường từ xa (DiagTrack), đồng thời chặn kết nối đối với Lưu lượng Đầu ra của Khách hàng Đo lường Từ xa Hợp nhất;
+EnableDiagTrackService; Bật dịch vụ Trải nghiệm người dùng được kết nối và Đo lường từ xa (DiagTrack), đồng thời cho phép kết nối cho Lưu lượng đi ra của Khách hàng Đo lường Từ xa Hợp nhất;
+MinimalDiagnosticDataLevel; Đặt thu thập dữ liệu chẩn đoán ở mức tối thiểu;
+DefaultDiagnosticDataLevel; Đặt thu thập dữ liệu chẩn đoán thành mặc định;
+DisableErrorReporting; Tắt Báo cáo Lỗi Windows;
+EnableErrorReporting; Bật Báo cáo Lỗi Windows;
+NeverFeedbackFrequency; Thay đổi tần số phản hồi thành "Không bao giờ";
+AutomaticallyFeedbackFrequency; Thay đổi tần số phản hồi thành "Tự động";
+DisableSigninInfo; Không sử dụng thông tin đăng nhập để tự động hoàn tất thiết lập thiết bị sau khi cập nhật;
+EnableSigninInfo; Sử dụng thông tin đăng nhập để tự động hoàn tất thiết lập thiết bị sau khi cập nhật;
+DisableLanguageListAccess; Đừng để các trang web hiển thị cho tôi nội dung có liên quan tại địa phương bằng cách truy cập danh sách ngôn ngữ của tôi;
+EnableLanguageListAccess; Cho phép các trang web hiển thị cho tôi nội dung phù hợp tại địa phương bằng cách truy cập ngôn ngữ trong danh sách của tôi;
+DisableAdvertisingID; Đừng để các ứng dụng hiển thị cho tôi các quảng cáo được cá nhân hóa bằng cách sử dụng ID quảng cáo của tôi;
+EnableAdvertisingID; Cho phép các ứng dụng hiển thị cho tôi các quảng cáo được cá nhân hóa bằng cách sử dụng ID quảng cáo của tôi;
+HideWindowsWelcomeExperience; Ẩn trải nghiệm chào mừng của Windows sau khi cập nhật và thỉnh thoảng khi tôi đăng nhập để đánh dấu những gì mới và được đề xuất;
+ShowWindowsWelcomeExperience; Hiển thị các trải nghiệm chào mừng của Windows sau khi cập nhật và thỉnh thoảng khi tôi đăng nhập để làm nổi bật những gì mới và được đề xuất;
+DisableWindowsTips; Không nhận được mẹo và đề xuất khi tôi sử dụng Windows;
+EnableWindowsTips; Nhận mẹo và đề xuất khi tôi sử dụng Windows;
+HideSettingsSuggestedContent; Ẩn khỏi tôi nội dung được đề xuất trong ứng dụng Cài đặt;
+ShowSettingsSuggestedContent; Cho tôi xem nội dung được đề xuất trong ứng dụng Cài đặt;
+DisableAppsSilentInstalling; Tắt tự động cài đặt ứng dụng đề xuất;
+EnableAppsSilentInstalling; Bật cài đặt tự động các ứng dụng được đề xuất;
+DisableWhatsNewInWindows; Tắt các đề xuất về cách tôi có thể thiết lập thiết bị của mình;
+EnableWhatsNewInWindows; Đưa ra các đề xuất về cách tôi có thể thiết lập thiết bị của mình;
+DisableTailoredExperiences; Không để Microsoft sử dụng dữ liệu chẩn đoán của bạn cho các mẹo, quảng cáo và đề xuất được cá nhân hóa;
+EnableTailoredExperiences; Cho phép Microsoft sử dụng dữ liệu chẩn đoán của bạn cho các mẹo, quảng cáo và đề xuất được cá nhân hóa;
+DisableBingSearch; Tắt tìm kiếm Bing trong Menu Bắt đầu;
+EnableBingSearch; Bật tìm kiếm Bing trong Menu Bắt đầu
+
+<#uiperson#>
+
+ShowThisPC; Hiển thị biểu tượng "Máy tính này" trên Máy tính để bàn;
+HideThisPC; Ẩn biểu tượng "Máy tính này" trên Máy tính để bàn;
+DisableCheckBoxes; Không sử dụng hộp kiểm mục;
+EnableCheckBoxes; Sử dụng các hộp kiểm mục kiểm tra;
+EnableHiddenItems; Hiển thị các tệp, thư mục và ổ đĩa ẩn;
+DisableHiddenItems; Không hiển thị các tệp, thư mục và ổ đĩa ẩn;
+ShowFileExtensions; Hiển thị phần mở rộng tên tệp;
+HideFileExtensions; Ẩn phần mở rộng tên tệp;
+ShowMergeConflicts; Hiển thị xung đột hợp nhất thư mục;
+HideMergeConflicts; Ẩn các xung đột hợp nhất thư mục;
+ThisPCOpenFileExplorerTo; Mở File Explorer đến "PC này";
+QuickAccessOpenFileExplorerTo; Mở File Explorer để truy cập nhanh;
+HideCortanaButton; Ẩn nút Cortana trên thanh tác vụ;
+ShowCortanaButton; Hiển thị nút Cortana trên thanh tác vụ;
+HideOneDriveFileExplorerAd; Không hiển thị thông báo nhà cung cấp đồng bộ hóa trong File Explorer;
+ShowOneDriveFileExplorerAd; Hiển thị thông báo nhà cung cấp đồng bộ hóa trong File Explorer;
+DisableSnapAssist; Khi tôi chụp một cửa sổ, không hiển thị những gì tôi có thể chụp bên cạnh nó;
+EnableSnapAssist; Khi tôi chụp một cửa sổ, hãy hiển thị những gì tôi có thể chụp bên cạnh nó;
+DetailedFileTransferDialog; Hiển thị hộp thoại truyền tệp ở chế độ chi tiết;
+CompactFileTransferDialog; Hiển thị hộp thoại truyền tệp ở chế độ thu gọn;
+ExpandedFileExplorerRibbon; Mở rộng dải băng File Explorer;
+MinimizedFileExplorerRibbon; Thu nhỏ dải băng File Explorer;
+EnableRecycleBinDeleteConfirmation; Hiển thị hộp thoại xác nhận xóa tệp trong thùng rác;
+DisableRecycleBinDeleteConfirmation; Không hiển thị hộp thoại xác nhận xóa tệp trong thùng rác;
+Hide3DObjects; Ẩn thư mục "3D Objects" trong "This PC" và Truy cập nhanh;
+Show3DObjects; Hiển thị thư mục "Đối tượng 3D" trong "Máy tính này" và Truy cập nhanh;
+HideQuickAccessRecentFiles; Ẩn các thư mục thường dùng trong Truy cập nhanh;
+ShowQuickAccessRecentFiles; Hiển thị các thư mục thường dùng trong Truy cập nhanh;
+HideTaskViewButton; Ẩn nút Chế độ xem tác vụ trên thanh tác vụ;
+ShowTaskViewButton; Hiển thị nút Task View trên thanh tác vụ;
+HidePeopleTaskbar; Ẩn nút Mọi người trên thanh tác vụ;
+ShowPeopleTaskbar; Hiển thị nút Mọi người trên thanh tác vụ;
+ShowSecondsInSystemClock; Hiển thị giây trên đồng hồ trên thanh tác vụ;
+HideSecondsInSystemClock; Ẩn giây trên đồng hồ trên thanh tác vụ;
+HideWindowsInkWorkspace; Ẩn nút Windows Ink Workspace trên thanh tác vụ;
+ShowWindowsInkWorkspace; Hiển thị nút Windows Ink Workspace trên thanh tác vụ;
+HideMeetNow; Ẩn biểu tượng Gặp gỡ ngay trong khu vực thông báo;
+ShowMeetNow; Hiển thị biểu tượng Gặp gỡ ngay trong khu vực thông báo;
+DisableNewsInterests; Tắt "Tin tức và Sở thích" trên thanh tác vụ;
+EnableNewsInterests; Bật "Tin tức và Sở thích" trên thanh tác vụ;
+DarkWindowsColorMode; Đặt chế độ mặc định của Windows thành tối;
+LightWindowsColorMode; Đặt chế độ Windows mặc định thành sáng;
+DarkAppColorMode; Đặt chế độ ứng dụng mặc định thành tối;
+LightAppColorMode; Đặt chế độ ứng dụng mặc định thành ánh sáng;
+HideNewAppInstalledNotification; Ẩn chỉ báo "Ứng dụng mới được cài đặt";
+ShowNewAppInstalledNotification; Hiển thị chỉ báo "Ứng dụng mới đã cài đặt";
+DisableFirstLogonAnimation; Tắt hoạt ảnh đăng nhập lần đầu sau khi nâng cấp;
+EnableFirstLogonAnimation; Bật hoạt ảnh đăng nhập đầu tiên sau khi nâng cấp;
+MaxJPEGWallpapersQuality; Đặt hệ số chất lượng của hình nền máy tính JPEG ở mức tối đa;
+DefaultJPEGWallpapersQuality; Đặt hệ số chất lượng của hình nền máy tính JPEG thành mặc định;
+ExpandedTaskManagerWindow; Khởi động Trình quản lý tác vụ ở chế độ mở rộng;
+CompactTaskManagerWindow; Khởi động Trình quản lý tác vụ ở chế độ nhỏ gọn;
+ShowRestartNotification; Thông báo cho tôi khi cần khởi động lại để hoàn tất cập nhật;
+HideRestartNotification; Không thông báo cho tôi khi cần khởi động lại để hoàn tất cập nhật;
+DisableShortcutsSuffix; Không thêm hậu tố "- Phím tắt" vào tên tệp của các phím tắt đã tạo;
+EnableShortcutsSuffix; Thêm hậu tố "- Phím tắt" vào tên tệp của các phím tắt đã tạo;
+EnablePrtScnSnippingTool; Sử dụng nút In màn hình để mở chụp ảnh màn hình;
+DisablePrtScnSnippingTool; Không sử dụng nút In màn hình để mở chụp ảnh màn hình;
+DisableAppsLanguageSwitch; Không sử dụng một phương thức nhập khác cho mỗi cửa sổ ứng dụng;
+EnableAppsLanguageSwitch; Hãy để tôi sử dụng một phương thức nhập khác cho mỗi cửa sổ ứng dụng;
+DisableAeroShaking; Khi tôi lấy thanh tiêu đề của cửa sổ và lắc nó, đừng thu nhỏ tất cả các cửa sổ khác;
+EnableAeroShaking; Khi tôi lấy thanh tiêu đề của cửa sổ và lắc nó, hãy thu nhỏ tất cả các cửa sổ khác
+
+<#onedrive#>
+
+UninstallOneDrive; Gỡ cài đặt OneDrive;
+InstallOneDrive; Cài đặt OneDrive
+
+<#system#>
+
+EnableStorageSense; Bật tính năng Storage Sense;
+DisableStorageSense; Tắt tính năng Storage Sense;
+EnableStorageSenseTempFiles; Bật tự động dọn dẹp hệ thống và tệp ứng dụng tạm thời;
+DisableStorageSenseTempFiles; Tắt tự động dọn dẹp hệ thống và tệp ứng dụng tạm thời;
+MonthStorageSenseFrequency; Chạy Storage Sense hàng tháng;
+DefaultStorageSenseFrequency; Chạy Storage Sense khi dung lượng đĩa trống thấp;
+DisableHibernation; Tắt chế độ ngủ đông;
+EnableHibernation; Cho phép nghỉ đông;
+DisableWin32LongPathLimit; Vô hiệu hóa giới hạn đường dẫn ký tự của Windows 260;
+EnableWin32LongPathLimit; Kích hoạt giới hạn đường dẫn ký tự Windows 260;
+EnableBSoDStopError; Hiển thị thông tin lỗi Dừng trên BSoD;
+DisableBSoDStopError; Không hiển thị thông tin lỗi Dừng trên BSoD;
+NeverAdminApprovalMode; Không bao giờ thông báo khi ứng dụng cố gắng thực hiện thay đổi đối với máy tính của tôi;
+DefaultAdminApprovalMode; Chỉ thông báo cho tôi khi các ứng dụng cố gắng thực hiện các thay đổi đối với máy tính của tôi;
+EnableMappedDrivesAppElevatedAccess; Bật quyền truy cập vào các ổ đĩa được ánh xạ từ ứng dụng đang chạy với các quyền nâng cao với Chế độ phê duyệt của quản trị viên được bật;
+DisableMappedDrivesAppElevatedAccess; Tắt quyền truy cập vào các ổ đĩa được ánh xạ từ ứng dụng đang chạy với các quyền nâng cao khi Chế độ phê duyệt của quản trị viên được bật;
+DisableDeliveryOptimization; Tắt Tối ưu hóa Phân phối;
+EnableDeliveryOptimization; Bật Tối ưu hóa Phân phối;
+EnableWaitNetworkStartup; Luôn đợi mạng khi khởi động máy tính và đăng nhập cho mạng nhóm làm việc;
+DisableWaitNetworkStartup; Không bao giờ đợi mạng khi khởi động máy tính và đăng nhập cho mạng nhóm làm việc;
+DisableWindowsManageDefaultPrinter; Không để Windows quản lý máy in mặc định của tôi;
+EnableWindowsManageDefaultPrinter; Để Windows quản lý máy in mặc định của tôi;
+EnableUpdateMicrosoftProducts; Nhận các bản cập nhật cho các sản phẩm khác của Microsoft;
+DisableUpdateMicrosoftProducts; Không nhận được bản cập nhật cho các sản phẩm khác của Microsoft;
+HighPowerPlan; Đặt kế hoạch nguồn về "Hiệu suất cao";
+BalancedPowerPlan; Đặt gói điện ở chế độ "Cân bằng";
+EnableLatestInstalledNET; Sử dụng thời gian chạy .NET được cài đặt mới nhất cho tất cả các ứng dụng;
+DisableLatestInstalledNET; Không sử dụng thời gian chạy .NET được cài đặt mới nhất cho tất cả các ứng dụng;
+DisableNetworkAdaptersSavePower; Không cho phép máy tính tắt bộ điều hợp mạng để tiết kiệm điện;
+EnableNetworkAdaptersSavePower; Cho phép máy tính tắt bộ điều hợp mạng để tiết kiệm điện năng;
+EnglishInputMethod; Ghi đè cho phương thức nhập mặc định: Tiếng Anh;
+DefaultInputMethod; Ghi đè cho phương thức nhập mặc định: sử dụng danh sách ngôn ngữ;
+DesktopWinPrtScrFolder; Lưu ảnh chụp màn hình bằng cách nhấn Win + PrtScr trên Desktop;
+DefaultWinPrtScrFolder; Lưu ảnh chụp màn hình bằng cách nhấn Win + PrtScr trong thư mục Pictures;
+AutomaticallyRecommendedTroubleshooting; Chạy trình gỡ rối tự động, sau đó thông báo cho tôi;
+DefaultRecommendedTroubleshooting; Hỏi tôi trước khi chạy trình gỡ rối;
+EnableFoldersLaunchSeparateProcess; Khởi chạy các cửa sổ thư mục trong một quy trình riêng biệt;
+DisableFoldersLaunchSeparateProcess; Không khởi chạy các cửa sổ thư mục trong một quy trình riêng biệt;
+DisableReservedStorage; Vô hiệu hóa và xóa bộ nhớ dự trữ sau khi cài đặt bản cập nhật tiếp theo;
+EnableReservedStorage; Bật bộ nhớ dành riêng sau khi cài đặt bản cập nhật tiếp theo;
+DisableF1HelpPage; Tắt tra cứu trợ giúp qua F1;
+EnableF1HelpPage; Bật tra cứu trợ giúp qua F1;
+EnableNumLock; Bật Num Lock khi khởi động;
+DisableNumLock; Tắt Num Lock khi khởi động;
+DisableCapsLock; Tắt Caps Lock;
+EnableCapsLock; Bật phím Caps Lock;
+DisableStickyShift; Tắt nhấn phím Shift 5 lần để bật Phím dính;
+EnableStickyShift; Bật nhấn phím Shift 5 lần để chuyển các phím Dính;
+DisableAutoplay; Không sử dụng AutoPlay cho tất cả các phương tiện và thiết bị;
+EnableAutoplay; Sử dụng AutoPlay cho tất cả các phương tiện và thiết bị;
+DisableThumbnailCacheRemoval; Tắt tính năng xóa bộ nhớ cache hình thu nhỏ;
+EnableThumbnailCacheRemoval; Bật tính năng xóa bộ nhớ cache hình thu nhỏ;
+EnableSaveRestartableApps; Tự động lưu các ứng dụng có thể khởi động lại của tôi và khởi động lại chúng khi tôi đăng nhập lại;
+DisableSaveRestartableApps; Tắt tự động lưu các ứng dụng có thể khởi động lại của tôi và khởi động lại chúng khi tôi đăng nhập lại;
+EnableNetworkDiscovery; Bật "Khám phá mạng" và "Chia sẻ tệp và máy in" cho mạng nhóm làm việc;
+DisableNetworkDiscovery; Tắt "Khám phá Mạng" và "Chia sẻ Tệp và Máy in" cho các mạng nhóm làm việc;
+AutomaticallyActiveHours; Tự động điều chỉnh giờ hoạt động cho tôi dựa trên mức sử dụng hàng ngày;
+ManuallyActiveHours; Điều chỉnh thủ công giờ hoạt động cho tôi dựa trên mức sử dụng hàng ngày;
+EnableDeviceRestartAfterUpdate; Khởi động lại càng sớm càng tốt để hoàn tất cập nhật;
+DisableDeviceRestartAfterUpdate; Không khởi động lại càng sớm càng tốt để hoàn tất quá trình cập nhật
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Ẩn các ứng dụng được thêm gần đây trong menu Bắt đầu;
+ShowRecentlyAddedApps; Hiển thị các ứng dụng được thêm gần đây trong menu Bắt đầu;
+HideAppSuggestions; Ẩn các đề xuất ứng dụng trong menu Bắt đầu;
+ShowAppSuggestions; Hiển thị các đề xuất ứng dụng trong menu Bắt đầu;
+ElevatedRunPowerShellShortcut; Chạy phím tắt Windows PowerShell từ menu Bắt đầu với tư cách Quản trị viên;
+NonElevatedRunPowerShellShortcut; Chạy lối tắt Windows PowerShell từ menu Bắt đầu với tư cách người dùng
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Tắt tự động khởi động lại Cortana;
+EnableCortanaAutostart; Bật tự động khởi động lại Cortana;
+DisableBackgroundUWPApps; Không để các ứng dụng UWP chạy trong nền;
+EnableBackgroundUWPApps; Cho phép tất cả các ứng dụng UWP chạy trong nền
+
+<#gaming#>
+
+DisableXboxGameBar; Tắt Xbox Game Bar;
+EnableXboxGameBar; Bật Xbox Game Bar;
+DisableXboxGameTips; Tắt các mẹo trên Xbox Game Bar;
+EnableXboxGameTips; Bật các mẹo trên Xbox Game Bar;
+EnableGPUScheduling; Bật lập lịch GPU tăng tốc phần cứng;
+DisableGPUScheduling; Tắt tính năng lập lịch GPU tăng tốc phần cứng
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Bật tính năng bảo vệ mạng của Microsoft Defender Exploit Guard;
+DisableNetworkProtection; Tắt tính năng bảo vệ mạng của Microsoft Defender Exploit Guard;
+EnablePUAppsDetection; Cho phép phát hiện các ứng dụng không mong muốn tiềm ẩn và chặn chúng;
+DisablePUAppsDetection; Vô hiệu hóa tính năng phát hiện các ứng dụng không mong muốn tiềm ẩn và chặn chúng;
+EnableDefenderSandbox; Bật hộp cát cho Microsoft Defender;
+DisableDefenderSandbox; Tắt hộp cát cho Microsoft Defender;
+EnableAuditProcess; Cho phép kiểm tra các sự kiện được tạo khi một quy trình được tạo (bắt đầu);
+DisableAuditProcess; Tắt kiểm tra các sự kiện được tạo khi một quy trình được tạo (bắt đầu);
+EnableCommandLineProcessAudit; Bao gồm dòng lệnh trong các sự kiện tạo quy trình;
+DisableCommandLineProcessAudit; Không bao gồm dòng lệnh trong các sự kiện tạo quy trình;
+EnableEventViewerCustomView; Tạo chế độ xem sự kiện "Process Creation" Ñ ?? ustom view để ghi nhật ký các tiến trình đã thực thi và các đối số của chúng;
+DisableEventViewerCustomView; Loại bỏ chế độ xem tùy chỉnh Trình xem sự kiện "Tạo quy trình";
+EnablePowerShellModulesLogging; Bật ghi nhật ký cho tất cả các mô-đun Windows PowerShell;
+DisablePowerShellModulesLogging; Tắt ghi nhật ký cho tất cả các mô-đun Windows PowerShell;
+EnablePowerShellScriptsLogging; Bật ghi nhật ký cho tất cả đầu vào tập lệnh PowerShell vào nhật ký sự kiện Windows PowerShell;
+DisablePowerShellScriptsLogging; Tắt ghi nhật ký cho tất cả đầu vào tập lệnh PowerShell vào nhật ký sự kiện Windows PowerShell;
+DisableAppsSmartScreen; Tắt tính năng kiểm tra ứng dụng và tệp trong Microsoft Defender SmartScreen;
+EnableAppsSmartScreen; Bật kiểm tra ứng dụng và tệp trong Microsoft Defender SmartScreen;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen không đánh dấu các tệp đã tải xuống từ Internet là không an toàn;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen đánh dấu các tệp đã tải xuống từ Internet là không an toàn;
+DisableWindowsScriptHost; Tắt Máy chủ Windows Script;
+EnableWindowsScriptHost; Bật Máy chủ Windows Script;
+DisableWindowsSandbox; Tắt Windows Sandbox;
+EnableWindowsSandbox; Bật Windows Sandbox
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Hiển thị mục "Trích xuất tất cả" trong trình đơn ngữ cảnh Windows Installer (.msi);
+HideMSIExtractContext; Ẩn mục "Trích xuất tất cả" khỏi trình đơn ngữ cảnh Windows Installer (.msi);
+ShowCABInstallContext; Hiển thị mục "Cài đặt" trong menu ngữ cảnh của phần mở rộng tên tệp nội các (.cab);
+HideCABInstallContext; Ẩn mục "Cài đặt" khỏi menu ngữ cảnh của phần mở rộng tên tệp nội các (.cab);
+ShowRunAsDifferentUserContext; Hiển thị mục "Chạy với tư cách người dùng khác" trong trình đơn ngữ cảnh của phần mở rộng tên tệp .exe;
+HideRunAsDifferentUserContext; Ẩn mục "Chạy với tư cách người dùng khác" khỏi trình đơn ngữ cảnh của phần mở rộng tên tệp .exe;
+HideCastToDeviceContext; Ẩn mục "Truyền tới thiết bị" khỏi menu ngữ cảnh tệp phương tiện và thư mục;
+ShowCastToDeviceContext; Hiển thị mục "Truyền tới thiết bị" trong menu ngữ cảnh tệp phương tiện và thư mục;
+HideShareContext; Ẩn mục "Chia sẻ" khỏi menu ngữ cảnh;
+ShowShareContext; Hiển thị mục "Chia sẻ" trong menu ngữ cảnh;
+HideEditWithPaint3DContext; Ẩn mục "Chỉnh sửa bằng Paint 3D" khỏi menu ngữ cảnh tệp phương tiện;
+ShowEditWithPaint3DContext; Hiển thị mục "Chỉnh sửa bằng Paint 3D" trong menu ngữ cảnh tệp phương tiện;
+HideEditWithPhotosContext; Ẩn mục "Chỉnh sửa bằng ảnh" khỏi menu ngữ cảnh tệp phương tiện;
+ShowEditWithPhotosContext; Hiển thị mục "Chỉnh sửa bằng ảnh" trong menu ngữ cảnh tệp phương tiện;
+HideCreateANewVideoContext; Ẩn mục "Tạo video mới" khỏi menu ngữ cảnh tệp phương tiện;
+ShowCreateANewVideoContext; Hiển thị mục "Tạo video mới" trong menu ngữ cảnh tệp phương tiện;
+HideImagesEditContext; Ẩn mục "Tạo video mới" khỏi menu ngữ cảnh tệp phương tiện;
+ShowImagesEditContext; Hiển thị mục "Tạo video mới" trong menu ngữ cảnh tệp phương tiện;
+HidePrintCMDContext; Ẩn mục "In" khỏi trình đơn ngữ cảnh .bat và .cmd;
+ShowPrintCMDContext; Hiển thị mục "In" trong menu ngữ cảnh .bat và .cmd;
+HideIncludeInLibraryContext; Ẩn mục "Bao gồm trong Thư viện" khỏi menu ngữ cảnh của thư mục và ổ đĩa;
+ShowIncludeInLibraryContext; Hiển thị mục "Bao gồm trong Thư viện" trong menu ngữ cảnh của thư mục và ổ đĩa;
+HideSendToContext; Ẩn mục "Gửi tới" khỏi menu ngữ cảnh thư mục;
+ShowSendToContext; Hiển thị mục "Gửi tới" trong menu ngữ cảnh thư mục;
+HideBitLockerContext; Ẩn mục "Bật BitLocker" khỏi menu ngữ cảnh của ổ đĩa;
+ShowBitLockerContext; Hiển thị mục "Bật BitLocker" trong menu ngữ cảnh của ổ đĩa;
+HideBitmapImageNewContext; Ẩn mục "Hình ảnh bitmap" khỏi menu ngữ cảnh "Mới";
+ShowBitmapImageNewContext; Hiển thị mục "Hình ảnh bitmap" vào menu ngữ cảnh "Mới";
+HideRichTextDocumentNewContext; Ẩn mục "Tài liệu Văn bản Đa dạng thức" khỏi trình đơn ngữ cảnh "Mới";
+ShowRichTextDocumentNewContext; Hiển thị mục "Tài liệu Văn bản Có dạng thức" vào menu ngữ cảnh "Mới";
+HideCompressedFolderNewContext; Ẩn mục "Thư mục được nén (nén)" khỏi menu ngữ cảnh "Mới";
+ShowCompressedFolderNewContext; Hiển thị mục "Thư mục được nén (nén)" vào menu ngữ cảnh "Mới";
+EnableMultipleInvokeContext; Bật các mục "Mở", "In" và "Chỉnh sửa" nếu hơn 15 tệp được chọn;
+DisableMultipleInvokeContext; Tắt các mục "Mở", "In" và "Chỉnh sửa" nếu hơn 15 tệp được chọn;
+HideUseStoreOpenWith; Ẩn mục "Tìm ứng dụng trong Microsoft Store" trong hộp thoại "Mở bằng";
+ShowUseStoreOpenWith; Hiển thị mục "Tìm ứng dụng trong Microsoft Store" trong hộp thoại "Mở bằng"
+
+
+<#other#>
+
+HideTaskbarSearch; Ẩn tìm kiếm trên thanh tác vụ;
+SearchIconTaskbarSearch; Hiển thị biểu tượng tìm kiếm trên thanh tác vụ;
+SearchBoxTaskbarSearch; Hiển thị hộp tìm kiếm trên thanh tác vụ;
+AlwaysCombineHideLabelsTaskbar; Thanh tác vụ Luôn kết hợp, ẩn nhãn;
+CombineWhenFullTaskbar; Thanh tác vụ Kết hợp khi thanh tác vụ đầy;
+NeverCombineTaskbar; Thanh tác vụ Không bao giờ kết hợp;
+CategoryControlPanelView; Xem các biểu tượng Bảng điều khiển theo danh mục;
+LargeIconsControlPanelView; Xem các biểu tượng Bảng điều khiển bằng các biểu tượng lớn;
+SmallIconsControlPanelView; Xem các biểu tượng Bảng điều khiển bằng các biểu tượng nhỏ
+
+<#end#>

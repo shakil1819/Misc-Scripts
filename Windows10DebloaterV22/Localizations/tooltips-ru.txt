@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Отключите службу подключенных пользователей и телеметрии (DiagTrack) и заблокируйте подключение для исходящего трафика клиента единой телеметрии;
+EnableDiagTrackService; Включите службу взаимодействия с пользователем и телеметрию (DiagTrack) и разрешите подключение для исходящего трафика клиента единой телеметрии;
+MinimalDiagnosticDataLevel; Установите минимальный сбор диагностических данных;
+DefaultDiagnosticDataLevel; Установите сбор диагностических данных по умолчанию;
+DisableErrorReporting; Отключите отчет об ошибках Windows;
+EnableErrorReporting; Включите отчет об ошибках Windows;
+NeverFeedbackFrequency; Измените частоту обратной связи на «Никогда»;
+AutomaticallyFeedbackFrequency; Измените частоту обратной связи на «Автоматически»;
+DisableSigninInfo; Не используйте данные для входа для автоматического завершения настройки устройства после обновления;
+EnableSigninInfo; Используйте данные для входа, чтобы автоматически завершить настройку устройства после обновления;
+DisableLanguageListAccess; Не позволять веб-сайтам показывать мне локально релевантный контент, обращаясь к моему списку языков;
+EnableLanguageListAccess; Разрешить веб-сайтам показывать мне локально релевантный контент, выбрав язык в моем списке;
+DisableAdvertisingID; Не позволять приложениям показывать мне персонализированную рекламу с использованием моего рекламного идентификатора;
+EnableAdvertisingID; Разрешить приложениям показывать мне персонализированную рекламу, используя мой рекламный идентификатор;
+HideWindowsWelcomeExperience; Скрыть приветствие Windows после обновлений и иногда, когда я вхожу в систему, чтобы выделить новые и предлагаемые;
+ShowWindowsWelcomeExperience; Показывать приветствие Windows после обновлений и иногда, когда я вхожу в систему, чтобы выделить новые и предлагаемые;
+DisableWindowsTips; Не получаю подсказок и предложений, когда я использую Windows;
+EnableWindowsTips; Получать советы и предложения, когда я использую Windows;
+HideSettingsSuggestedContent; Скрыть от меня предлагаемый контент в приложении «Настройки»;
+ShowSettingsSuggestedContent; Покажи мне предлагаемый контент в приложении «Настройки»;
+DisableAppsSilentInstalling; Отключить автоматическую установку рекомендуемых приложений;
+EnableAppsSilentInstalling; Включите автоматическую установку рекомендуемых приложений;
+DisableWhatsNewInWindows; Отключить предложения о том, как я могу настроить свое устройство;
+EnableWhatsNewInWindows; Предлагать предложения о том, как я могу настроить свое устройство;
+DisableTailoredExperiences; Не позволяйте Майкрософт использовать ваши диагностические данные для персонализированных советов, рекламы и рекомендаций;
+EnableTailoredExperiences; Разрешите Майкрософт использовать ваши диагностические данные для персонализированных советов, рекламы и рекомендаций;
+DisableBingSearch; Отключите поиск Bing в меню «Пуск»;
+EnableBingSearch; Включите поиск Bing в меню "Пуск"
+
+<#uiperson#>
+
+ShowThisPC; Показать значок «Этот компьютер» на рабочем столе;
+HideThisPC; Скрыть значок «Этот компьютер» на рабочем столе;
+DisableCheckBoxes; Не используйте флажки для пунктов;
+EnableCheckBoxes; Используйте флажки для флажков;
+EnableHiddenItems; Показывать скрытые файлы, папки и диски;
+DisableHiddenItems; Не показывать скрытые файлы, папки и диски;
+ShowFileExtensions; Показать расширения имени файла;
+HideFileExtensions; Скрыть расширения имен файлов;
+ShowMergeConflicts; Показать конфликты слияния папок;
+HideMergeConflicts; Скрыть конфликты слияния папок;
+ThisPCOpenFileExplorerTo; Откройте проводник на «Этот компьютер»;
+QuickAccessOpenFileExplorerTo; Откройте проводник для быстрого доступа;
+HideCortanaButton; Скрыть кнопку Cortana на панели задач;
+ShowCortanaButton; Показать кнопку Cortana на панели задач;
+HideOneDriveFileExplorerAd; Не показывать уведомление поставщика синхронизации в проводнике;
+ShowOneDriveFileExplorerAd; Показать уведомление поставщика синхронизации в проводнике;
+DisableSnapAssist; Когда я щелкаю окно, не показывать то, что я могу привязать рядом с ним;
+EnableSnapAssist; Когда я щелкаю окно, показываю, что я могу привязать рядом с ним;
+DetailedFileTransferDialog; Показать диалоговое окно передачи файлов в подробном режиме;
+CompactFileTransferDialog; Показать диалоговое окно передачи файлов в компактном режиме;
+ExpandedFileExplorerRibbon; Разверните ленту проводника;
+MinimizedFileExplorerRibbon; Сверните ленту проводника;
+EnableRecycleBinDeleteConfirmation; Отображение диалогового окна подтверждения удаления файлов корзины;
+DisableRecycleBinDeleteConfirmation; Не отображать диалоговое окно подтверждения удаления файлов корзины;
+Hide3DObjects; Скрыть папку «3D-объекты» в «Этот компьютер» и Быстрый доступ;
+Show3DObjects; Показать папку «3D-объекты» в «Этот компьютер» и Быстрый доступ;
+HideQuickAccessRecentFiles; Скрыть часто используемые папки в Быстром доступе;
+ShowQuickAccessRecentFiles; Показывать часто используемые папки в быстром доступе;
+HideTaskViewButton; Скрыть кнопку просмотра задач на панели задач;
+ShowTaskViewButton; Показать кнопку просмотра задач на панели задач;
+HidePeopleTaskbar; Кнопка «Скрыть людей» на панели задач;
+ShowPeopleTaskbar; Показать кнопку "Люди" на панели задач;
+ShowSecondsInSystemClock; Показывать секунды на часах панели задач;
+HideSecondsInSystemClock; Скрыть секунды на часах панели задач;
+HideWindowsInkWorkspace; Скрыть кнопку Windows Ink Workspace на панели задач;
+ShowWindowsInkWorkspace; Показать кнопку Windows Ink Workspace на панели задач;
+HideMeetNow; Скрыть значок Meet Now в области уведомлений;
+ShowMeetNow; Показать значок Meet Now в области уведомлений;
+DisableNewsInterests; Отключить «Новости и интересы» на панели задач;
+EnableNewsInterests; Включите «Новости и интересы» на панели задач;
+DarkWindowsColorMode; Установите темный режим Windows по умолчанию;
+LightWindowsColorMode; Установите режим Windows по умолчанию на светлый;
+DarkAppColorMode; Установите темный режим приложения по умолчанию;
+LightAppColorMode; Установите режим приложения по умолчанию на свет;
+HideNewAppInstalledNotification; Скрыть индикатор «Установлено новое приложение»;
+ShowNewAppInstalledNotification; Показывать индикатор «Установлено новое приложение»;
+DisableFirstLogonAnimation; Отключить анимацию первого входа после обновления;
+EnableFirstLogonAnimation; Включить анимацию первого входа после обновления;
+MaxJPEGWallpapersQuality; Установите максимальный коэффициент качества обоев рабочего стола в формате JPEG;
+DefaultJPEGWallpapersQuality; Установите коэффициент качества обоев рабочего стола в формате JPEG по умолчанию;
+ExpandedTaskManagerWindow; Запустить диспетчер задач в развернутом режиме;
+CompactTaskManagerWindow; Запустить диспетчер задач в компактном режиме;
+ShowRestartNotification; Сообщите мне, когда для завершения обновления требуется перезагрузка;
+HideRestartNotification; Не уведомлять меня, когда для завершения обновления требуется перезагрузка;
+DisableShortcutsSuffix; Не добавляйте суффикс «- Ярлык» к имени файла созданных ярлыков;
+EnableShortcutsSuffix; Добавьте суффикс «- Ярлык» к имени файла созданных ярлыков;
+EnablePrtScnSnippingTool; Используйте кнопку «Печать экрана», чтобы открыть фрагмент экрана;
+DisablePrtScnSnippingTool; Не используйте кнопку «Печать экрана» для открытия фрагмента экрана;
+DisableAppsLanguageSwitch; Не используйте разные методы ввода для каждого окна приложения;
+EnableAppsLanguageSwitch; Позвольте мне использовать разные методы ввода для каждого окна приложения;
+DisableAeroShaking; Когда я беру строку заголовка окна и встряхиваю ее, не сворачивайте все остальные окна;
+EnableAeroShaking; Когда я беру строку заголовка окна и встряхиваю ее, сворачиваю все остальные окна
+
+<#onedrive#>
+
+UninstallOneDrive; Удалите OneDrive;
+InstallOneDrive; Установите OneDrive
+
+<#system#>
+
+EnableStorageSense; Включите Storage Sense;
+DisableStorageSense; Отключите контроль памяти;
+EnableStorageSenseTempFiles; Включите автоматическую очистку временных файлов системы и приложений;
+DisableStorageSenseTempFiles; Отключите автоматическую очистку временных файлов системы и приложений;
+MonthStorageSenseFrequency; Запускайте Storage Sense каждый месяц;
+DefaultStorageSenseFrequency; Запустите Storage Sense при нехватке свободного места на диске;
+DisableHibernation; Отключить гибернацию;
+EnableHibernation; Включить спящий режим;
+DisableWin32LongPathLimit; Отключите ограничение пути символов Windows 260;
+EnableWin32LongPathLimit; Включите ограничение пути символов Windows 260;
+EnableBSoDStopError; Отображение информации об ошибке Stop на BSoD;
+DisableBSoDStopError; Не отображать информацию об ошибке Stop на BSoD;
+NeverAdminApprovalMode; Никогда не уведомлять, когда приложения пытаются внести изменения в мой компьютер;
+DefaultAdminApprovalMode; Уведомлять меня, только когда приложения пытаются внести изменения в мой компьютер;
+EnableMappedDrivesAppElevatedAccess; Включите доступ к подключенным дискам из приложения, работающего с повышенными разрешениями, с включенным режимом утверждения администратором;
+DisableMappedDrivesAppElevatedAccess; Отключите доступ к подключенным дискам из приложения, работающего с повышенными разрешениями, с включенным режимом утверждения администратором;
+DisableDeliveryOptimization; Отключить оптимизацию доставки;
+EnableDeliveryOptimization; Включите оптимизацию доставки;
+EnableWaitNetworkStartup; Всегда ждите сети при запуске компьютера и входе в сеть для рабочих групп;
+DisableWaitNetworkStartup; Никогда не ждите сети при запуске компьютера и входе в сеть для рабочих групп;
+DisableWindowsManageDefaultPrinter; Не позволять Windows управлять моим принтером по умолчанию;
+EnableWindowsManageDefaultPrinter; Разрешить Windows управлять моим принтером по умолчанию;
+EnableUpdateMicrosoftProducts; Получать обновления для других продуктов Microsoft;
+DisableUpdateMicrosoftProducts; Не получать обновления для других продуктов Microsoft;
+HighPowerPlan; Установите план электропитания на «Высокая производительность»;
+BalancedPowerPlan; Установите план электропитания на «Сбалансированный»;
+EnableLatestInstalledNET; Используйте последнюю установленную среду выполнения .NET для всех приложений;
+DisableLatestInstalledNET; Не используйте последнюю установленную среду выполнения .NET для всех приложений;
+DisableNetworkAdaptersSavePower; Не позволяйте компьютеру отключать сетевые адаптеры для экономии энергии;
+EnableNetworkAdaptersSavePower; Разрешить компьютеру отключать сетевые адаптеры для экономии энергии;
+EnglishInputMethod; Заменить метод ввода по умолчанию: английский;
+DefaultInputMethod; Заменить метод ввода по умолчанию: использовать список языков;
+DesktopWinPrtScrFolder; Сохраните скриншоты, нажав Win + PrtScr на рабочем столе;
+DefaultWinPrtScrFolder; Сохраните скриншоты, нажав Win + PrtScr в папке «Изображения»;
+AutomaticallyRecommendedTroubleshooting; Запустите средство устранения неполадок автоматически, а затем сообщите мне;
+DefaultRecommendedTroubleshooting; Спросите меня перед запуском средства устранения неполадок;
+EnableFoldersLaunchSeparateProcess; Запускать окна папок в отдельном процессе;
+DisableFoldersLaunchSeparateProcess; Не запускайте окна папок в отдельном процессе;
+DisableReservedStorage; Отключить и удалить зарезервированное хранилище после следующей установки обновления;
+EnableReservedStorage; Включить зарезервированное хранилище после следующей установки обновления;
+DisableF1HelpPage; Отключить поиск справки через F1;
+EnableF1HelpPage; Включить поиск справки через F1;
+EnableNumLock; Включить Num Lock при запуске;
+DisableNumLock; Отключить Num Lock при запуске;
+DisableCapsLock; Отключить Caps Lock;
+EnableCapsLock; Включить Caps Lock;
+DisableStickyShift; Отключите нажатие клавиши Shift 5 раз для поворота залипающих клавиш;
+EnableStickyShift; Включите нажатие клавиши Shift 5 раз, чтобы поворачивать залипающие клавиши;
+DisableAutoplay; Не используйте AutoPlay для всех носителей и устройств;
+EnableAutoplay; Используйте AutoPlay для всех носителей и устройств;
+DisableThumbnailCacheRemoval; Отключить удаление кеша миниатюр;
+EnableThumbnailCacheRemoval; Разрешить удаление кеша миниатюр;
+EnableSaveRestartableApps; Автоматически сохранять мои перезапускаемые приложения и перезапускать их, когда я снова вхожу в систему;
+DisableSaveRestartableApps; Отключить автоматическое сохранение перезапускаемых приложений и перезапустить их, когда я снова войду в систему;
+EnableNetworkDiscovery; Включите «Обнаружение сети» и «Общий доступ к файлам и принтерам» для сетей рабочих групп;
+DisableNetworkDiscovery; Отключите «Обнаружение сети» и «Общий доступ к файлам и принтерам» для сетей рабочих групп;
+AutomaticallyActiveHours; Автоматически настраивать часы активности для меня в зависимости от ежедневного использования;
+ManuallyActiveHours; Вручную настройте часы активности для меня в зависимости от ежедневного использования;
+EnableDeviceRestartAfterUpdate; Как можно скорее перезагрузите приложение, чтобы завершить обновление;
+DisableDeviceRestartAfterUpdate; Не перезагружайте как можно скорее, чтобы завершить обновление
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Скрыть недавно добавленные приложения в меню «Пуск»;
+ShowRecentlyAddedApps; Показывать недавно добавленные приложения в меню «Пуск»;
+HideAppSuggestions; Скрыть предложения приложений в меню «Пуск»;
+ShowAppSuggestions; Показывать предложения приложений в меню «Пуск»;
+ElevatedRunPowerShellShortcut; Запустите ярлык Windows PowerShell из меню «Пуск» от имени администратора;
+NonElevatedRunPowerShellShortcut; Запустите ярлык Windows PowerShell из меню «Пуск» от имени пользователя
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Отключить автозапуск Кортаны;
+EnableCortanaAutostart; Включить автозапуск Кортаны;
+DisableBackgroundUWPApps; Не позволяйте приложениям UWP работать в фоновом режиме;
+EnableBackgroundUWPApps; Разрешить всем приложениям UWP работать в фоновом режиме
+
+<#gaming#>
+
+DisableXboxGameBar; Отключить игровую панель Xbox;
+EnableXboxGameBar; Включить игровую панель Xbox;
+DisableXboxGameTips; Отключить подсказки Xbox Game Bar;
+EnableXboxGameTips; Включить подсказки Xbox Game Bar;
+EnableGPUScheduling; Включить планирование работы графического процессора с аппаратным ускорением;
+DisableGPUScheduling; Отключить планирование GPU с аппаратным ускорением
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Включить защиту сети Microsoft Defender Exploit Guard;
+DisableNetworkProtection; Отключить сетевую защиту Microsoft Defender Exploit Guard;
+EnablePUAppsDetection; Включите обнаружение потенциально нежелательных приложений и заблокируйте их;
+DisablePUAppsDetection; Отключить обнаружение потенциально нежелательных приложений и заблокировать их;
+EnableDefenderSandbox; Включить песочницу для Microsoft Defender;
+DisableDefenderSandbox; Отключить песочницу для Microsoft Defender;
+EnableAuditProcess; Включить аудит событий, генерируемых при создании (запуске) процесса;
+DisableAuditProcess; Отключить аудит событий, генерируемых при создании (запуске) процесса;
+EnableCommandLineProcessAudit; Включить командную строку в события создания процесса;
+DisableCommandLineProcessAudit; Не включайте командную строку в события создания процесса;
+EnableEventViewerCustomView; Создайте окно просмотра событий «Создание процесса» - пользовательское представление для регистрации выполненных процессов и их аргументов;
+DisableEventViewerCustomView; Удалите настраиваемое представление средства просмотра событий «Создание процесса»;
+EnablePowerShellModulesLogging; Включить ведение журнала для всех модулей Windows PowerShell;
+DisablePowerShellModulesLogging; Отключить ведение журнала для всех модулей Windows PowerShell;
+EnablePowerShellScriptsLogging; Включите ведение журнала для всех сценариев PowerShell, вводимых в журнал событий Windows PowerShell;
+DisablePowerShellScriptsLogging; Отключить ведение журнала для всех сценариев PowerShell, вводимых в журнал событий Windows PowerShell;
+DisableAppsSmartScreen; Отключить проверку приложений и файлов в Microsoft Defender SmartScreen;
+EnableAppsSmartScreen; Включить проверку приложений и файлов с помощью SmartScreen Защитника Microsoft;
+DisableSaveZoneInformation; SmartScreen в Microsoft Defender не помечает загруженные из Интернета файлы как небезопасные;
+EnableSaveZoneInformation; SmartScreen в Microsoft Defender помечает загруженные из Интернета файлы как небезопасные;
+DisableWindowsScriptHost; Отключить Windows Script Host;
+EnableWindowsScriptHost; Включите Windows Script Host;
+DisableWindowsSandbox; Отключить Windows Sandbox;
+EnableWindowsSandbox; Включить песочницу Windows
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Показать пункт «Извлечь все» в контекстном меню установщика Windows (.msi);
+HideMSIExtractContext; Скройте пункт «Извлечь все» из контекстного меню установщика Windows (.msi);
+ShowCABInstallContext; В контекстном меню расширений имен файлов (.cab) отобразить пункт «Установить»;
+HideCABInstallContext; Скрыть пункт «Установить» из контекстного меню расширений имен файлов в кабинете (.cab);
+ShowRunAsDifferentUserContext; Показать пункт «Запуск от имени другого пользователя» в контекстном меню расширений файлов .exe;
+HideRunAsDifferentUserContext; Скройте пункт «Запуск от имени другого пользователя» из контекстного меню расширений файлов .exe;
+HideCastToDeviceContext; Скрыть пункт «Трансляция на устройство» из контекстного меню медиафайлов и папок;
+ShowCastToDeviceContext; Показать в контекстном меню медиафайлов и папок пункт «Транслировать на устройство»;
+HideShareContext; Скройте пункт «Поделиться» из контекстного меню;
+ShowShareContext; В контекстном меню отобразить пункт «Поделиться»;
+HideEditWithPaint3DContext; Скройте пункт «Редактировать с помощью Paint 3D» из контекстного меню медиафайлов;
+ShowEditWithPaint3DContext; Показать в контекстном меню медиафайлов пункт «Редактировать с помощью Paint 3D»;
+HideEditWithPhotosContext; Скрыть пункт «Редактировать с помощью фотографий» из контекстного меню медиафайлов;
+ShowEditWithPhotosContext; Показать в контекстном меню медиафайлов пункт «Редактировать с фотографиями»;
+HideCreateANewVideoContext; Скрыть пункт «Создать новое видео» из контекстного меню медиафайлов;
+ShowCreateANewVideoContext; Показать в контекстном меню медиафайлов пункт «Создать новое видео»;
+HideImagesEditContext; Скрыть пункт «Создать новое видео» из контекстного меню медиафайлов;
+ShowImagesEditContext; Показать в контекстном меню медиафайлов пункт «Создать новое видео»;
+HidePrintCMDContext; Скрыть пункт «Печать» из контекстного меню .bat и .cmd;
+ShowPrintCMDContext; Показать пункт «Печать» в контекстном меню .bat и .cmd;
+HideIncludeInLibraryContext; Скрыть пункт «Включить в библиотеку» из контекстного меню папок и дисков;
+ShowIncludeInLibraryContext; Показать в контекстном меню папок и дисков пункт «Включить в библиотеку»;
+HideSendToContext; Скройте в контекстном меню папок пункт «Отправить»;
+ShowSendToContext; В контекстном меню папок отобразить пункт «Отправить»;
+HideBitLockerContext; Скрыть пункт «Включить BitLocker» из контекстного меню дисков;
+ShowBitLockerContext; Показать в контекстном меню дисков пункт «Включить BitLocker»;
+HideBitmapImageNewContext; Скройте пункт «Растровое изображение» из контекстного меню «Создать»;
+ShowBitmapImageNewContext; В контекстном меню «Создать» отобразить пункт «Растровое изображение»;
+HideRichTextDocumentNewContext; Скройте пункт «Документ в формате RTF» из контекстного меню «Создать»;
+ShowRichTextDocumentNewContext; В контекстном меню «Создать» отобразить элемент «Документ в формате RTF»;
+HideCompressedFolderNewContext; Скройте пункт «Сжатая (заархивированная) папка» из контекстного меню «Создать»;
+ShowCompressedFolderNewContext; В контекстном меню «Создать» отобразить пункт «Сжатая (заархивированная) папка»;
+EnableMultipleInvokeContext; Включите пункты «Открыть», «Печать» и «Редактировать», если выбрано более 15 файлов;
+DisableMultipleInvokeContext; Отключите элементы «Открыть», «Печать» и «Редактировать», если выбрано более 15 файлов;
+HideUseStoreOpenWith; Скрыть пункт «Искать приложение в Microsoft Store» в диалоговом окне «Открыть с помощью»;
+ShowUseStoreOpenWith; Показать элемент «Найдите приложение в Microsoft Store» в диалоговом окне «Открыть с помощью»
+
+<#other#>
+
+HideTaskbarSearch; Скрыть поиск на панели задач;
+SearchIconTaskbarSearch; Показать значок поиска на панели задач;
+SearchBoxTaskbarSearch; Показать поле поиска на панели задач;
+AlwaysCombineHideLabelsTaskbar; Панель задач Всегда комбинировать, скрывать ярлыки;
+CombineWhenFullTaskbar; Панель задач Объединить, когда панель задач заполнена;
+NeverCombineTaskbar; Панель задач Никогда не объединять;
+CategoryControlPanelView; Просмотр значков панели управления по категориям;
+LargeIconsControlPanelView; Просматривайте значки панели управления большими значками;
+SmallIconsControlPanelView; Просматривайте значки панели управления маленькими значками
+
+<#end#>

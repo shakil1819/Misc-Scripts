@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; تعطيل خدمة تجارب المستخدم المتصل والقياس عن بُعد (DiagTrack) ، وحظر الاتصال لحركة المرور الصادرة للعميل الموحد للقياس عن بُعد ;
+EnableDiagTrackService; تمكين تجربة المستخدم المتصل وخدمة القياس عن بعد (DiagTrack) ، والسماح بالاتصال بحركة المرور الصادرة للعميل الموحد ;
+MinimalDiagnosticDataLevel; ضبط جمع البيانات التشخيصية على الحد الأدنى ;
+DefaultDiagnosticDataLevel; تعيين مجموعة البيانات التشخيصية على الافتراضي ;
+DisableErrorReporting; إيقاف تشغيل Windows Error Reporting;
+EnableErrorReporting; قم بتشغيل Windows Error Reporting;
+NeverFeedbackFrequency; تغيير تردد التغذية المرتدة إلى "أبدًا" ;
+AutomaticallyFeedbackFrequency; تغيير تردد التغذية المرتدة إلى "تلقائيًا" ;
+DisableSigninInfo; لا تستخدم معلومات تسجيل الدخول لإنهاء إعداد الجهاز تلقائيًا بعد التحديث ;
+EnableSigninInfo; استخدم معلومات تسجيل الدخول لإنهاء إعداد الجهاز تلقائيًا بعد التحديث ;
+DisableLanguageListAccess; لا تدع مواقع الويب تُظهر لي المحتوى ذي الصلة محليًا من خلال الوصول إلى قائمة اللغات الخاصة بي ;
+EnableLanguageListAccess; السماح لمواقع الويب بإظهار المحتوى ذي الصلة محليًا عن طريق الوصول إلى اللغة القائمة الخاصة بي ;
+DisableAdvertisingID; عدم السماح للتطبيقات بإظهار إعلانات مخصصة لي باستخدام معرف الإعلانات الخاص بي ;
+EnableAdvertisingID; السماح للتطبيقات بإظهار إعلانات مخصصة لي باستخدام معرّف الإعلانات الخاص بي ;
+HideWindowsWelcomeExperience; إخفاء تجارب ترحيب Windows بعد التحديثات وأحيانًا عند تسجيل الدخول لإبراز الجديد والمقترح ;
+ShowWindowsWelcomeExperience; إظهار تجارب الترحيب في Windows بعد التحديثات وأحيانًا عند تسجيل الدخول لإبراز الجديد والمقترح ;
+DisableWindowsTips; لا تحصل على تلميحات واقتراحات عند استخدام Windows ;
+EnableWindowsTips; احصل على تلميحات واقتراحات عند استخدام Windows ;
+HideSettingsSuggestedContent; إخفاء المحتوى المقترح عني في تطبيق الإعدادات ;
+ShowSettingsSuggestedContent; اعرض لي المحتوى المقترح في تطبيق الإعدادات ;
+DisableAppsSilentInstalling; قم بإيقاف تشغيل التثبيت التلقائي للتطبيقات المقترحة ;
+EnableAppsSilentInstalling; قم بتشغيل التثبيت التلقائي للتطبيقات المقترحة ;
+DisableWhatsNewInWindows; تعطيل الاقتراحات حول كيفية إعداد جهازي ;
+EnableWhatsNewInWindows; تقديم اقتراحات حول كيفية إعداد جهازي ;
+DisableTailoredExperiences; لا تدع Microsoft تستخدم بياناتك التشخيصية للحصول على نصائح وإعلانات وتوصيات مخصصة ;
+EnableTailoredExperiences; اسمح لشركة Microsoft باستخدام بياناتك التشخيصية للحصول على نصائح وإعلانات وتوصيات مخصصة ;
+DisableBingSearch; تعطيل بحث Bing في قائمة ابدأ ;
+EnableBingSearch; قم بتمكين بحث Bing في قائمة ابدأ
+
+<#uiperson#>
+
+ShowThisPC; إظهار رمز "هذا الكمبيوتر الشخصي" على سطح المكتب ;
+HideThisPC; إخفاء رمز "هذا الكمبيوتر الشخصي" على سطح المكتب ;
+DisableCheckBoxes; لا تستخدم خانات اختيار العنصر ;
+EnableCheckBoxes; استخدام مربعات اختيار البند ;
+EnableHiddenItems; إظهار الملفات والمجلدات ومحركات الأقراص المخفية ;
+DisableHiddenItems; لا تظهر الملفات والمجلدات ومحركات الأقراص المخفية ;
+ShowFileExtensions; إظهار ملحقات اسم الملف ;
+HideFileExtensions; إخفاء ملحقات اسم الملف ;
+ShowMergeConflicts; إظهار تعارضات دمج المجلدات ;
+HideMergeConflicts; إخفاء تعارضات دمج المجلدات ;
+ThisPCOpenFileExplorerTo; افتح File Explorer على "This PC" ;
+QuickAccessOpenFileExplorerTo; افتح مستكشف الملفات للوصول السريع ;
+HideCortanaButton; إخفاء زر Cortana على شريط المهام ;
+ShowCortanaButton; إظهار زر Cortana على شريط المهام ;
+HideOneDriveFileExplorerAd; لا تعرض إشعار مزود المزامنة داخل File Explorer ;
+ShowOneDriveFileExplorerAd; إظهار إعلام مزود المزامنة داخل File Explorer ;
+DisableSnapAssist; عندما ألتقط نافذة ، لا تُظهر ما يمكنني محاذاته بجانبه ;
+EnableSnapAssist; عندما ألتقط نافذة ، أظهر ما يمكنني محاذاته بجانبه ;
+DetailedFileTransferDialog; إظهار مربع حوار نقل الملفات في الوضع التفصيلي ;
+CompactFileTransferDialog; إظهار مربع حوار نقل الملفات في الوضع المضغوط ;
+ExpandedFileExplorerRibbon; قم بتوسيع شريط File Explorer ;
+MinimizedFileExplorerRibbon; تصغير شريط مستكشف الملفات ;
+EnableRecycleBinDeleteConfirmation; عرض مربع حوار تأكيد حذف ملفات سلة المحذوفات ;
+DisableRecycleBinDeleteConfirmation; لا تعرض مربع حوار تأكيد حذف ملفات سلة المحذوفات ;
+Hide3DObjects; إخفاء مجلد "كائنات ثلاثية الأبعاد" في "هذا الكمبيوتر" والوصول السريع ;
+Show3DObjects; إظهار مجلد "كائنات ثلاثية الأبعاد" في "هذا الكمبيوتر" والوصول السريع ;
+HideQuickAccessRecentFiles; إخفاء المجلدات المستخدمة بشكل متكرر في الوصول السريع ;
+ShowQuickAccessRecentFiles; إظهار المجلدات المستخدمة بشكل متكرر في الوصول السريع ;
+HideTaskViewButton; إخفاء زر عرض المهام على شريط المهام ;
+ShowTaskViewButton; إظهار زر "عرض المهام" على شريط المهام ;
+HidePeopleTaskbar; زر إخفاء الأشخاص على شريط المهام ;
+ShowPeopleTaskbar; إظهار زر الأشخاص على شريط المهام ;
+ShowSecondsInSystemClock; عرض الثواني على ساعة شريط المهام ;
+HideSecondsInSystemClock; إخفاء الثواني على ساعة شريط المهام ;
+HideWindowsInkWorkspace; إخفاء زر مساحة عمل Windows Ink على شريط المهام ;
+ShowWindowsInkWorkspace; إظهار زر مساحة عمل Windows Ink على شريط المهام ;
+HideMeetNow; إخفاء رمز Meet Now في منطقة الإعلام ;
+ShowMeetNow; إظهار رمز Meet Now في منطقة الإعلام ;
+DisableNewsInterests; تعطيل "الأخبار والاهتمامات" على شريط المهام ;
+EnableNewsInterests; تمكين "الأخبار والاهتمامات" على شريط المهام ;
+DarkWindowsColorMode; اضبط وضع Windows الافتراضي على الظلام ;
+LightWindowsColorMode; اضبط وضع Windows الافتراضي على الضوء ;
+DarkAppColorMode; اضبط وضع التطبيق الافتراضي على الظلام ;
+LightAppColorMode; اضبط وضع التطبيق الافتراضي على الضوء ;
+HideNewAppInstalledNotification; إخفاء مؤشر "تثبيت تطبيق جديد" ;
+ShowNewAppInstalledNotification; إظهار مؤشر "تثبيت تطبيق جديد" ;
+DisableFirstLogonAnimation; تعطيل الرسوم المتحركة لتسجيل الدخول لأول مرة بعد الترقية ;
+EnableFirstLogonAnimation; تفعيل الرسوم المتحركة لتسجيل الدخول لأول مرة بعد الترقية ;
+MaxJPEGWallpapersQuality; اضبط عامل الجودة لخلفيات سطح المكتب بتنسيق JPEG على الحد الأقصى ;
+DefaultJPEGWallpapersQuality; اضبط عامل الجودة لخلفيات سطح المكتب بتنسيق JPEG على الوضع الافتراضي ;
+ExpandedTaskManagerWindow; بدء إدارة المهام في الوضع الموسع ;
+CompactTaskManagerWindow; بدء إدارة المهام في الوضع المضغوط ;
+ShowRestartNotification; أعلمني عند الحاجة إلى إعادة التشغيل لإنهاء التحديث ;
+HideRestartNotification; لا تخطر لي عند الحاجة إلى إعادة التشغيل لإنهاء التحديث ;
+DisableShortcutsSuffix; لا تقم بإضافة اللاحقة "- اختصار" إلى اسم ملف الاختصارات التي تم إنشاؤها ;
+EnableShortcutsSuffix; أضف لاحقة "- Shortcut" إلى اسم ملف الاختصارات التي تم إنشاؤها ;
+EnablePrtScnSnippingTool; استخدم زر شاشة الطباعة لفتح لقطة الشاشة ;
+DisablePrtScnSnippingTool; لا تستخدم زر شاشة الطباعة لفتح لقطة الشاشة ;
+DisableAppsLanguageSwitch; لا تستخدم طريقة إدخال مختلفة لكل نافذة تطبيق ;
+EnableAppsLanguageSwitch; اسمحوا لي أن أستخدم طريقة إدخال مختلفة لكل نافذة تطبيق ;
+DisableAeroShaking; عندما أمسك بشريط عنوان أحد النوافذ وأقوم بهزّه ، لا تصغر كل النوافذ الأخرى ;
+EnableAeroShaking; عندما أمسك بشريط عنوان windows وقم بهزه ، قم بتصغير جميع النوافذ الأخرى
+
+<#onedrive#>
+
+UninstallOneDrive; إلغاء تثبيت OneDrive ;
+InstallOneDrive; قم بتثبيت OneDrive
+
+<#system#>
+
+EnableStorageSense; قم بتشغيل ميزة Storage Sense ;
+DisableStorageSense; قم بإيقاف تشغيل خاصية Storage Sense ;
+EnableStorageSenseTempFiles; قم بتشغيل التنظيف التلقائي لملفات النظام والتطبيق المؤقتة ;
+DisableStorageSenseTempFiles; قم بإيقاف تشغيل التنظيف التلقائي لملفات النظام والتطبيق المؤقتة ;
+MonthStorageSenseFrequency; تشغيل Storage Sense كل شهر ;
+DefaultStorageSenseFrequency; تشغيل مستشعر التخزين أثناء انخفاض مساحة القرص الحرة ;
+DisableHibernation; تعطيل السبات ;
+EnableHibernation; تمكين السبات ;
+DisableWin32LongPathLimit; تعطيل حد مسار أحرف Windows 260 ;
+EnableWin32LongPathLimit; تمكين حد مسار أحرف Windows 260 ;
+EnableBSoDStopError; عرض معلومات خطأ الإيقاف على BSoD ;
+DisableBSoDStopError; لا تعرض معلومات خطأ الإيقاف Stop على BSoD ;
+NeverAdminApprovalMode; لا تخطر أبدًا عندما تحاول التطبيقات إجراء تغييرات على جهاز الكمبيوتر الخاص بي ;
+DefaultAdminApprovalMode; إعلامي فقط عندما تحاول التطبيقات إجراء تغييرات على جهاز الكمبيوتر الخاص بي ;
+EnableMappedDrivesAppElevatedAccess; قم بتشغيل الوصول إلى محركات الأقراص المعينة من التطبيق الذي يعمل بأذونات مرتفعة مع تمكين وضع موافقة المسؤول ;
+DisableMappedDrivesAppElevatedAccess; قم بإيقاف تشغيل الوصول إلى محركات الأقراص المعينة من التطبيق الذي يعمل بأذونات مرتفعة مع تمكين وضع موافقة المسؤول ;
+DisableDeliveryOptimization; إيقاف تشغيل تحسين التسليم ;
+EnableDeliveryOptimization; تشغيل تحسين التسليم ;
+EnableWaitNetworkStartup; انتظر دائمًا الشبكة عند بدء تشغيل الكمبيوتر وتسجيل الدخول لشبكات مجموعة العمل ;
+DisableWaitNetworkStartup; لا تنتظر الشبكة عند بدء تشغيل الكمبيوتر وتسجيل الدخول لشبكات مجموعة العمل ;
+DisableWindowsManageDefaultPrinter; لا تدع Windows يدير طابعتي الافتراضية ;
+EnableWindowsManageDefaultPrinter; السماح لـ Windows بإدارة الطابعة الافتراضية الخاصة بي ;
+EnableUpdateMicrosoftProducts; تلقي تحديثات لمنتجات Microsoft الأخرى ;
+DisableUpdateMicrosoftProducts; لا تتلقى تحديثات لمنتجات Microsoft الأخرى ;
+HighPowerPlan; تعيين خطة الطاقة على "الأداء العالي" ;
+BalancedPowerPlan; تعيين خطة الطاقة على "متوازن" ;
+EnableLatestInstalledNET; استخدام أحدث إصدار من وقت تشغيل .NET المثبت لجميع التطبيقات ;
+DisableLatestInstalledNET; لا تستخدم أحدث إصدار من وقت تشغيل .NET المثبت لجميع التطبيقات ;
+DisableNetworkAdaptersSavePower; لا تسمح للكمبيوتر بإيقاف تشغيل محولات الشبكة لتوفير الطاقة ;
+EnableNetworkAdaptersSavePower; السماح للكمبيوتر بإيقاف تشغيل محولات الشبكة لتوفير الطاقة ;
+EnglishInputMethod; تجاوز أسلوب الإدخال الافتراضي: الإنجليزية ;
+DefaultInputMethod; تجاوز لطريقة الإدخال الافتراضية: استخدام قائمة اللغة ;
+DesktopWinPrtScrFolder; احفظ لقطات الشاشة بالضغط على Win + PrtScr على سطح المكتب ;
+DefaultWinPrtScrFolder; احفظ لقطات الشاشة بالضغط على Win + PrtScr في مجلد الصور ;
+AutomaticallyRecommendedTroubleshooting; تشغيل مستكشف الأخطاء ومصلحها تلقائيًا ، ثم إعلامي ;
+DefaultRecommendedTroubleshooting; اسألني قبل تشغيل مستكشف الأخطاء ومصلحها ;
+EnableFoldersLaunchSeparateProcess; تشغيل نوافذ المجلد في عملية منفصلة ;
+DisableFoldersLaunchSeparateProcess; لا تقم بتشغيل نوافذ المجلدات في عملية منفصلة ;
+DisableReservedStorage; تعطيل وحذف التخزين المحجوز بعد تثبيت التحديث التالي ;
+EnableReservedStorage; تمكين التخزين المحجوز بعد تثبيت التحديث التالي ;
+DisableF1HelpPage; تعطيل البحث عن التعليمات عبر F1 ;
+EnableF1HelpPage; تمكين البحث عن التعليمات عبر F1 ;
+EnableNumLock; تمكين Num Lock عند بدء التشغيل ;
+DisableNumLock; تعطيل Num Lock عند بدء التشغيل ;
+DisableCapsLock; تعطيل Caps Lock ;
+EnableCapsLock; تمكين Caps Lock ;
+DisableStickyShift; قم بإيقاف تشغيل الضغط على مفتاح Shift 5 مرات لتشغيل Sticky keys ;
+EnableStickyShift; قم بتشغيل الضغط على مفتاح Shift 5 مرات لتشغيل مفاتيح التثبيت ;
+DisableAutoplay; لا تستخدم التشغيل التلقائي لجميع الوسائط والأجهزة ;
+EnableAutoplay; استخدام التشغيل التلقائي لجميع الوسائط والأجهزة ;
+DisableThumbnailCacheRemoval; تعطيل إزالة ذاكرة التخزين المؤقت المصغرة ;
+EnableThumbnailCacheRemoval; تمكين إزالة ذاكرة التخزين المؤقت المصغرة ;
+EnableSaveRestartableApps; حفظ تطبيقاتي القابلة لإعادة التشغيل تلقائيًا وإعادة تشغيلها عند تسجيل الدخول مرة أخرى ;
+DisableSaveRestartableApps; قم بإيقاف تشغيل حفظ تطبيقاتي القابلة لإعادة التشغيل تلقائيًا وإعادة تشغيلها عند تسجيل الدخول مرة أخرى ;
+EnableNetworkDiscovery; تمكين "اكتشاف الشبكة" و "مشاركة الملفات والطابعات" لشبكات مجموعة العمل ;
+DisableNetworkDiscovery; تعطيل "اكتشاف الشبكة" و "مشاركة الملفات والطابعات" لشبكات مجموعة العمل ;
+AutomaticallyActiveHours; ضبط ساعات العمل تلقائيًا بالنسبة لي بناءً على الاستخدام اليومي ;
+ManuallyActiveHours; ضبط ساعات النشاط يدويًا بالنسبة لي بناءً على الاستخدام اليومي ;
+EnableDeviceRestartAfterUpdate; أعد التشغيل في أقرب وقت ممكن لإنهاء التحديث ;
+DisableDeviceRestartAfterUpdate; لا تقم بإعادة التشغيل في أسرع وقت ممكن لإنهاء التحديث
+
+<#startmenu#>
+
+HideRecentlyAddedApps; إخفاء التطبيقات المضافة مؤخرًا في قائمة ابدأ ;
+ShowRecentlyAddedApps; إظهار التطبيقات المضافة مؤخرًا في قائمة ابدأ ;
+HideAppSuggestions; إخفاء اقتراحات التطبيق في قائمة ابدأ ;
+ShowAppSuggestions; إظهار اقتراحات التطبيقات في قائمة ابدأ ;
+ElevatedRunPowerShellShortcut; قم بتشغيل اختصار Windows PowerShell من قائمة ابدأ كمسؤول ;
+NonElevatedRunPowerShellShortcut; قم بتشغيل اختصار Windows PowerShell من قائمة ابدأ كمستخدم
+
+<#uwpapps#>
+
+DisableCortanaAutostart; تعطيل Cortana autostarting ;
+EnableCortanaAutostart; تمكين Cortana autostarting ;
+DisableBackgroundUWPApps; لا تدع تطبيقات UWP تعمل في الخلفية ;
+EnableBackgroundUWPApps; دع جميع تطبيقات UWP تعمل في الخلفية
+
+<#gaming#>
+
+DisableXboxGameBar; تعطيل Xbox Game Bar ;
+EnableXboxGameBar; تمكين Xbox Game Bar ;
+DisableXboxGameTips; تعطيل تلميحات Xbox Game Bar ;
+EnableXboxGameTips; تمكين تلميحات Xbox Game Bar ;
+EnableGPUScheduling; تمكين جدولة GPU المسرَّعة بالأجهزة ;
+DisableGPUScheduling; تعطيل جدولة وحدة معالجة الرسومات المسرَّعة بالأجهزة
+
+<#defendersecurity#>
+
+EnableNetworkProtection; تمكين حماية شبكة Microsoft Defender Exploit Guard ;
+DisableNetworkProtection; تعطيل حماية شبكة Microsoft Defender Exploit Guard ;
+EnablePUAppsDetection; تمكين الكشف عن التطبيقات غير المرغوب فيها وحظرها ;
+DisablePUAppsDetection; تعطيل الكشف عن التطبيقات غير المرغوب فيها وحظرها ;
+EnableDefenderSandbox; تمكين وضع الحماية لـ Microsoft Defender ;
+DisableDefenderSandbox; تعطيل وضع الحماية لـ Microsoft Defender ;
+EnableAuditProcess; تمكين تدقيق الأحداث التي تم إنشاؤها عند إنشاء عملية (بدء) ;
+DisableAuditProcess; تعطيل تدقيق الأحداث التي تم إنشاؤها عند إنشاء عملية (تبدأ) ;
+EnableCommandLineProcessAudit; تضمين سطر الأوامر في أحداث إنشاء العملية ;
+DisableCommandLineProcessAudit; لا تقم بتضمين سطر الأوامر في أحداث إنشاء العملية ;
+EnableEventViewerCustomView; قم بإنشاء عارض الأحداث "عملية الإنشاء" - عرض مخصص لتسجيل العمليات المنفذة ووسيطاتها ;
+DisableEventViewerCustomView; إزالة طريقة العرض المخصصة "عملية إنشاء" عارض الأحداث ;
+EnablePowerShellModulesLogging; تمكين التسجيل لجميع وحدات Windows PowerShell النمطية ;
+DisablePowerShellModulesLogging; تعطيل التسجيل لجميع وحدات Windows PowerShell النمطية ;
+EnablePowerShellScriptsLogging; تمكين التسجيل لجميع مدخلات برامج PowerShell النصية في سجل أحداث Windows PowerShell ;
+DisablePowerShellScriptsLogging; تعطيل التسجيل لجميع مدخلات برامج PowerShell النصية في سجل أحداث Windows PowerShell ;
+DisableAppsSmartScreen; تعطيل فحص التطبيقات والملفات داخل Microsoft Defender SmartScreen ;
+EnableAppsSmartScreen; تمكين فحص التطبيقات والملفات داخل Microsoft Defender SmartScreen ;
+DisableSaveZoneInformation; لا يضع Microsoft Defender SmartScreen علامة على الملفات التي تم تنزيلها من الإنترنت على أنها غير آمنة ;
+EnableSaveZoneInformation; يضع Microsoft Defender SmartScreen علامة على الملفات التي تم تنزيلها من الإنترنت على أنها غير آمنة ;
+DisableWindowsScriptHost; تعطيل Windows Script Host ;
+EnableWindowsScriptHost; تمكين Windows Script Host ;
+DisableWindowsSandbox; تعطيل Windows Sandbox ;
+EnableWindowsSandbox; قم بتمكين Windows Sandbox
+
+<#contextmenu#>
+
+ShowMSIExtractContext; إظهار العنصر "استخراج الكل" في قائمة سياق Windows Installer (.msi) ;
+HideMSIExtractContext; إخفاء عنصر "استخراج الكل" من قائمة سياق Windows Installer (.msi) ;
+ShowCABInstallContext; إظهار العنصر "تثبيت" في قائمة سياق ملحقات أسماء ملفات الخزانة (.cab) ;
+HideCABInstallContext; إخفاء عنصر "تثبيت" من قائمة سياق ملحقات أسماء ملفات الخزانة (.cab) ;
+ShowRunAsDifferentUserContext; إظهار العنصر "تشغيل كمستخدم مختلف" في قائمة سياق ملحقات اسم الملف.
+HideRunAsDifferentUserContext; إخفاء العنصر "تشغيل كمستخدم مختلف" من قائمة سياق ملحقات اسم الملف.
+HideCastToDeviceContext; إخفاء عنصر "Cast to Device" من قائمة سياق ملفات الوسائط والمجلدات ;
+ShowCastToDeviceContext; إظهار عنصر "Cast to Device" في قائمة سياق ملفات الوسائط والمجلدات ;
+HideShareContext; إخفاء عنصر "مشاركة" من قائمة السياق ;
+ShowShareContext; إظهار عنصر "مشاركة" في قائمة السياق ;
+HideEditWithPaint3DContext; إخفاء عنصر "التحرير باستخدام الرسام ثلاثي الأبعاد" من قائمة سياق ملفات الوسائط ;
+ShowEditWithPaint3DContext; إظهار عنصر "التحرير باستخدام الرسام ثلاثي الأبعاد" في قائمة سياق ملفات الوسائط ;
+HideEditWithPhotosContext; إخفاء عنصر "التحرير بالصور" من قائمة سياق ملفات الوسائط ;
+ShowEditWithPhotosContext; إظهار عنصر "التحرير بالصور" في قائمة سياق ملفات الوسائط ;
+HideCreateANewVideoContext; إخفاء عنصر "إنشاء فيديو جديد" من قائمة سياق ملفات الوسائط ;
+ShowCreateANewVideoContext; إظهار عنصر "إنشاء فيديو جديد" في قائمة سياق ملفات الوسائط ;
+HideImagesEditContext; إخفاء عنصر "إنشاء فيديو جديد" من قائمة سياق ملفات الوسائط ;
+ShowImagesEditContext; إظهار عنصر "إنشاء فيديو جديد" في قائمة سياق ملفات الوسائط ;
+HidePrintCMDContext; إخفاء العنصر "طباعة" من قائمة السياق. bat و. cmd ;
+ShowPrintCMDContext; إظهار العنصر "طباعة" في قائمة السياق. bat و. cmd ;
+HideIncludeInLibraryContext; إخفاء عنصر "تضمين في المكتبة" من قائمة سياق المجلدات ومحركات الأقراص ;
+ShowIncludeInLibraryContext; إظهار عنصر "تضمين في المكتبة" في قائمة سياق المجلدات ومحركات الأقراص ;
+HideSendToContext; إخفاء عنصر "إرسال إلى" من قائمة سياق المجلدات ;
+ShowSendToContext; إظهار العنصر "إرسال إلى" في قائمة سياق المجلدات ;
+HideBitLockerContext; إخفاء العنصر "تشغيل BitLocker" من قائمة سياق محركات الأقراص ;
+ShowBitLockerContext; إظهار العنصر "تشغيل BitLocker" في قائمة سياق محركات الأقراص ;
+HideBitmapImageNewContext; إخفاء عنصر "صورة نقطية" من قائمة السياق "جديد" ;
+ShowBitmapImageNewContext; إظهار عنصر "صورة نقطية" في قائمة السياق "جديد" ;
+HideRichTextDocumentNewContext; إخفاء عنصر "مستند نص منسق" من قائمة السياق "جديد" ;
+ShowRichTextDocumentNewContext; إظهار عنصر "مستند نص منسق" في قائمة السياق "جديد" ;
+HideCompressedFolderNewContext; إخفاء عنصر "المجلد المضغوط" من قائمة السياق "جديد" ;
+ShowCompressedFolderNewContext; إظهار عنصر "المجلد المضغوط (من نوع Zip)" إلى قائمة السياق "الجديدة" ;
+EnableMultipleInvokeContext; تمكين العناصر "فتح" و "طباعة" و "تحرير" إذا تم تحديد أكثر من 15 ملفًا ;
+DisableMultipleInvokeContext; تعطيل عناصر "فتح" و "طباعة" و "تحرير" إذا تم تحديد أكثر من 15 ملفًا ;
+HideUseStoreOpenWith; إخفاء العنصر "ابحث عن تطبيق في متجر Microsoft" في مربع الحوار "فتح باستخدام" ;
+ShowUseStoreOpenWith; اعرض العنصر "ابحث عن تطبيق في Microsoft Store" في مربع الحوار "فتح باستخدام"
+
+<#other#>
+
+HideTaskbarSearch; إخفاء البحث على شريط المهام ;
+SearchIconTaskbarSearch; إظهار رمز البحث على شريط المهام ;
+SearchBoxTaskbarSearch; إظهار مربع البحث على شريط المهام ;
+AlwaysCombineHideLabelsTaskbar; شريط المهام قم دائمًا بدمج التسميات وإخفائها ;
+CombineWhenFullTaskbar; دمج شريط المهام عند امتلاء شريط المهام ;
+NeverCombineTaskbar; شريط المهام لا يندمج أبدًا ;
+CategoryControlPanelView; عرض رموز لوحة التحكم حسب الفئة ;
+LargeIconsControlPanelView; عرض رموز لوحة التحكم عن طريق الرموز الكبيرة ;
+SmallIconsControlPanelView; اعرض رموز لوحة التحكم عن طريق الرموز الصغيرة
+
+<#end#>

@@ -1,0 +1,272 @@
+<#third#>
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+
+DisableDiagTrackService; Schakel de Connected User Experiences and Telemetry (DiagTrack)-service uit en blokkeer de verbinding voor het Unified Telemetry Client Outbound Traffic;
+EnableDiagTrackService; Schakel de Connected User Experiences and Telemetry (DiagTrack)-service in en sta verbinding toe voor het Unified Telemetry Client Outbound Traffic;
+MinimalDiagnosticDataLevel; Stel de verzameling van diagnostische gegevens in op het minimum;
+DefaultDiagnosticDataLevel; Stel de verzameling van diagnostische gegevens in op standaard;
+DisableErrorReporting; Schakel Windows Foutrapportage uit;
+EnableErrorReporting; Schakel Windows Foutrapportage in;
+NeverFeedbackFrequency; Wijzig de feedbackfrequentie in "Nooit";
+AutomaticallyFeedbackFrequency; Wijzig de feedbackfrequentie in "Automatisch";
+DisableSigninInfo; Gebruik geen aanmeldingsgegevens om het instellen van het apparaat automatisch te voltooien na een update;
+EnableSigninInfo; Gebruik aanmeldingsgegevens om het instellen van het apparaat automatisch te voltooien na een update;
+DisableLanguageListAccess; Laat websites mij geen lokaal relevante inhoud tonen door mijn talenlijst te openen;
+EnableLanguageListAccess; Laat websites me lokaal relevante inhoud tonen door de taal van mijn lijst te openen;
+DisableAdvertisingID; Laat apps mij geen gepersonaliseerde advertenties tonen door mijn advertentie-ID te gebruiken;
+EnableAdvertisingID; Laat apps mij gepersonaliseerde advertenties tonen met behulp van mijn advertentie-ID;
+HideWindowsWelcomeExperience; Verberg de Windows-welkomstervaringen na updates en af ​​en toe wanneer ik me aanmeld om te benadrukken wat er nieuw en voorgesteld is;
+ShowWindowsWelcomeExperience; Laat de Windows-welkomstervaringen zien na updates en af ​​en toe wanneer ik me aanmeld om te benadrukken wat er nieuw en voorgesteld is;
+DisableWindowsTips; Krijg geen fooi en suggesties als ik Windows gebruik;
+EnableWindowsTips; Ontvang tips en suggesties wanneer ik Windows gebruik;
+HideSettingsSuggestedContent; Verberg voor mij voorgestelde inhoud in de app Instellingen;
+ShowSettingsSuggestedContent; Laat me voorgestelde inhoud zien in de app Instellingen;
+DisableAppsSilentInstalling; Schakel het automatisch installeren van voorgestelde apps uit;
+EnableAppsSilentInstalling; Schakel het automatisch installeren van voorgestelde apps in;
+DisableWhatsNewInWindows; Suggesties over hoe ik mijn apparaat kan instellen uitschakelen;
+EnableWhatsNewInWindows; Suggesties aanbieden over hoe ik mijn apparaat kan instellen;
+DisableTailoredExperiences; Laat Microsoft uw diagnostische gegevens niet gebruiken voor gepersonaliseerde tips, advertenties en aanbevelingen;
+EnableTailoredExperiences; Laat Microsoft uw diagnostische gegevens gebruiken voor gepersonaliseerde tips, advertenties en aanbevelingen;
+DisableBingSearch; Schakel Bing zoeken uit in het Startmenu;
+EnableBingSearch; Schakel Bing zoeken in het Startmenu in
+
+<#uiperson#>
+
+ShowThisPC; Toon het pictogram "Deze pc" op het bureaublad;
+HideThisPC; Verberg het pictogram "Deze pc" op het bureaublad;
+DisableCheckBoxes; Gebruik geen selectievakjes voor items;
+EnableCheckBoxes; Gebruik selectievakjes voor selectievakjes;
+EnableHiddenItems; Toon verborgen bestanden, mappen en stations;
+DisableHiddenItems; Toon geen verborgen bestanden, mappen en stations;
+ShowFileExtensions; Toon bestandsnaamextensies;
+HideFileExtensions; Verberg bestandsnaamextensies;
+ShowMergeConflicts; Samenvoegconflicten van mappen weergeven;
+HideMergeConflicts; Verberg conflicten voor het samenvoegen van mappen;
+ThisPCOpenFileExplorerTo; Open Verkenner naar "Deze pc";
+QuickAccessOpenFileExplorerTo; Open Verkenner voor Snelle toegang;
+HideCortanaButton; Verberg de Cortana-knop op de taakbalk;
+ShowCortanaButton; Toon Cortana-knop op de taakbalk;
+HideOneDriveFileExplorerAd; Geen melding van synchronisatieprovider weergeven in Verkenner;
+ShowOneDriveFileExplorerAd; Melding van synchronisatieprovider weergeven in Verkenner;
+DisableSnapAssist; Als ik een venster snap, laat dan niet zien wat ik ernaast kan klikken;
+EnableSnapAssist; Als ik een venster snap, laat dan zien wat ik ernaast kan klikken;
+DetailedFileTransferDialog; Toon het dialoogvenster voor bestandsoverdracht in de gedetailleerde modus;
+CompactFileTransferDialog; Toon het dialoogvenster voor bestandsoverdracht in de compacte modus;
+ExpandedFileExplorerRibbon; Vouw het lint van de Verkenner uit;
+MinimizedFileExplorerRibbon; Minimaliseer het lint van de Verkenner;
+EnableRecycleBinDeleteConfirmation; Geef het bevestigingsvenster voor het verwijderen van de prullenbakbestanden weer;
+DisableRecycleBinDeleteConfirmation; Geef de bevestigingsdialoog van de prullenbakbestanden niet weer;
+Hide3DObjects; Verberg de map "3D-objecten" in "Deze pc" en Snelle toegang;
+Show3DObjects; Toon de map "3D-objecten" in "Deze pc" en Snelle toegang;
+HideQuickAccessRecentFiles; Verberg veelgebruikte mappen in Snelle toegang;
+ShowQuickAccessRecentFiles; Toon veelgebruikte mappen in Snelle toegang;
+HideTaskViewButton; Verberg de knop Taakweergave op de taakbalk;
+ShowTaskViewButton; Toon de knop Taakweergave op de taakbalk;
+HidePeopleTaskbar; Verberg mensen knop op de taakbalk;
+ShowPeopleTaskbar; Toon mensen knop op de taakbalk;
+ShowSecondsInSystemClock; Toon seconden op de taakbalkklok;
+HideSecondsInSystemClock; Verberg seconden op de taakbalkklok;
+HideWindowsInkWorkspace; Verberg de Windows Ink Workspace-knop op de taakbalk;
+ShowWindowsInkWorkspace; Toon de Windows Ink Workspace-knop op de taakbalk;
+HideMeetNow; Verberg het pictogram Nu vergaderen in het systeemvak;
+ShowMeetNow; Toon het pictogram Nu vergaderen in het systeemvak;
+DisableNewsInterests; Schakel "Nieuws en interesses" op de taakbalk uit;
+EnableNewsInterests; Schakel "Nieuws en interesses" in op de taakbalk;
+DarkWindowsColorMode; Stel de standaard Windows-modus in op donker;
+LightWindowsColorMode; Stel de standaard Windows-modus in op licht;
+DarkAppColorMode; Stel de standaard app-modus in op donker;
+LightAppColorMode; Stel de standaard app-modus in op licht;
+HideNewAppInstalledNotification; Verberg de indicator "Nieuwe app geïnstalleerd";
+ShowNewAppInstalledNotification; Toon de indicator "Nieuwe app geïnstalleerd";
+DisableFirstLogonAnimation; Schakel de eerste aanmeldingsanimatie uit na de upgrade;
+EnableFirstLogonAnimation; Animatie voor eerste aanmelding inschakelen na de upgrade;
+MaxJPEGWallpapersQuality; Stel de kwaliteitsfactor van de JPEG-bureaubladachtergronden in op maximaal;
+DefaultJPEGWallpapersQuality; Stel de kwaliteitsfactor van de JPEG-bureaubladachtergronden in op standaard;
+ExpandedTaskManagerWindow; Start Taakbeheer in de uitgebreide modus;
+CompactTaskManagerWindow; Start Taakbeheer in de compacte modus;
+ShowRestartNotification; Laat het me weten als een herstart nodig is om de update te voltooien;
+HideRestartNotification; Laat me niet weten wanneer een herstart nodig is om de update te voltooien;
+DisableShortcutsSuffix; Voeg het achtervoegsel "- Shortcut" niet toe aan de bestandsnaam van gemaakte snelkoppelingen;
+EnableShortcutsSuffix; Voeg het achtervoegsel "- Shortcut" toe aan de bestandsnaam van gemaakte snelkoppelingen;
+EnablePrtScnSnippingTool; Gebruik de knop Print screen om het knippen van het scherm te openen;
+DisablePrtScnSnippingTool; Gebruik de knop Print screen niet om het knippen van het scherm te openen;
+DisableAppsLanguageSwitch; Gebruik niet voor elk app-venster een andere invoermethode;
+EnableAppsLanguageSwitch; Laat me voor elk app-venster een andere invoermethode gebruiken;
+DisableAeroShaking; Als ik de titelbalk van een venster pak en ermee schud, minimaliseer dan niet alle andere vensters;
+EnableAeroShaking; Als ik de titelbalk van een venster pak en ermee schud, minimaliseer dan alle andere vensters
+
+<#onedrive#>
+
+UninstallOneDrive; Verwijder OneDrive;
+InstallOneDrive; Installeer OneDrive
+
+<#system#>
+
+EnableStorageSense; Schakel Opslaggevoel in;
+DisableStorageSense; Schakel Storage Sense uit;
+EnableStorageSenseTempFiles; Schakel automatisch opschonen van tijdelijke systeem- en app-bestanden in;
+DisableStorageSenseTempFiles; Schakel het automatisch opschonen van tijdelijke systeem- en app-bestanden uit;
+MonthStorageSenseFrequency; Voer elke maand Storage Sense uit;
+DefaultStorageSenseFrequency; Voer Storage Sense uit tijdens weinig vrije schijfruimte;
+DisableHibernation; Slaapstand uitschakelen;
+EnableHibernation; Slaapstand inschakelen;
+DisableWin32LongPathLimit; Schakel de padlimiet van Windows 260 uit;
+EnableWin32LongPathLimit; Schakel de tekenpadlimiet van Windows 260 in;
+EnableBSoDStopError; Geef de Stop-foutinformatie weer op de BSoD;
+DisableBSoDStopError; Geef de Stop-foutinformatie niet weer op de BSoD;
+NeverAdminApprovalMode; Geef nooit een melding wanneer apps proberen wijzigingen aan te brengen op mijn computer;
+DefaultAdminApprovalMode; Waarschuw me alleen wanneer apps proberen wijzigingen aan te brengen op mijn computer;
+EnableMappedDrivesAppElevatedAccess; Schakel toegang tot toegewezen schijven in vanuit een app die wordt uitgevoerd met verhoogde machtigingen met de goedkeuringsmodus door de beheerder ingeschakeld;
+DisableMappedDrivesAppElevatedAccess; Schakel de toegang tot toegewezen schijven uit vanuit een app die wordt uitgevoerd met verhoogde machtigingen met de goedkeuringsmodus door de beheerder ingeschakeld;
+DisableDeliveryOptimization; Leveringsoptimalisatie uitschakelen;
+EnableDeliveryOptimization; Schakel Leveringsoptimalisatie in;
+EnableWaitNetworkStartup; Wacht altijd op het netwerk bij het opstarten van de computer en log in op werkgroepnetwerken;
+DisableWaitNetworkStartup; Wacht nooit op het netwerk bij het opstarten van de computer en log in voor werkgroepnetwerken;
+DisableWindowsManageDefaultPrinter; Laat Windows mijn standaardprinter niet beheren;
+EnableWindowsManageDefaultPrinter; Laat Windows mijn standaardprinter beheren;
+EnableUpdateMicrosoftProducts; Ontvang updates voor andere Microsoft-producten;
+DisableUpdateMicrosoftProducts; Ontvang geen updates voor andere Microsoft-producten;
+HighPowerPlan; Zet energieplan op "Hoge prestaties";
+BalancedPowerPlan; Zet energieplan op "Gebalanceerd";
+EnableLatestInstalledNET; Gebruik de laatst geïnstalleerde .NET-runtime voor alle apps;
+DisableLatestInstalledNET; Gebruik niet voor alle apps de laatst geïnstalleerde .NET-runtime;
+DisableNetworkAdaptersSavePower; Laat de computer de netwerkadapters niet uitschakelen om stroom te besparen;
+EnableNetworkAdaptersSavePower; Laat de computer de netwerkadapters uitschakelen om energie te besparen;
+EnglishInputMethod; Overschrijven voor standaard invoermethode: Engels;
+DefaultInputMethod; Overschrijven voor standaard invoermethode: gebruik taallijst;
+DesktopWinPrtScrFolder; Sla schermafbeeldingen op door op Win+PrtScr op het bureaublad te drukken;
+DefaultWinPrtScrFolder; Sla schermafbeeldingen op door op Win+PrtScr te drukken in de map Afbeeldingen;
+AutomaticallyRecommendedTroubleshooting; Voer de probleemoplosser automatisch uit en laat het me weten;
+DefaultRecommendedTroubleshooting; Vraag me voordat u de probleemoplosser uitvoert;
+EnableFoldersLaunchSeparateProcess; Start mapvensters in een apart proces;
+DisableFoldersLaunchSeparateProcess; Start geen mapvensters in een apart proces;
+DisableReservedStorage; Schakel gereserveerde opslag uit en verwijder deze na de volgende update-installatie;
+EnableReservedStorage; Schakel gereserveerde opslag in na de volgende update-installatie;
+DisableF1HelpPage; Schakel hulp zoeken via F1 uit;
+EnableF1HelpPage; Hulp zoeken inschakelen via F1;
+EnableNumLock; Num Lock inschakelen bij opstarten;
+DisableNumLock; Schakel Num Lock uit bij het opstarten;
+DisableCapsLock; Caps Lock uitschakelen;
+EnableCapsLock; Caps Lock aanzetten;
+DisableStickyShift; Schakel uit door 5 keer op de Shift-toets te drukken om plaktoetsen te draaien;
+EnableStickyShift; Schakel in door 5 keer op de Shift-toets te drukken om plaktoetsen te draaien;
+DisableAutoplay; Gebruik AutoPlay niet voor alle media en apparaten;
+EnableAutoplay; Gebruik AutoPlay voor alle media en apparaten;
+DisableThumbnailCacheRemoval; Schakel het verwijderen van miniatuurcache uit;
+EnableThumbnailCacheRemoval; Schakel het verwijderen van miniatuurcache in;
+EnableSaveRestartableApps; Mijn herstartbare apps automatisch opslaan en opnieuw opstarten wanneer ik me weer aanmeld;
+DisableSaveRestartableApps; Schakel het automatisch opslaan van mijn herstartbare apps uit en herstart ze wanneer ik me weer aanmeld;
+EnableNetworkDiscovery; Schakel "Netwerkdetectie" en "Bestands- en printerdeling" in voor werkgroepnetwerken;
+DisableNetworkDiscovery; Schakel "Netwerkdetectie" en "Bestands- en printerdeling" uit voor werkgroepnetwerken;
+AutomaticallyActiveHours; Pas actieve uren automatisch voor mij aan op basis van dagelijks gebruik;
+ManuallyActiveHours; Pas actieve uren handmatig voor mij aan op basis van dagelijks gebruik;
+EnableDeviceRestartAfterUpdate; Start zo snel mogelijk opnieuw op om het updaten te voltooien;
+DisableDeviceRestartAfterUpdate; Start niet zo snel mogelijk opnieuw op om de update te voltooien
+
+<#startmenu#>
+
+HideRecentlyAddedApps; Verberg recent toegevoegde apps in het menu Start;
+ShowRecentlyAddedApps; Laat recent toegevoegde apps zien in het menu Start;
+HideAppSuggestions; Verberg app-suggesties in het menu Start;
+ShowAppSuggestions; App-suggesties weergeven in het menu Start;
+ElevatedRunPowerShellShortcut; Voer de Windows PowerShell-snelkoppeling uit vanuit het menu Start als beheerder;
+NonElevatedRunPowerShellShortcut; Voer de Windows PowerShell-snelkoppeling uit vanuit het menu Start als gebruiker
+
+<#uwpapps#>
+
+DisableCortanaAutostart; Schakel automatisch starten van Cortana uit;
+EnableCortanaAutostart; Automatisch starten van Cortana inschakelen;
+DisableBackgroundUWPApps; Laat UWP-apps niet op de achtergrond draaien;
+EnableBackgroundUWPApps; Laat alle UWP-apps op de achtergrond draaien
+
+<#gaming#>
+
+DisableXboxGameBar; Schakel de Xbox-gamebalk uit;
+EnableXboxGameBar; Xbox-gamebalk inschakelen;
+DisableXboxGameTips; Schakel Xbox Game Bar-tips uit;
+EnableXboxGameTips; Xbox Game Bar-tips inschakelen;
+EnableGPUScheduling; Schakel hardware-versnelde GPU-planning in;
+DisableGPUScheduling; Hardwareversnelde GPU-planning uitschakelen
+
+<#defendersecurity#>
+
+EnableNetworkProtection; Schakel Microsoft Defender Exploit Guard-netwerkbeveiliging in;
+DisableNetworkProtection; Schakel Microsoft Defender Exploit Guard-netwerkbeveiliging uit;
+EnablePUAppsDetection; Schakel detectie in voor mogelijk ongewenste applicaties en blokkeer ze;
+DisablePUAppsDetection; Schakel detectie voor mogelijk ongewenste toepassingen uit en blokkeer ze;
+EnableDefenderSandbox; Sandboxing inschakelen voor Microsoft Defender;
+DisableDefenderSandbox; Schakel sandboxing uit voor Microsoft Defender;
+EnableAuditProcess; Gebeurteniscontrole inschakelen die wordt gegenereerd wanneer een proces wordt gemaakt (start);
+DisableAuditProcess; Gebeurteniscontrole uitschakelen die wordt gegenereerd wanneer een proces wordt gemaakt (start);
+EnableCommandLineProcessAudit; Opdrachtregel opnemen in gebeurtenissen voor het maken van processen;
+DisableCommandLineProcessAudit; Neem geen opdrachtregel op in gebeurtenissen voor het maken van processen;
+EnableEventViewerCustomView; Maak de "Process Creation" Event Viewer ??aangepaste weergave om de uitgevoerde processen en hun argumenten te loggen;
+DisableEventViewerCustomView; Verwijder de aangepaste weergave "Procescreatie" Event Viewer;
+EnablePowerShellModulesLogging; Logboekregistratie inschakelen voor alle Windows PowerShell-modules;
+DisablePowerShellModulesLogging; Logboekregistratie uitschakelen voor alle Windows PowerShell-modules;
+EnablePowerShellScriptsLogging; Logboekregistratie inschakelen voor alle PowerShell-scripts die worden ingevoerd in het Windows PowerShell-gebeurtenislogboek;
+DisablePowerShellScriptsLogging; Logboekregistratie uitschakelen voor alle PowerShell-scripts die worden ingevoerd in het Windows PowerShell-gebeurtenislogboek;
+DisableAppsSmartScreen; Schakel het controleren van apps en bestanden uit in Microsoft Defender SmartScreen;
+EnableAppsSmartScreen; Schakel het controleren van apps en bestanden in Microsoft Defender SmartScreen in;
+DisableSaveZoneInformation; Microsoft Defender SmartScreen markeert gedownloade bestanden van internet niet als onveilig;
+EnableSaveZoneInformation; Microsoft Defender SmartScreen markeert gedownloade bestanden van internet als onveilig;
+DisableWindowsScriptHost; Schakel Windows Script Host uit;
+EnableWindowsScriptHost; Windows Script-host inschakelen;
+DisableWindowsSandbox; Schakel Windows Sandbox uit;
+EnableWindowsSandbox; Windows Sandbox inschakelen
+
+<#contextmenu#>
+
+ShowMSIExtractContext; Toon het item "Alles uitpakken" in het contextmenu van Windows Installer (.msi);
+HideMSIExtractContext; Verberg het item "Alles uitpakken" in het contextmenu van Windows Installer (.msi);
+ShowCABInstallContext; Toon het item "Installeren" in het contextmenu voor bestandsnamenextensies van Cabinet (.cab);
+HideCABInstallContext; Verberg het item "Installeren" in het contextmenu voor bestandsnamenextensies van Cabinet (.cab);
+ShowRunAsDifferentUserContext; Toon het item "Uitvoeren als andere gebruiker" in het contextmenu van de .exe-bestandsnaamextensies;
+HideRunAsDifferentUserContext; Verberg het item "Uitvoeren als andere gebruiker" in het contextmenu van de .exe-bestandsnaamextensies;
+HideCastToDeviceContext; Verberg het item "Cast naar apparaat" in het contextmenu van mediabestanden en mappen;
+ShowCastToDeviceContext; Toon het item "Cast to Device" in het contextmenu van mediabestanden en mappen;
+HideShareContext; Verberg het item "Delen" in het contextmenu;
+ShowShareContext; Toon het item "Delen" in het contextmenu;
+HideEditWithPaint3DContext; Verberg het item "Bewerken met Paint 3D" in het contextmenu van mediabestanden;
+ShowEditWithPaint3DContext; Toon het item "Bewerken met Paint 3D" in het contextmenu van mediabestanden;
+HideEditWithPhotosContext; Verberg het item "Bewerken met foto's" in het contextmenu van mediabestanden;
+ShowEditWithPhotosContext; Toon het item "Bewerken met foto's" in het contextmenu van mediabestanden;
+HideCreateANewVideoContext; Verberg het item "Een nieuwe video maken" in het contextmenu van mediabestanden;
+ShowCreateANewVideoContext; Toon het item "Een nieuwe video maken" in het contextmenu van mediabestanden;
+HideImagesEditContext; Verberg het item "Een nieuwe video maken" in het contextmenu van mediabestanden;
+ShowImagesEditContext; Toon het item "Een nieuwe video maken" in het contextmenu van mediabestanden;
+HidePrintCMDContext; Verberg het item "Afdrukken" in het contextmenu .bat en .cmd;
+ShowPrintCMDContext; Toon het item "Afdrukken" in het .bat- en .cmd-contextmenu;
+HideIncludeInLibraryContext; Verberg het item "Opnemen in bibliotheek" in het contextmenu van mappen en stations;
+ShowIncludeInLibraryContext; Toon het item "Opnemen in bibliotheek" in het contextmenu van mappen en stations;
+HideSendToContext; Verberg het item "Verzenden naar" in het contextmenu van de mappen;
+ShowSendToContext; Toon het item "Verzenden naar" in het contextmenu van mappen;
+HideBitLockerContext; Verberg het item "BitLocker inschakelen" in het contextmenu van de schijven;
+ShowBitLockerContext; Toon het item "BitLocker inschakelen" in het contextmenu van de schijven;
+HideBitmapImageNewContext; Verberg het item "Bitmapafbeelding" in het contextmenu "Nieuw";
+ShowBitmapImageNewContext; Toon het item "Bitmapafbeelding" in het contextmenu "Nieuw";
+HideRichTextDocumentNewContext; Verberg het item "Rich Text Document" in het contextmenu "Nieuw";
+ShowRichTextDocumentNewContext; Toon het item "Rich Text Document" in het contextmenu "Nieuw";
+HideCompressedFolderNewContext; Verberg het item "Gecomprimeerde (gezipte) map" in het contextmenu "Nieuw";
+ShowCompressedFolderNewContext; Toon het item "Gecomprimeerde (gezipte) map" in het contextmenu "Nieuw";
+EnableMultipleInvokeContext; Schakel de items "Openen", "Afdrukken" en "Bewerken" in als er meer dan 15 bestanden zijn geselecteerd;
+DisableMultipleInvokeContext; Schakel de items "Openen", "Afdrukken" en "Bewerken" uit als er meer dan 15 bestanden zijn geselecteerd;
+HideUseStoreOpenWith; Verberg het item "Zoek naar een app in de Microsoft Store" in het dialoogvenster "Openen met";
+ShowUseStoreOpenWith; Toon het item "Zoek naar een app in de Microsoft Store" in het dialoogvenster "Openen met"
+
+<#other#>
+
+HideTaskbarSearch; Verberg de zoekopdracht op de taakbalk;
+SearchIconTaskbarSearch; Toon het zoekpictogram op de taakbalk;
+SearchBoxTaskbarSearch; Toon het zoekvak op de taakbalk;
+AlwaysCombineHideLabelsTaskbar; Taakbalk Altijd combineren, labels verbergen;
+CombineWhenFullTaskbar; Taakbalk Combineren wanneer taakbalk vol is;
+NeverCombineTaskbar; Taakbalk Combineer nooit;
+CategoryControlPanelView; Bekijk de pictogrammen van het Configuratiescherm per categorie;
+LargeIconsControlPanelView; Bekijk de pictogrammen van het Configuratiescherm met grote pictogrammen;
+SmallIconsControlPanelView; Bekijk de pictogrammen van het Configuratiescherm met kleine pictogrammen
+
+<#end#>

@@ -1,0 +1,143 @@
+<#third#>
+	"Install7Zip",
+	"InstallIrfanview", 
+	"InstallNotepadplusplus", 
+	"InstallVLCMediaPlayer"
+
+<#windowsapps#>
+
+<#privacytelemetry#>
+	"DisableDiagTrackService",
+	"MinimalDiagnosticDataLevel",
+	"DisableErrorReporting",
+	"NeverFeedbackFrequency",
+	"DisableSigninInfo",
+	"DisableLanguageListAccess",
+	"DisableAdvertisingID",
+	"HideWindowsWelcomeExperience",
+	"DisableWindowsTips",
+	"HideSettingsSuggestedContent",
+	"DisableAppsSilentInstalling",
+	"DisableWhatsNewInWindows",
+	"DisableBingSearch"
+
+<#uiperson#>
+	"ShowThisPC",
+	"DisableCheckBoxes",
+	"EnableHiddenItems",
+	"ShowFileExtensions",
+	"ShowMergeConflicts",
+	"ThisPCOpenFileExplorerTo",
+	"HideCortanaButton",
+	"HideOneDriveFileExplorerAd",
+	"DisableSnapAssist",
+	"DetailedFileTransferDialog",
+	"ExpandedFileExplorerRibbon",
+	"EnableRecycleBinDeleteConfirmation",
+	"Hide3DObjects",
+	"HideQuickAccessRecentFiles",
+	"HideTaskViewButton",
+	"HidePeopleTaskbar",
+	"ShowSecondsInSystemClock",
+	"HideWindowsInkWorkspace",
+	"HideMeetNow",
+	"DisableNewsInterests",
+	"DarkWindowsColorMode",
+	"DarkAppColorMode",
+	"HideNewAppInstalledNotification",
+	"DisableFirstLogonAnimation",
+	"MaxJPEGWallpapersQuality",
+	"ExpandedTaskManagerWindow",
+	"ShowRestartNotification",
+	"DisableShortcutsSuffix",
+	"EnablePrtScnSnippingTool",
+	"DisableAppsLanguageSwitch",
+	"EnableAeroShaking"
+
+<#onedrive#>
+	"UninstallOneDrive"
+
+<#system#>
+	"EnableStorageSense",
+	"EnableStorageSenseTempFiles",
+	"MonthStorageSenseFrequency",
+	"DisableHibernation",
+	"DisableWin32LongPathLimit",
+	"EnableBSoDStopError",
+	"NeverAdminApprovalMode",
+	"EnableMappedDrivesAppElevatedAccess",
+	"DisableDeliveryOptimization",
+	"EnableWaitNetworkStartup",
+	"DisableWindowsManageDefaultPrinter",
+	"EnableUpdateMicrosoftProducts",
+	"HighPowerPlan",
+	"EnableLatestInstalledNET",
+	"DisableNetworkAdaptersSavePower",
+	"EnglishInputMethod",
+	"DesktopWinPrtScrFolder",
+	"AutomaticallyRecommendedTroubleshooting",
+	"EnableFoldersLaunchSeparateProcess",
+	"DisableReservedStorage",
+	"DisableF1HelpPage",
+	"EnableNumLock",
+	"DisableStickyShift",
+	"DisableAutoplay",
+	"DisableThumbnailCacheRemoval",
+	"EnableSaveRestartableApps",
+	"EnableNetworkDiscovery",
+	"AutomaticallyActiveHours",
+	"EnableDeviceRestartAfterUpdate"
+
+<#startmenu#>
+	"HideRecentlyAddedApps",
+	"HideAppSuggestions",
+	"ElevatedRunPowerShellShortcut"
+
+<#uwpapps#>
+	"DisableCortanaAutostart",
+	"DisableBackgroundUWPApps"
+
+<#gaming#>
+	"DisableXboxGameBar",
+	"DisableXboxGameTips",
+	"EnableGPUScheduling"
+
+<#defendersecurity#>
+	"EnableNetworkProtection",
+	"EnablePUAppsDetection",
+	"EnableDefenderSandbox",
+	"EnableAuditProcess",
+	"EnableCommandLineProcessAudit",
+	"EnableEventViewerCustomView",
+	"EnablePowerShellModulesLogging",
+	"EnablePowerShellScriptsLogging",
+	"DisableAppsSmartScreen",
+	"DisableSaveZoneInformation",
+	"DisableWindowsScriptHost",
+	"DisableWindowsSandbox"
+
+<#contextmenu#>
+	"ShowMSIExtractContext",
+	"ShowCABInstallContext",
+	"ShowRunAsDifferentUserContext",
+	"HideCastToDeviceContext",
+	"HideShareContext",
+	"HideEditWithPhotosContext",
+	"HideCreateANewVideoContext",
+	"HideImagesEditContext",
+	"HidePrintCMDContext",
+	"HideIncludeInLibraryContext",
+	"HideSendToContext",
+	"HideBitLockerContext",
+	"HideBitmapImageNewContext",
+	"HideRichTextDocumentNewContext",
+	"HideCompressedFolderNewContext",
+	"EnableMultipleInvokeContext",
+	"HideUseStoreOpenWith"
+	
+<#other#>
+	"HideTaskbarSearch",
+	"NeverCombineTaskbar",
+	"LargeIconsControlPanelView"
+
+<#end#>
