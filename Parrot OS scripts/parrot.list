@@ -1,0 +1,27 @@
+## stable repository
+deb https://deb.parrot.sh/parrot rolling main contrib non-free
+deb https://deb.parrot.sh/parrot rolling-security main contrib non-free
+#deb-src https://deb.parrot.sh/parrot rolling main contrib non-free
+#deb-src https://deb.parrot.sh/parrot rolling-security main contrib non-free
+deb https://ftp.halifax.rwth-aachen.de/parrotsec/ rolling main contrib non-free
+
+#ubuntu 20.04 default repos
+
+deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+
+deb http://archive.canonical.com/ubuntu focal partner
+deb-src http://archive.canonical.com/ubuntu focal partner
+
+#kali repos
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
